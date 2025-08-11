@@ -1,0 +1,318 @@
+name: Aplicar actualización pro de Diario IA
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Escribir feeds.yml (tus fuentes curadas)
+        run: |
+          cat > feeds.yml <<'YAML'
+          feeds:
+            # --- 1) Oficiales / técnicas ---
+            - https://rss.arxiv.org/rss/cs.AI
+            - https://rss.arxiv.org/rss/cs.LG
+            - https://huggingface.co/blog/feed.xml
+            - https://deepmind.com/blog/feed/basic
+            - https://openai.com/feed.xml?format=xml
+            - https://www.microsoft.com/en-us/research/feed/
+            - https://engineering.fb.com/feed/
+            # --- 2) Medios / portales ---
+            - http://feeds.venturebeat.com/VentureBeat
+            - https://www.aitrends.com/feed/
+            - https://syncedreview.com/feed/
+            - https://www.technologyreview.com/feed/
+            # --- 3) Newsletters ---
+            - https://importai.substack.com/feed
+            - https://www.latent.space/feed
+            - https://bensbites.substack.com/feed
+            - https://newsletter.towardsai.net/feed
+            # --- 4) Comunidades / foros ---
+            - https://www.reddit.com/r/MachineLearning/.rss
+            - https://www.reddit.com/r/artificial/.rss
+            - https://stackoverflow.com/feeds/tag?tagnames=ai&sort=newest
+          YAML
+
+      - name: Asegurar requirements.txt
+        run: |
+          cat > requirements.txt <<'REQ'
+          feedparser==6.0.11
+          beautifulsoup4==4.12.3
+          requests==2.32.3
+          lxml==5.2.2
+          sumy==0.11.0
+          PyYAML==6.0.2
+          REQ
+
+      - name: Actualizar build.py (ranking, filtro temático, dedupe, secciones)
+        run: |
+          cat > build.py <<'PY'
+          import feedparser, requests, re, os, datetime, time, json, yaml, difflib
+          from bs4 import BeautifulSoup
+          from sumy.summarizers.text_rank import TextRankSummarizer
+          from sumy.nlp.tokenizers import Tokenizer
+          from sumy.parsers.plaintext import PlaintextParser
+          from sumy.utils import get_stop_words
+          from urllib.parse import urlparse
+
+          DATA_DIR = "docs/data"
+          ARCHIVE_DIR = os.path.join(DATA_DIR, "archive")
+
+          # Palabras clave (ES/EN) para filtrar solo IA
+          TOPIC_PATTERNS = [
+              r"\b(ai|ia)\b", r"inteligencia\s+artificial", r"aprendizaje\s+autom[aá]tico",
+              r"machine\s+learning", r"deep\s+learning", r"\bllm(s)?\b", r"transformer(s)?",
+              r"\b(gpt|llama|claude|gemini|mistral|mixtral|stability)\b",
+              r"modelo(s)?\s+de\s+lenguaje", r"red(es)?\s+neuronal(es)?",
+              r"benchmark|evals?|weights?|open[-\s]?weight|open[-\s]?source|dataset"
+          ]
+          TOPIC_RE = re.compile("|".join(TOPIC_PATTERNS), re.IGNORECASE)
+
+          TRUSTED_SOURCES = {
+              "openai.com","deepmind.com","googleblog.com","ai.googleblog.com",
+              "microsoft.com","engineering.fb.com","arxiv.org","huggingface.co",
+              "anthropic.com","technologyreview.com"
+          }
+
+          CATS = {
+            "Portada": [],
+            "Modelos": ["gpt","llama","claude","mistral","mixtral","gemini","opus","sonnet","weights","open-weight"],
+            "Herramientas": ["plugin","sdk","github","copilot","vscode","framework","tool","herramienta","repo","open-source","library","api"],
+            "Regulación": ["ai act","regul","privacidad","normativa","ley","policy","europea","comisión","gdpr","copyright"],
+            "Investigación": ["arxiv","paper","benchmark","sota","state-of-the-art","dataset","neurips","icml","iclr","nature","science"],
+            "Seguridad": ["seguridad","ataque","prompt injection","jailbreak","deepfake","captcha","bot","riesgo","safety","alignment"],
+            "Hardware": ["nvidia","amd","intel","h100","gh200","chip","asic","gpu","tpu","inferentia","grace","licencia","export"],
+            "Mercado": ["startup","financiación","investment","adquisición","merge","ipo","negocio"]
+          }
+
+          SOURCE_WEIGHT = {
+            "openai.com": 1.4, "anthropic.com": 1.3, "deepmind.com": 1.2, "ai.googleblog.com": 1.2, "googleblog.com": 1.2,
+            "arstechnica.com": 1.15, "technologyreview.com": 1.15, "theverge.com": 1.05,
+            "xataka.com": 1.05, "cincodias.elpais.com": 1.05, "nytimes.com": 1.1, "reuters.com": 1.15,
+            "nature.com": 1.2, "arxiv.org": 1.1, "huggingface.co": 1.15
+          }
+
+          KEYWORD_BOOST = {
+            "gpt-5": 0.6, "gpt5":0.6, "gpt":0.3, "llama":0.4, "claude":0.35, "gemini":0.35,
+            "ai act":0.6, "regulación":0.4, "benchmark":0.25, "sota":0.25,
+            "open-source":0.25, "open weight":0.3, "open-weight":0.3
+          }
+
+          def clean_html(html):
+              soup = BeautifulSoup(html, 'html.parser')
+              for tag in soup(['script','style','noscript']):
+                  tag.decompose()
+              text = soup.get_text(" ")
+              text = re.sub(r'\s+', ' ', text).strip()
+              return text
+
+          def fetch_article_text(url, timeout=12):
+              try:
+                  r = requests.get(url, timeout=timeout, headers={"User-Agent":"Mozilla/5.0"})
+                  r.raise_for_status()
+                  return clean_html(r.text)[:12000]
+              except Exception:
+                  return ""
+
+          def summarize_text(text, sentences=3, language='spanish'):
+              if not text or len(text.split()) < 80:
+                  return ""
+              parser = PlaintextParser.from_string(text, Tokenizer(language))
+              summarizer = TextRankSummarizer()
+              try:
+                  summarizer.stop_words = get_stop_words(language)
+              except Exception:
+                  pass
+              sents = summarizer(parser.document, sentences)
+              return " ".join(str(s) for s in sents)
+
+          def is_ai_related(title, summary, domain):
+              blob = f"{title} {summary}"
+              if TOPIC_RE.search(blob):
+                  return True
+              # Si la fuente es de confianza (blogs oficiales), no filtramos por keywords
+              if domain in TRUSTED_SOURCES:
+                  return True
+              return False
+
+          def categorize(title, summary, source):
+              text = f"{title} {summary}".lower()
+              for cat, keys in CATS.items():
+                  if cat == "Portada":
+                      continue
+                  if any(k in text for k in keys):
+                      return cat
+              if "arxiv" in source or "nature" in source:
+                  return "Investigación"
+              return "Mercado"
+
+          def score_item(item, now):
+              age_days = max(0, (now - item['published_dt']).total_seconds() / 86400.0)
+              recency = max(0.0, 1.0 - min(age_days/7.0, 1.0))
+              sw = SOURCE_WEIGHT.get(item['source'], 1.0)
+              text = f"{item['title']} {item['summary']}".lower()
+              kw = sum(v for k,v in KEYWORD_BOOST.items() if k in text)
+              return recency + (sw-1.0) + kw
+
+          def similar(a,b):
+              a = re.sub(r'[^a-z0-9]+',' ',a.lower()).strip()
+              b = re.sub(r'[^a-z0-9]+',' ',b.lower()).strip()
+              return difflib.SequenceMatcher(None, a, b).ratio()
+
+          def load_feeds(path='feeds.yml'):
+              with open(path,'r',encoding='utf-8') as f:
+                  return yaml.safe_load(f)['feeds']
+
+          def main():
+              os.makedirs(DATA_DIR, exist_ok=True)
+              os.makedirs(ARCHIVE_DIR, exist_ok=True)
+              now = datetime.datetime.utcnow()
+              start = (now - datetime.timedelta(days=7))
+
+              raw = []
+              for feed in load_feeds():
+                  d = feedparser.parse(feed)
+                  for e in d.entries:
+                      link = e.get('link') or ""
+                      title = (e.get('title') or '').strip()
+                      if not link or not title: continue
+                      pub_struct = e.get('published_parsed') or e.get('updated_parsed')
+                      pub_dt = datetime.datetime.fromtimestamp(time.mktime(pub_struct)) if pub_struct else now
+                      if pub_dt < start: continue
+                      summary_html = e.get('summary','') or e.get('description','')
+                      summary_plain = BeautifulSoup(summary_html or "", 'html.parser').get_text(" ").strip()
+                      domain = urlparse(link).netloc.replace('www.','')
+                      # Filtro temático IA
+                      if not is_ai_related(title, summary_plain, domain): 
+                          continue
+                      article_text = fetch_article_text(link)
+                      summa = summarize_text(article_text or summary_plain, sentences=3, language='spanish')
+                      raw.append({
+                          "title": title,
+                          "link": link,
+                          "published": pub_dt.isoformat(),
+                          "published_dt": pub_dt,
+                          "source": domain,
+                          "summary": (summa or summary_plain)[:700]
+                      })
+
+              # dedupe por título similar
+              raw.sort(key=lambda x: x["published_dt"], reverse=True)
+              dedup = []
+              for it in raw:
+                  if any(similar(it['title'], d['title']) > 0.9 for d in dedup):
+                      continue
+                  dedup.append(it)
+
+              # score + categoría
+              for it in dedup:
+                  it["category"] = categorize(it["title"], it["summary"], it["source"])
+                  it["score"] = score_item(it, now)
+
+              # Portada (Top 5)
+              top = sorted(dedup, key=lambda x: x["score"], reverse=True)[:5]
+              for t in top: t["category"] = "Portada"
+
+              # Secciones
+              sections = {k: [] for k in CATS.keys() if k != "Portada"}
+              for it in dedup:
+                  if it in top: continue
+                  sections[it["category"]].append(it)
+              for k in sections:
+                  sections[k] = sorted(sections[k], key=lambda x:x["score"], reverse=True)[:15]
+
+              edition = {
+                  "week": {
+                      "start": start.date().isoformat(),
+                      "end": now.date().isoformat(),
+                      "generated_utc": now.isoformat()
+                  },
+                  "top": [
+                      {k:v for k,v in t.items() if k in ["title","link","published","source","summary","category"]}
+                      for t in top
+                  ],
+                  "sections": {
+                      k: [
+                          {kk:vv for kk,vv in it.items() if kk in ["title","link","published","source","summary","category"]}
+                          for it in items
+                      ] for k,items in sections.items()
+                  }
+              }
+
+              with open(os.path.join(DATA_DIR,"edition.json"),"w",encoding='utf-8') as f:
+                  json.dump(edition, f, ensure_ascii=False, indent=2)
+
+              iso = now.isocalendar()
+              archive_name = f"{iso.year}-W{iso.week:02d}.json"
+              with open(os.path.join(ARCHIVE_DIR, archive_name),"w",encoding='utf-8') as f:
+                  json.dump(edition, f, ensure_ascii=False, indent=2)
+
+              files = sorted([fn for fn in os.listdir(ARCHIVE_DIR) if fn.endswith(".json")], reverse=True)
+              with open(os.path.join(DATA_DIR,"archive_index.json"),"w",encoding='utf-8') as f:
+                  json.dump({"files": files}, f, ensure_ascii=False)
+
+          if __name__ == "__main__":
+              main()
+          PY
+
+      - name: Asegurar estructura /docs
+        run: |
+          mkdir -p docs/data/archive
+          test -f docs/data/edition.json || echo '{"week":{},"top":[],"sections":{}}' > docs/data/edition.json
+          test -f docs/data/archive_index.json || echo '{"files":[]}' > docs/data/archive_index.json
+
+      - name: (Re)escribir workflow semanal build.yml
+        run: |
+          mkdir -p .github/workflows
+          cat > .github/workflows/build.yml <<'YAML'
+          name: build-site
+          on:
+            schedule:
+              - cron: '0 8 * * SUN'   # Domingo 10:00 Madrid aprox. en verano (CEST)
+            workflow_dispatch:
+          jobs:
+            build:
+              runs-on: ubuntu-latest
+              permissions: { contents: write }
+              steps:
+                - uses: actions/checkout@v4
+                - uses: actions/setup-python@v5
+                  with: { python-version: '3.11' }
+                - name: Install deps
+                  run: |
+                    python -m pip install --upgrade pip
+                    pip install -r requirements.txt
+                - name: Build site
+                  run: python build.py
+                - name: Commit & push
+                  run: |
+                    git config user.name "github-actions[bot]"
+                    git config user.email "github-actions[bot]@users.noreply.github.com"
+                    git add feeds.yml build.py requirements.txt docs/data
+                    git commit -m "build: edición semanal auto" || echo "Sin cambios"
+                    git push
+          YAML
+
+      - name: Instalar dependencias y generar edición YA
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python build.py
+
+      - name: Commit & push inicial
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feeds.yml build.py requirements.txt docs/data .github/workflows/build.yml
+          git commit -m "feat: actualización pro + primera edición" || echo "Sin cambios"
+          git push
