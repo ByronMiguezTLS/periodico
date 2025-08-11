@@ -1,0 +1,15 @@
+feeds:
+  # Investigación
+  - https://export.arxiv.org/rss/cs.AI
+  - https://export.arxiv.org/rss/cs.LG
+  # Prensa tech
+  - https://arstechnica.com/tag/artificial-intelligence/feed/
+  - https://www.technologyreview.com/feed/
+  - https://www.theverge.com/rss/index.xml
+  - https://www.cnet.com/tech/services-and-software/rss/
+  # Español
+  - https://cincodias.elpais.com/rss/tecnologia/a/
+  - https://www.xataka.com/tag/inteligencia-artificial/rss2.xml
+  - https://www.eldiario.es/rss/tecnologia/
+  # Agregador
+  - https://news.google.com/rss/search?q=inteligencia%20artificial%20when:7d&hl=es-ES&gl=ES&ceid=ES:es
