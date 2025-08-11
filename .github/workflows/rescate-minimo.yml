@@ -1,0 +1,228 @@
+name: Rescate mínimo (sin NLTK/Sumy) + Build
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ia-weekly-build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+
+      # Requisitos mínimos y seguros (nada de nltk/sumy/numpy)
+      - name: Ensure minimal requirements
+        run: |
+          cat > requirements.txt <<'REQ'
+          feedparser==6.0.11
+          beautifulsoup4==4.12.3
+          requests==2.32.3
+          lxml==5.2.2
+          PyYAML==6.0.2
+          REQ
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # build.py SIN sumy/nltk: resumen propio ligero
+      - name: Write lightweight build.py
+        run: |
+          cat > build.py <<'PY'
+          import feedparser, requests, re, os, datetime, time, json, yaml, difflib
+          from bs4 import BeautifulSoup
+          from urllib.parse import urlparse
+
+          DATA_DIR = "docs/data"
+          ARCHIVE_DIR = os.path.join(DATA_DIR, "archive")
+
+          KEYWORDS = [
+            "gpt","llama","claude","gemini","mistral","mixtral",
+            "modelo de lenguaje","large language model","llm","benchmark","eval","weights","open-weight",
+            "state of the art","sota","dataset","paper","arxiv","release","agents","tool","framework"
+          ]
+
+          SOURCE_WEIGHT = {
+            "openai.com": 1.4, "deepmind.com":1.2, "ai.googleblog.com":1.2, "googleblog.com":1.2,
+            "huggingface.co":1.15, "arxiv.org":1.1, "technologyreview.com":1.15,
+            "reuters.com":1.15, "arstechnica.com":1.1
+          }
+
+          CATS = {
+            "Portada": [],
+            "Modelos": ["gpt","llama","claude","gemini","mistral","mixtral","weights","open-weight"],
+            "Herramientas": ["sdk","github","copilot","vscode","framework","tool","herramienta","repo","library","api"],
+            "Regulación": ["ai act","regul","privacidad","normativa","ley","policy","europea","comisión","gdpr","copyright"],
+            "Investigación": ["arxiv","paper","benchmark","sota","state-of-the-art","dataset","neurips","icml","iclr","nature","science"],
+            "Seguridad": ["seguridad","ataque","prompt injection","jailbreak","deepfake","captcha","bot","riesgo","safety","alignment"],
+            "Hardware": ["nvidia","amd","intel","h100","gh200","chip","asic","gpu","tpu","inferentia","grace","licencia","export"],
+            "Mercado": ["startup","financiación","investment","adquisición","merge","ipo","negocio"]
+          }
+
+          def clean_html(html):
+              soup = BeautifulSoup(html, 'html.parser')
+              for tag in soup(['script','style','noscript']): tag.decompose()
+              text = soup.get_text(" ")
+              return re.sub(r"\s+"," ",text).strip()
+
+          def fetch(url, timeout=12):
+              try:
+                  r = requests.get(url, timeout=timeout, headers={"User-Agent":"Mozilla/5.0"})
+                  r.raise_for_status()
+                  return r.text
+              except Exception:
+                  return ""
+
+          def naive_summary(text, max_sent=3):
+              # corte por frases sencillo (ES/EN)
+              sents = re.split(r'(?<=[\.!\?])\s+', text)
+              # puntúa por presencia de keywords y por posición
+              scored = []
+              for i,s in enumerate(sents):
+                  if not s or len(s)<40: 
+                      continue
+                  score = 0.0
+                  low = s.lower()
+                  for k in KEYWORDS:
+                      if k in low: score += 1.0
+                  # primeras frases valen más; longitud "media" también
+                  score += max(0.0, 1.5 - i*0.1)
+                  score += 0.5 if 60 <= len(s) <= 240 else 0.0
+                  scored.append((score, s))
+              scored.sort(key=lambda x: x[0], reverse=True)
+              return " ".join([s for _,s in scored[:max_sent]]) or " ".join(sents[:max_sent])[:600]
+
+          def categorize(title, summary, source):
+              t = (title+" "+summary).lower()
+              for cat, keys in CATS.items():
+                  if cat=="Portada": continue
+                  if any(k in t for k in keys): return cat
+              if "arxiv" in source or "nature" in source: return "Investigación"
+              return "Mercado"
+
+          def similar(a,b):
+              a = re.sub(r'[^a-z0-9]+',' ',a.lower()).strip()
+              b = re.sub(r'[^a-z0-9]+',' ',b.lower()).strip()
+              return difflib.SequenceMatcher(None, a, b).ratio()
+
+          def score_item(it, now):
+              age_days = max(0, (now - it['published_dt']).total_seconds()/86400.0)
+              recency = max(0.0, 1.0 - min(age_days/7.0, 1.0))
+              sw = SOURCE_WEIGHT.get(it['source'], 1.0)
+              kw = sum(0.2 for k in KEYWORDS if k in (it['title']+" "+it['summary']).lower())
+              return recency + (sw-1.0) + kw
+
+          def load_feeds(path='feeds.yml'):
+              with open(path,'r',encoding='utf-8') as f:
+                  ys = yaml.safe_load(f)
+                  # aceptar formato lista o dict
+                  if isinstance(ys, dict) and 'feeds' in ys: return ys['feeds']
+                  if isinstance(ys, list): return ys
+                  return []
+
+          def main():
+              os.makedirs(DATA_DIR, exist_ok=True)
+              os.makedirs(ARCHIVE_DIR, exist_ok=True)
+              now = datetime.datetime.utcnow()
+              week_ago = now - datetime.timedelta(days=7)
+
+              items = []
+              for url in load_feeds():
+                  d = feedparser.parse(url)
+                  for e in d.entries:
+                      link = e.get('link') or ""
+                      title = (e.get('title') or "").strip()
+                      if not link or not title: 
+                          continue
+                      ts = e.get('published_parsed') or e.get('updated_parsed')
+                      pub = datetime.datetime.fromtimestamp(time.mktime(ts)) if ts else now
+                      if pub < week_ago: 
+                          continue
+                      summary_html = e.get('summary','') or e.get('description','')
+                      summary_plain = BeautifulSoup(summary_html or "", "html.parser").get_text(" ").strip()
+                      domain = urlparse(link).netloc.replace("www.","")
+                      # texto del artículo para resumen mejor
+                      html = fetch(link)
+                      text = clean_html(html) if html else summary_plain
+                      summary = naive_summary(text or summary_plain, max_sent=3)
+                      items.append({
+                          "title": title,
+                          "link": link,
+                          "published": pub.isoformat(),
+                          "published_dt": pub,
+                          "source": domain,
+                          "summary": summary[:700]
+                      })
+
+              # dedupe por título
+              items.sort(key=lambda x:x["published_dt"], reverse=True)
+              dedup=[]
+              for it in items:
+                  if any(similar(it['title'],d['title'])>0.9 for d in dedup): 
+                      continue
+                  dedup.append(it)
+
+              # puntuar y categorizar
+              for it in dedup:
+                  it["category"] = categorize(it["title"], it["summary"], it["source"])
+                  it["score"] = score_item(it, now)
+
+              top = sorted(dedup, key=lambda x:x["score"], reverse=True)[:5]
+              for t in top: t["category"]="Portada"
+
+              sections = {k:[] for k in CATS if k!="Portada"}
+              for it in dedup:
+                  if it in top: continue
+                  sections[it["category"]].append(it)
+              for k in sections:
+                  sections[k] = sorted(sections[k], key=lambda x:x["score"], reverse=True)[:15]
+
+              edition = {
+                "week":{"start":(week_ago.date().isoformat()),"end":now.date().isoformat(),"generated_utc":now.isoformat()},
+                "top":[{k:v for k,v in t.items() if k in ["title","link","published","source","summary","category"]} for t in top],
+                "sections":{ k:[{kk:vv for kk,vv in it.items() if kk in ["title","link","published","source","summary","category"]} for it in v] for k,v in sections.items()}
+              }
+
+              with open(os.path.join(DATA_DIR,"edition.json"),"w",encoding="utf-8") as f:
+                  json.dump(edition,f,ensure_ascii=False,indent=2)
+
+              iso = now.isocalendar()
+              arc = f"{iso.year}-W{iso.week:02d}.json"
+              with open(os.path.join(ARCHIVE_DIR,arc),"w",encoding="utf-8") as f:
+                  json.dump(edition,f,ensure_ascii=False,indent=2)
+
+              files = sorted([fn for fn in os.listdir(ARCHIVE_DIR) if fn.endswith(".json")], reverse=True)
+              with open(os.path.join(DATA_DIR,"archive_index.json"),"w",encoding="utf-8") as f:
+                  json.dump({"files":files}, f, ensure_ascii=False)
+
+          if __name__=="__main__":
+              main()
+          PY
+
+      - name: Ensure docs structure
+        run: |
+          mkdir -p docs/data/archive
+          test -f docs/index.html || echo "<!doctype html><meta charset='utf-8'>Instala la UI del repo original." > docs/index.html
+          test -f docs/data/edition.json || echo '{"week":{},"top":[],"sections":{}}' > docs/data/edition.json
+          test -f docs/data/archive_index.json || echo '{"files":[]}' > docs/data/archive_index.json
+
+      - name: Build now
+        run: python build.py
+
+      - name: Commit & push (rebase-safe, solo data/código)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add requirements.txt build.py docs/data
+          git commit -m "rescate: generador minimal y edición actual" || echo "Sin cambios"
+          git fetch origin main
+          git pull --rebase --autostash origin main || true
+          git push origin HEAD:main
