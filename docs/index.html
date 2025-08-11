@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="es"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Diario IA</title>
+<link rel="stylesheet" href="styles.css">
+<body>
+<header class="hdr">
+  <div class="brand">📰 Diario IA</div>
+  <nav class="nav">
+    <a href="./archivo.html">Archivo</a>
+    <a href="#" id="toggleTheme">Tema</a>
+  </nav>
+</header>
+<main class="container">
+  <section id="hero" class="hero skeleton"></section>
+  <section class="controls">
+    <input id="search" type="search" placeholder="Buscar… (modelo, tema, fuente)" />
+    <div class="filters" id="filters"></div>
+  </section>
+  <section id="content" class="sections"></section>
+</main>
+<footer>Generado automáticamente cada domingo. Edita <code>feeds.yml</code> para tus fuentes.</footer>
+<script src="app.js" type="module"></script>
+</body></html>
