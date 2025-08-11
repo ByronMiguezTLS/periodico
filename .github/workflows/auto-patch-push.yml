@@ -1,0 +1,80 @@
+name: Auto-patch push safety
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ia-weekly-build
+  cancel-in-progress: true
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    # 👈 historial completo para poder rebasear
+
+      - name: Rewrite build.yml with safe checkout + rebase push
+        run: |
+          mkdir -p .github/workflows
+          cat > .github/workflows/build.yml <<'YAML'
+          name: build-site
+          on:
+            schedule:
+              - cron: '0 8 * * SUN'
+            workflow_dispatch:
+          permissions:
+            contents: write
+          concurrency:
+            group: ia-weekly-build
+            cancel-in-progress: true
+          jobs:
+            build:
+              runs-on: ubuntu-latest
+              steps:
+                - uses: actions/checkout@v4
+                  with:
+                    fetch-depth: 0           # 👈 necesario para pull --rebase
+                - uses: actions/setup-python@v5
+                  with:
+                    python-version: '3.11'
+                - name: Install deps
+                  run: |
+                    python -m pip install --upgrade pip
+                    pip install -r requirements.txt
+                - name: NLTK data
+                  run: |
+                    python - <<'PY'
+                    import nltk
+                    nltk.download('punkt', quiet=True)
+                    try: nltk.download('punkt_tab', quiet=True)
+                    except Exception as e: print("punkt_tab opcional:", e)
+                    PY
+                - name: Build site
+                  run: python build.py
+                - name: Commit (staged)
+                  run: |
+                    git config user.name "github-actions[bot]"
+                    git config user.email "github-actions[bot]@users.noreply.github.com"
+                    git add feeds.yml build.py requirements.txt docs/data docs/index.html docs/archivo.html docs/styles.css docs/app.js || true
+                    git commit -m "build: edición semanal auto" || echo "Sin cambios"
+                - name: Rebase + push
+                  run: |
+                    # trae lo último del remoto y rebasea antes de empujar
+                    git fetch origin main
+                    git pull --rebase --autostash origin main || true
+                    # si sigue rechazando, último recurso: force-with-lease (no pisa trabajo ajeno)
+                    git push origin HEAD:main || git push --force-with-lease origin HEAD:main
+          YAML
+
+      - name: Commit patched workflow
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/workflows/build.yml
+          git commit -m "chore: safe checkout+rebase push for weekly build" || echo "Nada que commitear"
+          git push
