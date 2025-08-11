@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="es"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Archivo — Diario IA</title>
+<link rel="stylesheet" href="styles.css">
+<body>
+<header class="hdr">
+  <div class="brand">📰 Diario IA</div>
+  <nav class="nav">
+    <a href="./index.html">Inicio</a>
+  </nav>
+</header>
+<main class="container">
+  <h1>Archivo</h1>
+  <ul id="archiveList"></ul>
+</main>
+<script type="module">
+fetch('./data/archive_index.json').then(r=>r.json()).then(idx=>{
+  const ul=document.getElementById('archiveList');
+  idx.files.forEach(f=>{
+    const li=document.createElement('li');
+    const a=document.createElement('a'); a.href='./data/archive/'+f; a.textContent=f.replace('.json','');
+    li.appendChild(a); ul.appendChild(li);
+  });
+});
+</script>
+</body></html>
