@@ -25,6 +25,14 @@ def fetch_article_text(url, timeout=10):
     except Exception:
         return ""
 
+
+def _fallback_summary(text, max_sentences=3):
+    # Plan B: extractivo muy simple si fallan sumy/numpy/nltk
+    import re
+    s = re.split(r'(?<=[.!?])\s+', text)
+    return " ".join(s[:max_sentences])
+
+
 def summarize_text(text, sentences=3, language='spanish'):
     if not text or len(text.split()) < 80:
         return ""
@@ -34,8 +42,11 @@ def summarize_text(text, sentences=3, language='spanish'):
         summarizer.stop_words = get_stop_words(language)
     except Exception:
         pass
-    sents = summarizer(parser.document, sentences)
-    return " ".join(str(s) for s in sents)
+    try:
+        sents = summarizer(parser.document, sentences)
+        return " ".join(str(s) for s in sents)
+    except Exception:
+        return _fallback_summary(text, sentences)
 
 CATS = {
   "Portada": [],
