@@ -1,303 +1,263 @@
 {
   "week": {
-    "start": "2025-08-04",
-    "end": "2025-08-11",
-    "generated_utc": "2025-08-11T14:32:41.337314"
+    "start": "2025-08-10",
+    "end": "2025-08-17",
+    "generated_utc": "2025-08-17T08:30:07.895925"
   },
   "top": [
     {
-      "title": "Can Large Models Fool the Eye? A New Turing Test for Biological Animation",
-      "link": "https://arxiv.org/abs/2508.06072",
-      "published": "2025-08-11T04:00:00",
-      "source": "arxiv.org",
-      "summary": "In this paper, we introduce BioMotion Arena, a novel framework for evaluating large language models (LLMs) and multimodal large language models (MLLMs) via visual animation. Current benchmarks adopt either ground-truth-based score-form evaluation on static datasets or indistinct textual chatbot-style human preferences collection, which may not provide users with immediate, intuitive, and perceptible feedback on performance differences. This enables BioMotion Arena to serve as a challenging benchmark for performance visualization and a flexible evaluation framework without restrictions on ground-truth.",
+      "title": "Si la pregunta es cuál de las grandes tecnológicas está ganando la carrera de la IA, la respuesta es: ninguna",
+      "link": "https://www.xataka.com/robotica-e-ia/pregunta-cual-grandes-tecnologicas-esta-ganando-carrera-ia-respuesta-ninguna",
+      "published": "2025-08-15T10:00:38",
+      "source": "xataka.com",
+      "summary": "Unos prefieren Claude para programar, otros ChatGPT para preguntas genéricas, otros Gemini para conversar sobre temas diversos y para aprender, por ejemplo. Ni las empresas, que sacan pecho continuamente con sus nuevas versiones, ni los benchmarks, que se han convertido en una herramienta útil pero imperfecta a la hora de evaluar la calidad de esos modelos. Todo parecía sonreirle a OpenAI, pero tras el lanzamiento de GPT-5, el batacazo: ahora el claro favorito es Gemini, el modelo de Google, con OpenAI desplomándose al 16% de los votos y aún más atrás Grok (xAI) con un 6,3% de votos y Claude (Anthropic) con un bajísimo (en mi opinión) 1,5%.",
       "category": "Portada"
     },
     {
-      "title": "Hypothesis-Driven Theory-of-Mind Reasoning for Large Language Models",
-      "link": "https://arxiv.org/abs/2502.11881",
-      "published": "2025-08-11T04:00:00",
-      "source": "arxiv.org",
-      "summary": "Our algorithm is modeled after the Bayesian theory-of-mind framework, using LLMs to approximate probabilistic inference over agents' evolving mental states based on their perceptions and actions. We evaluate thought-tracing on diverse theory-of-mind benchmarks, demonstrating significant performance improvements compared to baseline LLMs. Tenenbaum , Yejin Choi View a PDF of the paper titled Hypothesis-Driven Theory-of-Mind Reasoning for Large Language Models, by Hyunwoo Kim and 7 other authors View PDF HTML (experimental) Abstract: Existing LLM reasoning methods have shown impressive capabilities across various tasks, such as solving math and coding problems.",
+      "title": "Qué hay detrás de la avalancha de críticas al nuevo ChatGPT por borde",
+      "link": "https://www.eldiario.es/tecnologia/hay-detras-avalancha-criticas-nuevo-chatgpt-borde_1_12532061.html",
+      "published": "2025-08-16T19:26:01",
+      "source": "eldiario.es",
+      "summary": "A esto parece apuntar el hecho de que los principales sistemas de este tipo presentes en el mercado tengan capacidades similares, desde ChatGPT con GPT-5 a Gemini, de Google; Grok, de Elon Musk; o Claude, de Anthropic. Incendios España Cambio climático Ourense Picos de Europa ChatGPT Trump Putin Elecciones Bolivia Elizabeth Taylor jubilados Sandra Morales tiktoker Mazón Series TV Arehucas Canarias 15 agosto festivo LaLiga 2025 / 2026 Programación TV Crucigrama Palabra del día Pasatiempos Sudoku Argentina España Buscar Boletines Secciones Política Sociedad Economía Internacional - The Guardian Cultura Librotea Tecnología Desalambre El rincón de pensar Consumo Claro Vertele Programación TV Nid",
       "category": "Portada"
     },
     {
-      "title": "An Effective Approach for Node Classification in Textual Graphs",
-      "link": "https://arxiv.org/abs/2508.05836",
-      "published": "2025-08-11T04:00:00",
-      "source": "arxiv.org",
-      "summary": "Our approach leverages a large language model (LLM), specifically ChatGPT, within the TAPE framework to generate semantically rich explanations from paper content, which are then fused into enhanced node representations. We demonstrate the efficacy of our framework on the challenging ogbn-arxiv dataset, achieving state-of-the-art performance with a classification accuracy of 0.772, significantly surpassing the best GCN baseline of 0.713. Donate > cs > arXiv:2508.05836 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open n",
+      "title": "Why GPT-4o’s sudden shutdown left people grieving",
+      "link": "https://www.technologyreview.com/2025/08/15/1121900/gpt4o-grief-ai-companion/",
+      "published": "2025-08-15T10:34:23",
+      "source": "technologyreview.com",
+      "summary": "| MIT Technology Review Skip to Content MIT Technology Review Featured Topics Newsletters Events Audio Sign in Subscribe MIT Technology Review Featured Topics Newsletters Events Audio Sign in Subscribe Artificial intelligence Why GPT-4o’s sudden shutdown left people grieving After an outcry, OpenAI swiftly rereleased 4o to paid users. After an outcry, OpenAI swiftly rereleased 4o to paid users. By Grace Huckins archive page August 15, 2025 GETTY IMAGES | sankai June had no idea that GPT-5 was coming.",
       "category": "Portada"
     },
     {
-      "title": "SKATE, a Scalable Tournament Eval: Weaker LLMs differentiate between stronger ones using verifiable challenges",
-      "link": "https://arxiv.org/abs/2508.06111",
-      "published": "2025-08-11T04:00:00",
-      "source": "arxiv.org",
-      "summary": "We introduce SKATE: a novel evaluation framework in which large language models (LLMs) compete by generating and solving verifiable tasks for one another. Brown View a PDF of the paper titled SKATE, a Scalable Tournament Eval: Weaker LLMs differentiate between stronger ones using verifiable challenges, by Dewi S. Donate > cs > arXiv:2508.06111 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Computer Science > Artificial Intelligence arXiv:2508.06111 (cs) [Submitted o",
+      "title": "The Download: affordable EV trucks, and Russia’s latest internet block",
+      "link": "https://www.technologyreview.com/2025/08/14/1121839/the-download-affordable-ev-trucks-and-russias-latest-internet-block/",
+      "published": "2025-08-14T12:10:00",
+      "source": "technologyreview.com",
+      "summary": "hide by Rhiannon Williams Share Share story on linkedin Share story on facebook Share story on email Popular We’re learning more about what weight-loss drugs do to the body Jessica Hamzelou Exclusive: A record-breaking baby has been born from an embryo that’s over 30 years old Jessica Hamzelou The two people shaping the future of OpenAI’s research Will Douglas Heaven How to run an LLM on your laptop Grace Huckins Deep Dive The Download The Download: GPT-5 is here, and Intel’s CEO drama Plus: wildfires are worsening in the western US By Rhiannon Williams archive page The Download: how your data is being used to train AI, and why chatbots aren’t doctors Plus: Microsoft is trying to fix a major",
       "category": "Portada"
     },
     {
-      "title": "ETA: Energy-based Test-time Adaptation for Depth Completion",
-      "link": "https://arxiv.org/abs/2508.05989",
-      "published": "2025-08-11T04:00:00",
-      "source": "arxiv.org",
-      "summary": "We evaluate our method across three indoor and three outdoor datasets, where ETA improve over the previous state-of-the-art method by an average of 6.94% for outdoors and 10.23% for indoors. ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.",
+      "title": "El chasco de ChatGPT 5 demuestra que crear una máquina con una inteligencia superior a la nuestra es casi imposible - El Confidencial",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGNOOVg4aGhWLUdaMjdJRWRWd1ZyR1NEZjkzenVLRHBzLVRyRmlrLXFwLWJxc2JlVFhUcEJRT280UlNWdUplUnNwU3lCbDlmb0wzVmZXZnluMHI1RkppYTZQWUYwUHJ1eEg0ZjY0RG5LRGZvN0hidWdrNlY2elNnQjliRVg1NHpnSmZ3a0Job3BBTHE3SlZ6cVNmSTVDbUtVZlIxaFZwSXJ1ak9lQWNqSVlNR3pGcnVVWnBFdtIBwgFBVV95cUxQME13czhkSk1BbU9waXFocF9COGktNjFvcFFOemVfUHdwWWFYelNrUkhkZTFkNy1Yek1OZUhRdUhOUGZVUXl5bFRRcS1vRjdNY1JmQUU0U0thWlRkSFp0TmlicVFTSzhwSlpFSDVEU21ma1ZRdmw4bGlFUEpYUnBFdlJqZWRJN25RdmJMd3FKeWhXME4tTE9yNnRXdHpXbWl6Rmc0bkMzZHF3MW5RNmZQOWFTODByQ2tOcGNTYlRoSmxlZw?oc=5",
+      "published": "2025-08-16T13:45:00",
+      "source": "news.google.com",
+      "summary": "Google News",
       "category": "Portada"
     }
   ],
   "sections": {
     "Modelos": [
       {
-        "title": "From Next-Token to Mathematics: The Learning Dynamics of Mathematical Reasoning in Language Models",
-        "link": "https://arxiv.org/abs/2407.00900",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Goodman View a PDF of the paper titled From Next-Token to Mathematics: The Learning Dynamics of Mathematical Reasoning in Language Models, by Shubhra Mishra and 2 other authors View PDF HTML (experimental) Abstract: Large Language Models (LLMs) solely trained on next-token prediction learn to solve a wide range of problems involving mathematical reasoning. We show the first analysis of how mathematical reasoning abilities of several open-weight LLMs develop during pre-training and post-training. Dataset and code: this https URL Subjects: Artificial Intelligence (cs.AI) ; Computation and Language (cs.CL) Cite as: arXiv:2407.00900 [cs.AI] (or arXiv:2407.00900v2 [cs.AI] for this version) https:",
+        "title": "Sam Altman finally stood up to Elon Musk after years of X trolling",
+        "link": "https://arstechnica.com/tech-policy/2025/08/a-brief-history-of-elon-musk-and-sam-altmans-ai-feud/",
+        "published": "2025-08-14T11:00:36",
+        "source": "arstechnica.com",
+        "summary": "Soon after ChatGPT's release in November 2022, Musk allegedly began his attacks, seemingly willing to change his tactics on a whim. Musk specifically claimed that any model \"more advanced than OpenAI’s just-released GPT-4\" posed \"profound risks to society and humanity,\" OpenAI alleged, seemingly angling to pause OpenAI's development in particular. Ashley Belanger – Aug 14, 2025 7:00 am | 139 Credit: Aurich Lawson | Getty Images Credit: Aurich Lawson | Getty Images Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav Much attention was paid to OpenAI's Sam Altman and xAI's Elon Musk trading barbs on X this",
         "category": "Modelos"
       },
       {
-        "title": "Large Language Model Data Generation for Enhanced Intent Recognition in German Speech",
-        "link": "https://arxiv.org/abs/2508.06277",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "We propose a novel approach that combines an adapted Whisper ASR model, fine-tuned on elderly German speech (SVC-de), with Transformer-based language models trained on synthetic text datasets generated by three well-known large language models (LLMs): LeoLM, Llama3, and ChatGPT. Donate > cs > arXiv:2508.06277 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Computer Science > Computation and Language arXiv:2508.06277 (cs) [Submitted on 8 Aug 2025] Title: Large Languag",
-        "category": "Modelos"
-      },
-      {
-        "title": "Evaluation of LLMs in AMR Parsing",
-        "link": "https://arxiv.org/abs/2508.05028",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "This paper presents a comprehensive evaluation of finetuning four distinct LLM architectures, Phi 3.5, Gemma 2, LLaMA 3.2, and DeepSeek R1 LLaMA Distilled using the LDC2020T02 Gold AMR3.0 test set. Donate > cs > arXiv:2508.05028 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Computer Science > Computation and Language arXiv:2508.05028 (cs) [Submitted on 7 Aug 2025 ( v1 ), last revised 8 Aug 2025 (this version, v2)] Title: Evaluation of LLMs in AMR Parsing Authors: S",
-        "category": "Modelos"
-      },
-      {
-        "title": "Self-Steering Language Models",
-        "link": "https://arxiv.org/abs/2504.07081",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "When instantiated with a small Follower (e.g., Llama-3.2-1B or Qwen3-1.7B), DisCIPL matches (and sometimes outperforms) much larger models, including GPT-4o and o1, on challenging constrained generation tasks. Comments: Accepted to COLM 2025 Subjects: Computation and Language (cs.CL) ; Artificial Intelligence (cs.AI) Cite as: arXiv:2504.07081 [cs.CL] (or arXiv:2504.07081v2 [cs.CL] for this version) https://doi.org/10.48550/arXiv.2504.07081 Focus to learn more arXiv-issued DOI via DataCite Submission history From: Gabriel Grand [ view email ] [v1] Wed, 9 Apr 2025 17:54:22 UTC (668 KB) [v2] Fri, 8 Aug 2025 17:58:01 UTC (655 KB) Full-text links: Access Paper: View a PDF of the paper titled Self",
-        "category": "Modelos"
-      },
-      {
-        "title": "Numerical Considerations in Weighted Model Counting",
-        "link": "https://arxiv.org/abs/2508.06264",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "When all weights are nonnegative, we prove that the precision loss of arithmetic evaluation using floating-point arithmetic can be tightly bounded. Bryant View a PDF of the paper titled Numerical Considerations in Weighted Model Counting, by Randal E. Most weighted model counting programs operate by (explicitly or implicitly) converting the input formula into a form that enables arithmetic evaluation, using multiplication for conjunctions and addition for disjunctions.",
-        "category": "Modelos"
-      },
-      {
-        "title": "GPT-5 is here. Now what?",
-        "link": "https://www.technologyreview.com/2025/08/07/1121308/gpt-5-is-here-now-what/",
-        "published": "2025-08-07T17:00:00",
+        "title": "The Download: Taiwan’s silicon shield, and ChatGPT’s personality misstep",
+        "link": "https://www.technologyreview.com/2025/08/15/1121920/the-download-taiwans-silicon-shield-and-chatgpts-personality-misstep/",
+        "published": "2025-08-15T12:10:00",
         "source": "technologyreview.com",
-        "summary": "GPT-5 has achieved the state of the art on several benchmarks, including a test of agentic abilities and the coding evaluations SWE-Bench and Aider Polyglot. The much-hyped release makes several enhancements to the ChatGPT user experience. By Grace Huckins archive page August 7, 2025 Stephanie Arnett/MIT Technology Review | Adobe Stock, Envato At long last, OpenAI has released GPT-5.",
+        "summary": "The Download: Taiwan's silicon shield, and ChatGPT's personality misstep | MIT Technology Review Skip to Content MIT Technology Review Featured Topics Newsletters Events Audio Sign in Subscribe MIT Technology Review Featured Topics Newsletters Events Audio Sign in Subscribe The Download The Download: Taiwan’s silicon shield, and ChatGPT’s personality misstep Plus: the Trump administration reportedly wants a stake in Intel By Rhiannon Williams archive page August 15, 2025 This is today's edition of The Download , our weekday newsletter that provides a daily dose of what's going on in the world of technology. hide by Rhiannon Williams Share Share story on linkedin Share story on facebook Share",
         "category": "Modelos"
       },
       {
-        "title": "Las empresas de vibe coding están descubriendo la cruda realidad de la IA: es imposible ganar dinero con ella",
-        "link": "https://www.xataka.com/robotica-e-ia/startups-vibe-coding-se-enfrentan-a-cruda-realidad-programacion-ia-no-sale-a-cuentas",
-        "published": "2025-08-11T12:00:00",
+        "title": "NVIDIA está acumulando un enorme poder tecnológico: se ha convertido en el banco central de la IA",
+        "link": "https://www.xataka.com/empresas-y-economia/nvidia-esta-acumulando-enorme-poder-tecnologico-banco-central-ia",
+        "published": "2025-08-16T10:30:37",
         "source": "xataka.com",
-        "summary": "En otras palabras, Anysphere cobra al usuario una suscripción por acceder a Cursor y, a su vez, paga a Google, Anthropic y OpenAI por acceder a la API de Gemini, Claude y GPT. Las empresas de vibe coding están descubriendo la cruda realidad de la IA: es imposible ganar dinero con ella Webedia Xataka Menú Nuevo ANÁLISIS XATAKA SELECCIÓN MÓVILES CIENCIA MOVILIDAD MAGNET WhatsApp Tiktok Telegram Instagram Youtube Twitter HOY SE HABLA DE China Bill Gates Ola de calor Ozempic Bugatti iPhone 17 Android Auto IA GPT-4o Thriller Las empresas de vibe coding están descubriendo la cruda realidad de la IA: es imposible ganar dinero con ella El precio a pagar por acceder a las APIs de los grandes modelos ",
+        "summary": "Su dominio del mercado de chips para IA le otorga un poder que va más allá de lo empresarial: decide quién puede competir y quién no en la carrera de la IA. Una simple llamada suya puede acelerar un pedido o retrasarlo indefinidamente. Regular el flujo de recursos críticos hacia empresas que los necesitan para sobrevivir le da esa capacidad, como una suerte de banco central tecnológico.",
         "category": "Modelos"
       },
       {
-        "title": "The Download: OpenAI’s open-weight models, and the future of internet search",
-        "link": "https://www.technologyreview.com/2025/08/06/1121179/the-download-openais-open-weight-models-and-the-future-of-internet-search/",
-        "published": "2025-08-06T12:10:00",
+        "title": "Musk threatens to sue Apple so Grok can get top App Store ranking",
+        "link": "https://arstechnica.com/tech-policy/2025/08/apple-gets-yanked-into-elon-musks-chatbot-war-with-openai/",
+        "published": "2025-08-12T15:27:43",
+        "source": "arstechnica.com",
+        "summary": "They confirmed that at least one other AI tool has somewhat recently unseated ChatGPT in the US rankings. OpenAI's popular chatbot \"currently holds the top spot in the App Store's 'Top Free Apps' section for iPhones in the US,\" Reuters noted , \"while xAI's Grok ranks fifth and Google’s Gemini chatbot sits at 57th.\" Sensor Tower data shows ChatGPT similarly tops Google Play Store rankings. Ashley Belanger – Aug 12, 2025 11:27 am | 281 Credit: Kevin Dietsch / Staff | Getty Images News Credit: Kevin Dietsch / Staff | Getty Images News Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav After spending last w",
+        "category": "Modelos"
+      },
+      {
+        "title": "The road to artificial general intelligence",
+        "link": "https://www.technologyreview.com/2025/08/13/1121479/the-road-to-artificial-general-intelligence/",
+        "published": "2025-08-13T13:30:00",
         "source": "technologyreview.com",
-        "summary": "OpenAI has finally released open-weight language models The news: OpenAI has finally released its first open-weight large language models since 2019’s GPT-2. That’s particularly notable at a time when Meta, which had previously dominated the American open-model landscape with its Llama models, may be reorienting toward closed releases—and when Chinese open models are becoming more popular than their American competitors. Why it matters: These releases re-establish OpenAI as a presence for users of open models.",
+        "summary": "The much-hyped release makes several enhancements to the ChatGPT user experience. By MIT Technology Review Insights archive page August 13, 2025 In partnership with Arm Artificial intelligence models that can discover drugs and write code still fail at puzzles a lay person can master in minutes. Time horizons shorten with each breakthrough, from 50 years at the time of GPT-3’s launch to five years by the end of 2024.",
         "category": "Modelos"
       },
       {
-        "title": "La gran paradoja de Madrid: la región con el mayor déficit energético de España se está quedando los centros de datos",
-        "link": "https://www.xataka.com/robotica-e-ia/big-tech-estan-eligiendo-madrid-para-instalar-centros-datos-espana-problema-agujero-negro-energetico",
-        "published": "2025-08-11T14:00:37",
-        "source": "xataka.com",
-        "summary": "El dato es llamativo, pero lo es aún más el hecho de que el gran foco de esas tecnológicas está en una región que a priori no parecería ideal para estas instalaciones: Madrid. El estudio de CBRE citado en Cinco Días señala esa singular concentración en España de diversos proyectos de centros de datos de los llamados \"hiperescalares\" (hyperscalers). La gran paradoja de Madrid: la región con el mayor déficit energético de España se está quedando los centros de datos Webedia Xataka Menú Nuevo ANÁLISIS XATAKA SELECCIÓN MÓVILES CIENCIA MOVILIDAD MAGNET WhatsApp Tiktok Telegram Instagram Youtube Twitter HOY SE HABLA DE China Bill Gates Ola de calor Ozempic Bugatti iPhone 17 Android Auto IA GPT-4o ",
+        "title": "ChatGPT 5 soluciona el principal problema de su inteligencia artificial: ahora no tiene rival - ADSLZone",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQanMzYlZxa0lHZVFwM2lFaUc5XzVoYXQ5Q2ZKNWV3eE95czRtOXJEZEl5bXJCVHZUNUM3SDVvMVBOanZmcE5jWjZnU0lnVVlwZThnVk1LNjhJWGF6aWswb2ZCcjJpTGJUQmVLalBhVk5Dazh2NmpmOGZqcWlFZk0wVUNB?oc=5",
+        "published": "2025-08-14T19:21:14",
+        "source": "news.google.com",
+        "summary": "Google News",
         "category": "Modelos"
       },
       {
-        "title": "The Download: a quantum radar, and chipmakers’ deal with the US government",
-        "link": "https://www.technologyreview.com/2025/08/11/1121437/the-download-a-quantum-radar-and-chipmakers-deal-with-the-us-government/",
-        "published": "2025-08-11T12:10:00",
+        "title": "The Download: Trump’s golden dome, and fueling AI with nuclear power",
+        "link": "https://www.technologyreview.com/2025/08/13/1121722/the-download-trumps-golden-dome-and-fueling-ai-with-nuclear-power/",
+        "published": "2025-08-13T12:10:00",
         "source": "technologyreview.com",
-        "summary": "The Download: A quantum radar, and chipmakers' deal with the US government | MIT Technology Review Skip to Content MIT Technology Review Featured Topics Newsletters Events Audio Sign in Subscribe MIT Technology Review Featured Topics Newsletters Events Audio Sign in Subscribe The Download The Download: a quantum radar, and chipmakers’ deal with the US government Plus: OpenAI has restored GPT-4o to ChatGPT By Rhiannon Williams archive page August 11, 2025 This is today's edition of The Download , our weekday newsletter that provides a daily dose of what's going on in the world of technology. This quantum radar could image buried objects Physicists have created a new type of radar that could h",
+        "summary": "The Download: Trump's golden dome, and fueling AI with nuclear power | MIT Technology Review Skip to Content MIT Technology Review Featured Topics Newsletters Events Audio Sign in Subscribe MIT Technology Review Featured Topics Newsletters Events Audio Sign in Subscribe The Download The Download: Trump’s golden dome, and fueling AI with nuclear power Plus: OpenAI is bringing back GPT-4o as the default model for paying users By Rhiannon Williams archive page August 13, 2025 This is today's edition of The Download , our weekday newsletter that provides a daily dose of what's going on in the world of technology. hide by Rhiannon Williams Share Share story on linkedin Share story on facebook Sha",
         "category": "Modelos"
       },
       {
-        "title": "OpenAI has finally released open-weight language models",
-        "link": "https://www.technologyreview.com/2025/08/05/1121092/openai-has-finally-released-open-weight-language-models/",
-        "published": "2025-08-05T17:00:00",
-        "source": "technologyreview.com",
-        "summary": "By Grace Huckins archive page August 5, 2025 Photo Illustration by Sarah Rogers/MITTR | Photos Getty, Open AI OpenAI has finally released its first open-weight large language models since 2019’s GPT-2. These new “gpt-oss” models are available in two different sizes and score similarly to the company’s o3-mini and o4-mini models on several benchmarks. OpenAI has finally released open-weight language models | MIT Technology Review Skip to Content MIT Technology Review Featured Topics Newsletters Events Audio Sign in Subscribe MIT Technology Review Featured Topics Newsletters Events Audio Sign in Subscribe Artificial intelligence OpenAI has finally released open-weight language models It’s the ",
+        "title": "Google Gemini will now learn from your chats—unless you tell it not to",
+        "link": "https://arstechnica.com/ai/2025/08/google-gemini-will-now-learn-from-your-chats-unless-you-tell-it-not-to/",
+        "published": "2025-08-13T18:40:18",
+        "source": "arstechnica.com",
+        "summary": "If that's a concern, Google also has a new temporary chat option that won't affect the way Gemini thinks about you. You might recall several months back when Google added a \"personalization\" option to the Gemini model selector. Google Gemini will now learn from your chats—unless you tell it not to - Ars Technica Skip to content Ars Technica home Sections Forum Subscribe Search AI Biz & IT Cars Culture Gaming Health Policy Science Security Space Tech Feature Reviews AI Biz & IT Cars Culture Gaming Health Policy Science Security Space Tech Forum Subscribe Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Pin to story Theme HyperLight",
         "category": "Modelos"
       },
       {
-        "title": "Queríamos un PC ideal para poder experimentar con modelos locales de IA. El Framework Desktop es la respuesta a nuestras plegarias",
-        "link": "https://www.xataka.com/ordenadores/malo-framework-desktop-que-tiene-memoria-soldada-bueno-tambien",
-        "published": "2025-08-09T10:30:00",
+        "title": "GPT‑5 vs Grok 4: ¿cuál es el líder real en inteligencia artificial? - MUNDIARIO",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeERCNWJ1ZGkzZVdKYTYtbmFJWGRpZ0NyZ0FKNkpjQzh1bF9UX3FjTFhwOEJnN1dqbEJMVEh3ZkF5V2U0aUpUSkpsZE02MzNabEdJYWxnU2NZUF9vUkh1c2ZBV2I1cHNFLTR1OHhXNllJMF9hUUE1LWt3YXhObTVSNTEzcWI3YWNrRGctb0pUTjBpMHFlMzdSSGF6eE5GWXVsMVNiUGg1aVhWM3JlUDFHbjJub1gxd3VfWlRqejJBMUxjeFlHTE1nUFRkYkQxZGpHMVVV0gHYAUFVX3lxTE5nQUdqMmhUSVJscFBBZGxSN2VoaGkwSkt2bWxLQjd2R1M1WjAwdmd6YWgxbTdNbUpiN0ZXdG1kRG5helpiRXllb0R2SnVEQzJsM2l3ZUdYNVVPTmZScm1rNXhRbTJQU2llYmRrb21LaVlPalVGQi12eHhjN0ZxaU1KbjllQUdiOHpUOXctV254OGdXb0tPaDVKNFhXUHBtRGNudXZkVHVnaThCaWpER3hfbXViZXJiTlIxR3dsM2dhTE84LU0yLV9MS2hGOFJqUGZpSThHUG5lLQ?oc=5",
+        "published": "2025-08-14T06:23:50",
+        "source": "news.google.com",
+        "summary": "Google News",
+        "category": "Modelos"
+      },
+      {
+        "title": "Multa de 110.000 euros a la Real Sociedad por un ciberataque que afectó a datos de aficionados, jugadores y empleados",
+        "link": "https://www.eldiario.es/tecnologia/multa-110-000-euros-real-sociedad-ciberataque-afecto-datos-aficionados-jugadores-empleados_1_12532476.html",
+        "published": "2025-08-13T20:27:30",
+        "source": "eldiario.es",
+        "summary": "Incendios España Cambio climático Ourense Picos de Europa ChatGPT Trump Putin Elecciones Bolivia Elizabeth Taylor jubilados Sandra Morales tiktoker Mazón Series TV Arehucas Canarias 15 agosto festivo LaLiga 2025 / 2026 Programación TV Crucigrama Palabra del día Pasatiempos Sudoku Argentina España Buscar Boletines Secciones Política Sociedad Economía Internacional - The Guardian Cultura Librotea Tecnología Desalambre El rincón de pensar Consumo Claro Vertele Programación TV Nidos era Ballena Blanca Viajes & Gastro Juegos Motor Spin Festival FIC Eventos elDiario Brands Salud Reciclaje Renovables Cooperativas Ediciones locales Andalucía Cordópolis SevillaelDiario.es Aragón Asturias Canarias Can",
+        "category": "Modelos"
+      },
+      {
+        "title": "Las empresas IA han llegado a una conclusión: para que ellas ahorren dinero tú vas a tener una peor experiencia",
+        "link": "https://www.xataka.com/robotica-e-ia/openai-nos-vendio-que-gpt-5-iba-a-ser-modelo-unico-todoterreno-semana-ha-dado-marcha-atras",
+        "published": "2025-08-13T17:00:00",
         "source": "xataka.com",
-        "summary": "Eso da mucho juego para trabajar con modelos pesados como la variante \"grande\" de OpenAI (gpt-oss-120b) o, como explican en Framework, con modelos como Llama 3.3 70B Q6, por ejemplo. El Framework Desktop es la respuesta a nuestras plegarias Webedia Xataka Menú Nuevo ANÁLISIS XATAKA SELECCIÓN MÓVILES CIENCIA MOVILIDAD MAGNET WhatsApp Tiktok Telegram Instagram Youtube Twitter HOY SE HABLA DE China Bill Gates Ola de calor Ozempic Bugatti iPhone 17 Android Auto IA GPT-4o Thriller Queríamos un PC ideal para poder experimentar con modelos locales de IA. Esa empresa se llamaba (y se llama) Framework.",
+        "summary": "Es lo que acaba de hacer OpenAI al lanzar GPT-5, un modelo que prometía ser más fácil de usar y potente que nunca, pero que ha acabado volviendo a lo que funcionaba con GPT-4. Cuando OpenAI lanzó GPT-5, lo hizo con una gran novedad: la de plantearlo como un modelo único que se adaptaba solo a las necesidades de cada usuario según la pregunta que le hiciéramos. Las empresas IA han llegado a una conclusión: para que ellas ahorren dinero tú vas a tener una peor experiencia Webedia Xataka Menú Nuevo ANÁLISIS XATAKA SELECCIÓN MÓVILES CIENCIA MOVILIDAD MAGNET WhatsApp Tiktok Telegram Instagram Youtube Twitter HOY SE HABLA DE China Sequía Waze La Velada del Año Café Android Auto IA OpenAI Estafa Ja",
         "category": "Modelos"
       },
       {
-        "title": "La gente está celebrando funerales por modelos IA retirados por un motivo: no son una \"herramienta\" sino un apoyo",
-        "link": "https://www.xataka.com/robotica-e-ia/cientos-personas-asistieron-a-funeral-todo-normal-excepto-porque-difunto-era-modelo-ia-que-habia-sido-retirado",
-        "published": "2025-08-10T14:30:00",
-        "source": "xataka.com",
-        "summary": "La gente está celebrando funerales por modelos IA retirados por un motivo: no son una \"herramienta\" sino un apoyo Webedia Xataka Menú Nuevo ANÁLISIS XATAKA SELECCIÓN MÓVILES CIENCIA MOVILIDAD MAGNET WhatsApp Tiktok Telegram Instagram Youtube Twitter HOY SE HABLA DE China Bill Gates Ola de calor Ozempic Bugatti iPhone 17 Android Auto IA GPT-4o Thriller La gente está celebrando funerales por modelos IA retirados por un motivo: no son una \"herramienta\" sino un apoyo Los fans de Claude 3 Sonnet celebraron un funeral después de que Anthropic anunciara su retirada. Lo que nos faltaba por ver era que se celebrara un funeral para un modelo de IA retirado y es justo lo que pasó hace unos días en San ",
+        "title": "Perplexity ofrece 34.500 millones por Chrome en plena batalla antimonopolio contra Google",
+        "link": "https://www.eldiario.es/tecnologia/perplexity-ofrece-34-500-millones-chrome-plena-batalla-antimonopolio-google_1_12531709.html",
+        "published": "2025-08-13T08:18:32",
+        "source": "eldiario.es",
+        "summary": "Incendios España Cambio climático Ourense Picos de Europa ChatGPT Trump Putin Elecciones Bolivia Elizabeth Taylor jubilados Sandra Morales tiktoker Mazón Series TV Arehucas Canarias 15 agosto festivo LaLiga 2025 / 2026 Programación TV Crucigrama Palabra del día Pasatiempos Sudoku Argentina España Buscar Boletines Secciones Política Sociedad Economía Internacional - The Guardian Cultura Librotea Tecnología Desalambre El rincón de pensar Consumo Claro Vertele Programación TV Nidos era Ballena Blanca Viajes & Gastro Juegos Motor Spin Festival FIC Eventos elDiario Brands Salud Reciclaje Renovables Cooperativas Ediciones locales Andalucía Cordópolis SevillaelDiario.es Aragón Asturias Canarias Can",
         "category": "Modelos"
       },
       {
-        "title": "La supervivencia de NVIDIA en China se está complicando precisamente por su mayor virtud: tener la mejor tecnología",
-        "link": "https://www.xataka.com/empresas-y-economia/china-se-esta-transformando-pesadilla-para-nvidia-su-chip-para-ia-h20-esta-siendo-boicoteado",
-        "published": "2025-08-11T09:00:00",
+        "title": "Para tener una IA más bien mediocre ha habido que saquear todo el contenido de internet. Y Reddit ha dicho basta",
+        "link": "https://www.xataka.com/robotica-e-ia/ia-no-para-robar-contenidos-internet-para-mejorar-a-internet-se-le-han-hinchado-narices",
+        "published": "2025-08-13T06:00:00",
         "source": "xataka.com",
-        "summary": "La supervivencia de NVIDIA en China se está complicando precisamente por su mayor virtud: tener la mejor tecnología Webedia Xataka Menú Nuevo ANÁLISIS XATAKA SELECCIÓN MÓVILES CIENCIA MOVILIDAD MAGNET WhatsApp Tiktok Telegram Instagram Youtube Twitter HOY SE HABLA DE China Bill Gates Ola de calor Ozempic Bugatti iPhone 17 Android Auto IA GPT-4o Thriller La supervivencia de NVIDIA en China se está complicando precisamente por su mayor virtud: tener la mejor tecnología El chip H20 es una revisión de las GPU para IA más potentes de NVIDIA con unas prestaciones menores El Gobierno chino está instando a las empresas de IA a que utilicen en sus servidores circuitos integrados de origen chino 5 com",
+        "summary": "Pero no directamente, sino a través de versiones anteriores guardadas en esa gigantesca hemeroteca digital llamada Internet Archive . Para tener una IA más bien mediocre ha habido que saquear todo el contenido de internet. En Reddit lo saben bien, y acaban de tomar una medida extrema contra esos robos indiscriminados: no es que bloqueen ya el acceso a sus contenidos a los 'scrapers' de las empresas de IA de forma directa.",
         "category": "Modelos"
       },
       {
-        "title": "La buena noticia para NVIDIA es que podrá vender chips en China. La mala es que el Gobierno de EEUU le está extorsionando",
-        "link": "https://www.xataka.com/robotica-e-ia/nvidia-amd-podran-vender-sus-chips-ia-a-china-alucinante-que-para-lograrlo-le-daran-a-eeuu-tajada-15",
-        "published": "2025-08-11T07:03:00",
-        "source": "xataka.com",
-        "summary": "La mala es que el Gobierno de EEUU le está extorsionando Webedia Xataka Menú Nuevo ANÁLISIS XATAKA SELECCIÓN MÓVILES CIENCIA MOVILIDAD MAGNET WhatsApp Tiktok Telegram Instagram Youtube Twitter HOY SE HABLA DE China Bill Gates Ola de calor Ozempic Bugatti iPhone 17 Android Auto IA GPT-4o Thriller La buena noticia para NVIDIA es que podrá vender chips en China. La buena noticia para NVIDIA es que podrá vender chips en China. Dicho pacto desbloquea la exportación de esos componentes al país asiático tras meses de incertidumbre, pero lo hace con esa insólita contraprestación.",
+        "title": "Huang, el negociador: el líder de Nvidia es la voz clave para romper el bloqueo entre EEUU y China en inteligencia artificial",
+        "link": "https://www.eldiario.es/tecnologia/huang-negociador-lider-nvidia-voz-clave-romper-bloqueo-eeuu-china-inteligencia-artificial_1_12529672.html",
+        "published": "2025-08-12T21:19:54",
+        "source": "eldiario.es",
+        "summary": "Incendios España Cambio climático Ourense Picos de Europa ChatGPT Trump Putin Elecciones Bolivia Elizabeth Taylor jubilados Sandra Morales tiktoker Mazón Series TV Arehucas Canarias 15 agosto festivo LaLiga 2025 / 2026 Programación TV Crucigrama Palabra del día Pasatiempos Sudoku Argentina España Buscar Boletines Secciones Política Sociedad Economía Internacional - The Guardian Cultura Librotea Tecnología Desalambre El rincón de pensar Consumo Claro Vertele Programación TV Nidos era Ballena Blanca Viajes & Gastro Juegos Motor Spin Festival FIC Eventos elDiario Brands Salud Reciclaje Renovables Cooperativas Ediciones locales Andalucía Cordópolis SevillaelDiario.es Aragón Asturias Canarias Can",
+        "category": "Modelos"
+      },
+      {
+        "title": "ChatGPT: el modelo de inteligencia artificial estrena GPT-5, su primera actualización importante en años - Independent en Español",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSTJJRFl6Z1lCMXJNamwxLXNJRVBZTC1JY2p5UGZ4WlNOd2dBc1o1X3JkUVU4TTJ1WkhJMEdpRzU2R3RERDRjQjlxdnV2aVFId2pDWFZWWTl0NnNRWUh6OWNQQnVGRUtUbWVRRTd5R0gxTVNNQkpRTjQ4TFppaFo0eEJNOWFTVFh2aWFxd3VCOGxFNkNJV0N0REhiQzhoZG1abHc?oc=5",
+        "published": "2025-08-12T15:18:00",
+        "source": "news.google.com",
+        "summary": "Google News",
         "category": "Modelos"
       }
     ],
     "Herramientas": [
       {
-        "title": "InfoCausalQA:Can Models Perform Non-explicit Causal Reasoning Based on Infographic?",
-        "link": "https://arxiv.org/abs/2508.06220",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "In this study, we introduce InfoCausalQA, a novel benchmark designed to evaluate causal reasoning grounded in infographics that combine structured visual data with textual context. ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.",
+        "title": "Indigenous knowledge meets artificial intelligence",
+        "link": "https://www.technologyreview.com/2025/08/15/1121342/native-american-art-technology-ai/",
+        "published": "2025-08-15T10:00:00",
+        "source": "technologyreview.com",
+        "summary": "Suzanne Kite’s AI art installations, for example, model a Lakota framework of data sovereignty: intelligence that emerges only through reciprocal, consensual interaction. By Petala Ironcloud archive page August 15, 2025 Courtesy of the artist There is no word for art in most Native American languages. Instead, the closest terms speak not to objecthood but to action and intention.",
         "category": "Herramientas"
       },
       {
-        "title": "Can Large Language Models Adequately Perform Symbolic Reasoning Over Time Series?",
-        "link": "https://arxiv.org/abs/2508.03963",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "We further propose a unified framework that integrates LLMs with genetic programming to form a closed-loop symbolic reasoning system, where LLMs act both as predictors and evaluators. Subjects: Artificial Intelligence (cs.AI) Cite as: arXiv:2508.03963 [cs.AI] (or arXiv:2508.03963v2 [cs.AI] for this version) https://doi.org/10.48550/arXiv.2508.03963 Focus to learn more arXiv-issued DOI via DataCite Submission history From: Zewen Liu [ view email ] [v1] Tue, 5 Aug 2025 22:58:54 UTC (21,180 KB) [v2] Fri, 8 Aug 2025 03:41:16 UTC (21,181 KB) Full-text links: Access Paper: View a PDF of the paper titled Can Large Language Models Adequately Perform Symbolic Reasoning Over Time Series?, by Zewen Liu",
+        "title": "US government agency drops Grok after MechaHitler backlash, report says",
+        "link": "https://arstechnica.com/tech-policy/2025/08/us-government-agency-drops-grok-after-mechahitler-backlash-report-says/",
+        "published": "2025-08-14T21:11:06",
+        "source": "arstechnica.com",
+        "summary": "Grok seemingly had the potential to become a more widely used tool if federal workers opted for xAI's models. Despite the scandal, xAI announced that its products would soon be available for federal workers to purchase through the General Services Administration. At the time, xAI claimed this was an \"important milestone\" for its government business.",
         "category": "Herramientas"
       },
       {
-        "title": "Vision-Language Model-Based Semantic-Guided Imaging Biomarker for Lung Nodule Malignancy Prediction",
-        "link": "https://arxiv.org/abs/2504.21344",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Our approach surpasses the SOTA models in predicting lung cancer across datasets collected from diverse clinical settings, providing explainable outputs, aiding clinicians in comprehending the underlying meaning of model predictions. ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.",
+        "title": "YouTube backlash begins: “Why is AI combing through every single video I watch?”",
+        "link": "https://arstechnica.com/tech-policy/2025/08/50k-youtubers-rage-against-ai-spying-that-could-expose-identities/",
+        "published": "2025-08-12T17:58:05",
+        "source": "arstechnica.com",
+        "summary": "They fear the age checks will make it harder to access content they love while staying anonymous on the platform YouTube's age verification system estimates user ages by interpreting a \"variety of signals,\" YouTube's announcement said, including \"the types of videos a user is searching for, the categories of videos they have watched, or the longevity of the account.\" If a user is estimated to be under 18, YouTube restricts the account by disabling personalized ads, turning on digital wellbeing tools to prevent young users from being bombarded with harmful content, and adding other safeguards, like limiting repetitive views of certain types of content. YouTube backlash begins: “Why is AI comb",
         "category": "Herramientas"
       },
       {
-        "title": "Planning Agents on an Ego-Trip: Leveraging Hybrid Ego-Graph Ensembles for Improved Tool Retrieval in Enterprise Task Planning",
-        "link": "https://arxiv.org/abs/2508.05888",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Donate > cs > arXiv:2508.05888 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Computer Science > Artificial Intelligence arXiv:2508.05888 (cs) [Submitted on 7 Aug 2025] Title: Planning Agents on an Ego-Trip: Leveraging Hybrid Ego-Graph Ensembles for Improved Tool Retrieval in Enterprise Task Planning Authors: Sahil Bansal , Sai Shruthi Sistla , Aarti Arikatala , Sebastian Schreiber View a PDF of the paper titled Planning Agents on an Ego-Trip: Leveraging Hybrid Ego-",
+        "title": "Dubái abrirá el primer restaurante dirigido por un chef con inteligencia artificial este verano - capital.es",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPalVkX3NzLWF2VndQTEZwLXZWNDlpLXpTQVZESl90U1dYNGFtV2xiaHZaSGoxXzRiM25oczRrVVczcjUzcWdyTU5VRE5nYlNJYlNTTFpsbHlwVzZfUlBtS1ZhRmxha1hXWjRaSGRkU0VkeHdKY2dCdkRnbjNGTlF6WEZqc2FHaENYcm5LUFc1S2R0RWV1UDgtVnJIYkt4TnpZTHRLaWxMN1NERk40UGlBWXJZUDRMUE9RalprYjRGMDN0Uk5JamdSdTNONjQ?oc=5",
+        "published": "2025-08-14T07:56:19",
+        "source": "news.google.com",
+        "summary": "Google News",
         "category": "Herramientas"
       },
       {
-        "title": "LLMs for Resource Allocation: A Participatory Budgeting Approach to Inferring Preferences",
-        "link": "https://arxiv.org/abs/2508.06060",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "We present a dual-purpose framework leveraging Participatory Budgeting (PB) both as (i) a practical setting for LLM-based resource allocation and (ii) an adaptive benchmark for evaluating their reasoning capabilities. Donate > cs > arXiv:2508.06060 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Computer Science > Artificial Intelligence arXiv:2508.06060 (cs) [Submitted on 8 Aug 2025] Title: LLMs for Resource Allocation: A Participatory Budgeting Approach to Inferrin",
+        "title": "La gente no paraba de hackear las entrevistas de trabajo virtuales con IA. Solución: queremos conocerte en persona",
+        "link": "https://www.xataka.com/robotica-e-ia/ia-ha-convertido-entrevistas-trabajo-circo-tramposos-asi-que-empresas-estan-volviendo-a-presencial",
+        "published": "2025-08-14T04:00:00",
+        "source": "xataka.com",
+        "summary": "La gente no paraba de hackear las entrevistas de trabajo virtuales con IA. El problema es que en ciertos ámbitos, como en el de los ingenieros software y programadores, los candidatos suelen aprovechar herramientas de IA para hacer trampas. La tendencia es tan preocupante que algunas empresas ya están volviendo a lo que siempre funcionó : las entrevistas en persona.",
         "category": "Herramientas"
       },
       {
-        "title": "GeoLaux: A Benchmark for Evaluating MLLMs' Geometry Performance on Long-Step Problems Requiring Auxiliary Lines",
-        "link": "https://arxiv.org/abs/2508.06226",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Donate > cs > arXiv:2508.06226 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Computer Science > Artificial Intelligence arXiv:2508.06226 (cs) [Submitted on 8 Aug 2025] Title: GeoLaux: A Benchmark for Evaluating MLLMs' Geometry Performance on Long-Step Problems Requiring Auxiliary Lines Authors: Yumeng Fu , Jiayin Zhu , Lingling Zhang , Bo Zhao , Shaoxuan Ma , Yushun Zhang , Yanrui Wu , Wenjun Wu View a PDF of the paper titled GeoLaux: A Benchmark for Evaluating MLL",
-        "category": "Herramientas"
-      },
-      {
-        "title": "AquiLLM: a RAG Tool for Capturing Tacit Knowledge in Research Groups",
-        "link": "https://arxiv.org/abs/2508.05648",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Donate > cs > arXiv:2508.05648 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Computer Science > Information Retrieval arXiv:2508.05648 (cs) [Submitted on 25 Jul 2025] Title: AquiLLM: a RAG Tool for Capturing Tacit Knowledge in Research Groups Authors: Chandler Campbell , Bernie Boscoe , Tuan Do View a PDF of the paper titled AquiLLM: a RAG Tool for Capturing Tacit Knowledge in Research Groups, by Chandler Campbell and 2 other authors View PDF HTML (experimental) Ab",
-        "category": "Herramientas"
-      },
-      {
-        "title": "Lessons from A Large Language Model-based Outdoor Trail Recommendation Chatbot with Retrieval Augmented Generation",
-        "link": "https://arxiv.org/abs/2508.05652",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "To address above, this paper discusses the preliminary and practical lessons learned from developing Judy, an outdoor trail recommendation chatbot based on the large language model (LLM) with retrieval augmented generation (RAG). Donate > cs > arXiv:2508.05652 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Computer Science > Information Retrieval arXiv:2508.05652 (cs) [Submitted on 27 Jul 2025] Title: Lessons from A Large Language Model-based Outdoor Trail Recommend",
-        "category": "Herramientas"
-      },
-      {
-        "title": "ITDR: An Instruction Tuning Dataset for Enhancing Large Language Models in Recommendations",
-        "link": "https://arxiv.org/abs/2508.05667",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Donate > cs > arXiv:2508.05667 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Computer Science > Information Retrieval arXiv:2508.05667 (cs) [Submitted on 1 Aug 2025] Title: ITDR: An Instruction Tuning Dataset for Enhancing Large Language Models in Recommendations Authors: Zekun Liu , Xiaowen Huang , Jitao Sang View a PDF of the paper titled ITDR: An Instruction Tuning Dataset for Enhancing Large Language Models in Recommendations, by Zekun Liu and 2 other authors V",
-        "category": "Herramientas"
-      },
-      {
-        "title": "A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges",
-        "link": "https://arxiv.org/abs/2508.05668",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Donate > cs > arXiv:2508.05668 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Computer Science > Information Retrieval arXiv:2508.05668 (cs) [Submitted on 3 Aug 2025] Title: A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges Authors: Yunjia Xi , Jianghao Lin , Yongzhao Xiao , Zheli Zhou , Rong Shan , Te Gao , Jiachen Zhu , Weiwen Liu , Yong Yu , Weinan Zhang View a PDF of the paper titled A Survey of LLM-based Deep Search Ag",
-        "category": "Herramientas"
-      },
-      {
-        "title": "Fine-Tuning Vision-Language Models for Markdown Conversion of Financial Tables in Malaysian Audited Financial Reports",
-        "link": "https://arxiv.org/abs/2508.05669",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "The development dataset and evaluation benchmark are available on Hugging Face at this https URL and this https URL respectively Subjects: Information Retrieval (cs.IR) ; Artificial Intelligence (cs.AI); Computation and Language (cs.CL); Computer Vision and Pattern Recognition (cs.CV); Machine Learning (cs.LG) ACM classes: I.2.7; I.7.2; J.1 Cite as: arXiv:2508.05669 [cs.IR] (or arXiv:2508.05669v1 [cs.IR] for this version) https://doi.org/10.48550/arXiv.2508.05669 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Jin Khye Tan [ view email ] [v1] Mon, 4 Aug 2025 04:54:00 UTC (1,714 KB) Full-text links: Access Paper: View a PDF of the paper titled",
-        "category": "Herramientas"
-      },
-      {
-        "title": "Can LLMs effectively provide game-theoretic-based scenarios for cybersecurity?",
-        "link": "https://arxiv.org/abs/2508.05670",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "The recent advent of Large Language Models (LLMs) offers new tools and challenges for the security of computer systems; In this work, we investigate whether classical game-theoretic frameworks can effectively capture the behaviours of LLM-driven actors and bots. Authors: Daniele Proverbio , Alessio Buscemi , Alessandro Di Stefano , The Anh Han , German Castignani , Pietro Liò View a PDF of the paper titled Can LLMs effectively provide game-theoretic-based scenarios for cybersecurity?, by Daniele Proverbio and 4 other authors View PDF HTML (experimental) Abstract: Game theory has long served as a foundational tool in cybersecurity to test, predict, and design strategic interactions between at",
-        "category": "Herramientas"
-      },
-      {
-        "title": "Semantic Reasoning Meets Numerical Precision: An LLM-Powered Multi-Agent System for Power Grid Control",
-        "link": "https://arxiv.org/abs/2508.05702",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "This paper introduces Grid-Agent, an autonomous, AI-driven framework that combines Large Language Models (LLMs) with multi-agent reinforcement learning to detect and remediate grid violations in real time. Donate > cs > arXiv:2508.05702 Help | Advanced Search All fields Title Author Abstract Comments Journal reference ACM classification MSC classification Report number arXiv identifier DOI ORCID arXiv author ID Help pages Full text Search open search GO open navigation menu quick links Login Help Pages About Computer Science > Multiagent Systems arXiv:2508.05702 (cs) [Submitted on 7 Aug 2025] Title: Semantic Reasoning Meets Numerical Precision: An LLM-Powered Multi-Agent System for Power Gri",
-        "category": "Herramientas"
-      },
-      {
-        "title": "Prosocial Behavior Detection in Player Game Chat: From Aligning Human-AI Definitions to Efficient Annotation at Scale",
-        "link": "https://arxiv.org/abs/2508.05938",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "First, we identify the best LLM-based labeling strategy using a small seed set of human-labeled examples. ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.",
-        "category": "Herramientas"
-      },
-      {
-        "title": "Synthetic Data Generation and Differential Privacy using Tensor Networks' Matrix Product States (MPS)",
-        "link": "https://arxiv.org/abs/2508.06251",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "We benchmark the MPS-based generative model against state-of-the-art models such as CTGAN, VAE, and PrivBayes, focusing on both fidelity and privacy-preserving capabilities. ) Related Papers Recommenders and Search Tools Link to Influence Flower Influence Flower ( What are Influence Flowers? ) Author Venue Institution Topic About arXivLabs arXivLabs: experimental projects with community collaborators arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.",
+        "title": "Reddit blocks Internet Archive to end sneaky AI scraping",
+        "link": "https://arstechnica.com/tech-policy/2025/08/reddit-blocks-internet-archive-to-end-sneaky-ai-scraping/",
+        "published": "2025-08-11T19:53:49",
+        "source": "arstechnica.com",
+        "summary": "Reddit blocks Internet Archive to end sneaky AI scraping The Internet Archive confirmed it's in ongoing discussions with Reddit after block. Those commenters noted that myriad other tools exist for surfacing deleted posts or researching a user's activity, with some suggesting that the Wayback Machine was maybe not the easiest platform to navigate for that purpose. Where before IA's Wayback Machine dependably archived Reddit pages, profiles, and comments—as part of its mission to archive the Internet—moving forward, only screenshots of the Reddit homepage will be archived.",
         "category": "Herramientas"
       }
     ],
     "Regulación": [
       {
-        "title": "Intelligent Sampling of Extreme-Scale Turbulence Datasets for Accurate and Efficient Spatiotemporal Model Training",
-        "link": "https://arxiv.org/abs/2508.03872",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Comments: 14 pages, 8 figures, 2 tables Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI); Distributed, Parallel, and Cluster Computing (cs.DC) Cite as: arXiv:2508.03872 [cs.LG] (or arXiv:2508.03872v2 [cs.LG] for this version) https://doi.org/10.48550/arXiv.2508.03872 Focus to learn more arXiv-issued DOI via DataCite Submission history From: Wesley Brewer [ view email ] [v1] Tue, 5 Aug 2025 19:34:59 UTC (2,545 KB) [v2] Fri, 8 Aug 2025 03:55:25 UTC (2,546 KB) Full-text links: Access Paper: View a PDF of the paper titled Intelligent Sampling of Extreme-Scale Turbulence Datasets for Accurate and Efficient Spatiotemporal Model Training, by Wesley Brewer and 14 other authors Vi",
+        "title": "Google releases pint-size Gemma open AI model",
+        "link": "https://arstechnica.com/google/2025/08/google-releases-pint-size-gemma-open-ai-model/",
+        "published": "2025-08-14T20:04:22",
+        "source": "arstechnica.com",
+        "summary": "Google releases pint-size Gemma open AI model - Ars Technica Skip to content Ars Technica home Sections Forum Subscribe Search AI Biz & IT Cars Culture Gaming Health Policy Science Security Space Tech Feature Reviews AI Biz & IT Cars Culture Gaming Health Policy Science Security Space Tech Forum Subscribe Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Pin to story Theme HyperLight Day & Night Dark System Sign In Tiny robot Google releases pint-size Gemma open AI model The new Gemma model is a fraction of the size of most new models. Google released its first Gemma 3 open models earlier this year, featuring between 1 billion and ",
+        "category": "Regulación"
+      },
+      {
+        "title": "Las fotos que las personas comparten en internet alimentan la inteligencia artificial y ponen en riesgo su privacidad - Zonamovilidad.es",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMDlVbnkxdmdFdW1tQzZEbWRDdXVzdGVfYm8tTEFObDdzanYzZ1JrQVJsMzFVM3FvdUVVejJITG5yWUN2ZUxQcmtNTllacXFMY2FoT0U5cTVTWGtmM2g5UW5KaU8zaTVVRlR3amxWTUZzOVZKX01CcHFPTUVMd3VzZ01fam9ya2NLbUh6T0xNVkY4bTEyVVJiU0U5bzNQSWRGNEJjUkxKR0JUa0tpczFlV1pPX0hQeUl6LTZQam5PbExfQQ?oc=5",
+        "published": "2025-08-16T15:04:27",
+        "source": "news.google.com",
+        "summary": "Google News",
+        "category": "Regulación"
+      },
+      {
+        "title": "Taiwan’s “silicon shield” could be weakening",
+        "link": "https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/",
+        "published": "2025-08-15T09:00:00",
+        "source": "technologyreview.com",
+        "summary": "Costigan archive page August 15, 2025 Dana Smith One winter afternoon in a conference room in Taipei, a pair of twentysomething women dragged their friend across the floor. Lying on the ground in checkered pants and a brown sweatshirt, she was pretending to be either injured or dead. Taiwan’s “silicon shield” could be weakening | MIT Technology Review Skip to Content MIT Technology Review Featured Topics Newsletters Events Audio Sign in Subscribe MIT Technology Review Featured Topics Newsletters Events Audio Sign in Subscribe Policy Taiwan’s “silicon shield” could be weakening Semiconductor powerhouse TSMC is under increasing pressure to expand abroad and play a security role for the island.",
+        "category": "Regulación"
+      },
+      {
+        "title": "El Gobierno de EEUU ha dado un paso en falso: quiere cobrar una comisión a NVIDIA y AMD, y no sabe si puede hacerlo",
+        "link": "https://www.xataka.com/empresas-y-economia/gobierno-eeuu-ha-dado-paso-falso-quiere-cobrar-comision-a-nvidia-amd-no-sabe-puede-hacerlo",
+        "published": "2025-08-14T11:30:00",
+        "source": "xataka.com",
+        "summary": "Después de semanas de negociaciones, e, incluso, de varios \"cara a cara\" entre Donald Trump y Jensen Huang, NVIDIA ha logrado que el Departamento de Comercio le permita volver a entregar a sus clientes chinos su chip H20. No obstante, este permiso no le ha salido gratis: en adelante entregará al Gobierno de EEUU el 15% de los ingresos que obtendrá en China por la venta de esta y otras GPU. NVIDIA y AMD han aceptado esta condición, pero es perfectamente posible que no prospere.",
+        "category": "Regulación"
+      },
+      {
+        "title": "Inteligencia Artificial: comienza la era de la simplificación regulatoria - Demócrata",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1k0WDlHSVRFcEIzNWJPV1lDejNBSjVMR1QyZTJDSVlnNXRGZXVhdDd4RkJmdVdWTWlSYzNIczFpdUIzSzlGV0txZjJ4RUlXbmVETE5lbHQzbEVZTHc3ZGt5cGJVUFJLOG83MTRzY0FBNEFYNW1yUTFtMmwzbzd1MElESnRWbTR6cDJsUTBkSGdvTmhEaUVjbUE3NEZUZXZIMHZwc21KTdIBrAFBVV95cUxPdFo2SzBRazFUVmZBOXNBRHMzT1JFdWhsRmxSaEhMRm4tY0daTjl4S2lhNHhocmItc2wzWDhyNWxmRHFaWVd5R0xacDNSNjdFd1JmcjFodE1xR2xSb0xQLVVacHRZd1ZCYXB4UThuQ3MzeWZtNGRmTV9JX2lON0pXQ3hvNmJNNFBZaDIySG9kejc3d3V2RndnTTVUMzhDeWFLcE8tdnBrNFZPOEJr?oc=5",
+        "published": "2025-08-14T03:00:00",
+        "source": "news.google.com",
+        "summary": "Google News",
         "category": "Regulación"
       },
       {
@@ -307,167 +267,151 @@
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Regulación"
-      },
-      {
-        "title": "AI industry horrified to face largest copyright class action ever certified",
-        "link": "https://arstechnica.com/tech-policy/2025/08/ai-industry-horrified-to-face-largest-copyright-class-action-ever-certified/",
-        "published": "2025-08-08T17:44:05",
-        "source": "arstechnica.com",
-        "summary": "AI industry horrified to face largest copyright class action ever certified Copyright class actions could financially ruin AI industry, trade groups say. They've warned that a single lawsuit raised by three authors over Anthropic's AI training now threatens to \"financially ruin\" the entire AI industry if up to 7 million claimants end up joining the litigation and forcing a settlement. Last week, Anthropic petitioned to appeal the class certification, urging the court to weigh questions that the district court judge, William Alsup, seemingly did not.",
-        "category": "Regulación"
-      },
-      {
-        "title": "Crearon a una IA para descubrir nuevas leyes de la física: lo ha conseguido - La Razón",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSDlPM05PNWl5bG95T0pjMzByeTFSTlh6djdVdGxqTFA0WV9WNWVGa3dVdHVyOGFOTVc5cnpKd3N6VkNOenczaG5jZHp5UDhZeWkzLU9xd1RHclpKbG8yOC1BRVNtMzdPR1dkcnE5dEV0UktsMHNoeE1TNzJuWUZRMGQzMFRUeVlUTXo2RWRnbXplZjZpZzhGOEc0TDd4dlhYRUVwQklFTXRMNzdlVTRJUy02T2FpMUZkMGo1R2RXY9IB0wFBVV95cUxNay1kclI1UnRjdm9iNmF2a3U3SmJPSFA4OTRvb2d0cVVmeXpXYm1GS0l6akd0N0hrajhiYTJabExaeG1XS0EzMmdDRXZCRHdsOTFyeUhoUmVEd0N0WW5TUTFPeV9lNXkyQ3dVTWRsUnZLcjdqQWdaZWJSTlRLTGN3LXY2SXBIOGhPdUtfX1hQZzRlR2psNzJDUTFzZ0xXMnc5MExWZlVpbGtOQWhvMXZPdzZTeXFJaTY5ZTB1ejZTOXYtbEEyakhxeTRHU1JVelNPLWlF?oc=5",
-        "published": "2025-08-08T16:15:13",
-        "source": "news.google.com",
-        "summary": "Google News",
-        "category": "Regulación"
       }
     ],
     "Investigación": [
       {
-        "title": "Do Machines Think Emotionally? Cognitive Appraisal Analysis of Large Language Models",
-        "link": "https://arxiv.org/abs/2508.05880",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Foundation models -- especially Large Language Models (LLMs) -- have been evaluated, trained, or instruction-tuned in several past works, to become better predictors or generators of emotion. We introduce a large-scale benchmark on Cognitive Reasoning for Emotions - CoRE - to evaluate internal cognitive structures implicitly used by LLMs for emotional reasoning. In this paper, we move beyond surface-level emotion tasks to investigate how LLMs reason about emotions through cognitive dimensions.",
+        "title": "The Pixel 9 Pro Fold is $600 off ahead of the new model’s debut",
+        "link": "https://www.theverge.com/tech/760131/google-pixel-9-pro-fold-lenovo-legion-go-s-deal-sale",
+        "published": "2025-08-16T14:23:27",
+        "source": "theverge.com",
+        "summary": "The Pixel 9 Pro Fold is $600 off ahead of the new model’s debut | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Hamburger Navigation Button The homepage The Verge The Verge logo. Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Investigación"
       },
       {
-        "title": "DP-LLM: Runtime Model Adaptation with Dynamic Layer-wise Precision Assignment",
-        "link": "https://arxiv.org/abs/2508.06041",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Lee , Yeonhong Park View a PDF of the paper titled DP-LLM: Runtime Model Adaptation with Dynamic Layer-wise Precision Assignment, by Sangwoo Kwon and 3 other authors View PDF HTML (experimental) Abstract: How can we effectively handle queries for on-device large language models (LLMs) with varying runtime constraints, such as latency and accuracy? Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI) Cite as: arXiv:2508.06041 [cs.LG] (or arXiv:2508.06041v1 [cs.LG] for this version) https://doi.org/10.48550/arXiv.2508.06041 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Sangwoo Kwon [ view email ] [v1] Fri, 8 Aug 2025 05:57:04 ",
+        "title": "Dead Take’s best scares come from real-life performances",
+        "link": "https://www.theverge.com/games/760213/dead-take-review-fmv-horror-game-ben-starr",
+        "published": "2025-08-16T13:00:00",
+        "source": "theverge.com",
+        "summary": "Dead Take’s best scares come from real-life performances | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Hamburger Navigation Button The homepage The Verge The Verge logo. Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Investigación"
       },
       {
-        "title": "Are Your LLMs Capable of Stable Reasoning?",
-        "link": "https://arxiv.org/abs/2412.13147",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Comments: ACL 2025 Camera, Benchmark: this https URL , Code: this https URL Subjects: Artificial Intelligence (cs.AI) ; Computation and Language (cs.CL) Cite as: arXiv:2412.13147 [cs.AI] (or arXiv:2412.13147v5 [cs.AI] for this version) https://doi.org/10.48550/arXiv.2412.13147 Focus to learn more arXiv-issued DOI via DataCite Submission history From: Junnan Liu [ view email ] [v1] Tue, 17 Dec 2024 18:12:47 UTC (347 KB) [v2] Wed, 18 Dec 2024 13:05:24 UTC (347 KB) [v3] Mon, 6 Jan 2025 16:49:55 UTC (356 KB) [v4] Sun, 1 Jun 2025 06:40:28 UTC (441 KB) [v5] Fri, 8 Aug 2025 15:28:01 UTC (441 KB) Full-text links: Access Paper: View a PDF of the paper titled Are Your LLMs Capable of Stable Reasoning?",
+        "title": "A brazen attack on air safety is underway — here’s what’s at stake",
+        "link": "https://www.theverge.com/planes/758913/air-safety-regulation-faa-trump-bedford-sully",
+        "published": "2025-08-16T12:00:00",
+        "source": "theverge.com",
+        "summary": "A brazen attack on air safety is underway — here’s what’s at stake | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Hamburger Navigation Button The homepage The Verge The Verge logo. Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Investigación"
       },
       {
-        "title": "Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality",
-        "link": "https://arxiv.org/abs/2503.24277",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Canby , Julia Hockenmaier View a PDF of the paper titled Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality, by Sewoong Lee and 2 other authors View PDF HTML (experimental) Abstract: Sparse autoencoders (SAEs) are widely used in mechanistic interpretability research for large language models; however, the state-of-the-art method of using $k$-sparse autoencoders lacks a theoretical grounding for selecting the hyperparameter $k$ that represents the number of nonzero activations, often denoted by $\\ell_0$. Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI) Cite as: arXiv:2503.24277 [cs.LG] (or arXiv:2503.24277v2 [cs.LG] for this version) https://",
+        "title": "Laura Loomer and the limits of posting everything",
+        "link": "https://www.theverge.com/politics/760269/laura-loomer-deposition",
+        "published": "2025-08-15T23:36:49",
+        "source": "theverge.com",
+        "summary": "| The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Hamburger Navigation Button The homepage The Verge The Verge logo. Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Investigación"
       },
       {
-        "title": "Are Large Language Models Robust in Understanding Code Against Semantics-Preserving Mutations?",
-        "link": "https://arxiv.org/abs/2505.10443",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Authors: Pedro Orvalho , Marta Kwiatkowska View a PDF of the paper titled Are Large Language Models Robust in Understanding Code Against Semantics-Preserving Mutations?, by Pedro Orvalho and Marta Kwiatkowska View PDF HTML (experimental) Abstract: Understanding the reasoning and robustness of Large Language Models (LLMs) is critical for their reliable use in programming tasks. While recent studies have assessed LLMs' ability to predict program outputs, most focus solely on the accuracy of those predictions, without evaluating the reasoning behind them. In this work, we evaluate whether state-of-the-art LLMs with up to 8B parameters can reason about Python programs or are simply guessing.",
-        "category": "Investigación"
-      },
-      {
-        "title": "Optimizing Prompt Sequences using Monte Carlo Tree Search for LLM-Based Optimization",
-        "link": "https://arxiv.org/abs/2508.05995",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Bastian , Tian Lan View a PDF of the paper titled Optimizing Prompt Sequences using Monte Carlo Tree Search for LLM-Based Optimization, by Fei Xu Yu and 3 other authors View PDF HTML (experimental) Abstract: Large language models (LLMs) have demonstrated remarkable capabilities in code generation and structured reasoning; however, their performance often degrades on complex tasks that require consistent multi-step planning. Subjects: Machine Learning (cs.LG) Cite as: arXiv:2508.05995 [cs.LG] (or arXiv:2508.05995v1 [cs.LG] for this version) https://doi.org/10.48550/arXiv.2508.05995 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Fei Xu Yu [ vi",
-        "category": "Investigación"
-      },
-      {
-        "title": "AGI for the Earth, the path, possibilities and how to evaluate intelligence of models that work with Earth Observation Data?",
-        "link": "https://arxiv.org/abs/2508.06057",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "In this paper, we argue why Earth Observation data is useful for an intelligent model, and then we review existing benchmarks and highlight their limitations in evaluating the generalization ability of foundation models in this domain. This paper emphasizes the need for a more comprehensive benchmark to evaluate earth observation models. Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG) Cite as: arXiv:2508.06057 [cs.CV] (or arXiv:2508.06057v1 [cs.CV] for this version) https://doi.org/10.48550/arXiv.2508.06057 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Mojtaba Valipour [ view email ] [v1] Fri, 8 Aug 2025",
-        "category": "Investigación"
-      },
-      {
-        "title": "Architecture-Aware Generalization Bounds for Temporal Networks: Theory and Fair Comparison Methodology",
-        "link": "https://arxiv.org/abs/2508.06066",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "We address this gap by providing both the first non-vacuous, architecture-aware generalization bounds for deep temporal models and a principled evaluation methodology. Subjects: Machine Learning (cs.LG) ; Artificial Intelligence (cs.AI) Cite as: arXiv:2508.06066 [cs.LG] (or arXiv:2508.06066v1 [cs.LG] for this version) https://doi.org/10.48550/arXiv.2508.06066 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Barak Gahtan [ view email ] [v1] Fri, 8 Aug 2025 06:57:49 UTC (226 KB) Full-text links: Access Paper: View a PDF of the paper titled Architecture-Aware Generalization Bounds for Temporal Networks: Theory and Fair Comparison Methodology, by ",
-        "category": "Investigación"
-      },
-      {
-        "title": "Indian Legal NLP Benchmarks : A Survey",
-        "link": "https://arxiv.org/abs/2107.06056",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Subjects: Computation and Language (cs.CL) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG) Cite as: arXiv:2107.06056 [cs.CL] (or arXiv:2107.06056v1 [cs.CL] for this version) https://doi.org/10.48550/arXiv.2107.06056 Focus to learn more arXiv-issued DOI via DataCite Submission history From: Prathamesh Kalamkar [ view email ] [v1] Tue, 13 Jul 2021 13:10:10 UTC (1,154 KB) Full-text links: Access Paper: View a PDF of the paper titled Indian Legal NLP Benchmarks : A Survey, by Prathamesh Kalamkar and 2 other authors View PDF TeX Source Other Formats view license Current browse context: cs.CL < prev | next > new | recent | 2021-07 Change to browse by: cs cs.AI cs.LG References & Citati",
-        "category": "Investigación"
-      },
-      {
-        "title": "Federated Continual Recommendation",
-        "link": "https://arxiv.org/abs/2508.04792",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Comments: Accepted to CIKM 2025 Subjects: Machine Learning (cs.LG) ; Information Retrieval (cs.IR) ACM classes: H.3.3; I.2.6; C.2.4 Cite as: arXiv:2508.04792 [cs.LG] (or arXiv:2508.04792v2 [cs.LG] for this version) https://doi.org/10.48550/arXiv.2508.04792 Focus to learn more arXiv-issued DOI via DataCite Submission history From: Jaehyung Lim [ view email ] [v1] Wed, 6 Aug 2025 18:06:36 UTC (577 KB) [v2] Fri, 8 Aug 2025 07:27:54 UTC (577 KB) Full-text links: Access Paper: View a PDF of the paper titled Federated Continual Recommendation, by Jaehyung Lim and 6 other authors View PDF HTML (experimental) TeX Source Other Formats view license Current browse context: cs.LG < prev | next > new | r",
-        "category": "Investigación"
-      },
-      {
-        "title": "This quantum radar could image buried objects",
-        "link": "https://www.technologyreview.com/2025/08/11/1121314/this-quantum-radar-could-image-buried-objects/",
-        "published": "2025-08-11T09:00:00",
+        "title": "Why Trump’s “golden dome” missile defense idea is another ripped straight from the movies",
+        "link": "https://www.technologyreview.com/2025/08/13/1121332/trump-golden-dome-missile-defense-national-security/",
+        "published": "2025-08-13T10:00:00",
         "source": "technologyreview.com",
-        "summary": "The team posted a paper on the research to the arXiv preprint server in late June. The radar is a type of quantum sensor, an emerging technology that uses the quantum-mechanical properties of objects as measurement devices. It’s still a prototype, but its intended use is to image buried objects in situations such as constructing underground utilities, drilling wells for natural gas, and excavating archaeological sites.",
+        "summary": "A mock newspaper in the movie hails it as the “greatest peace argument ever invented.” The experimental weapon is “the exclusive property of Uncle Sam,” Reagan’s character declares. But do cinematic spectacles actually enhance national security? More than 40 years later, this cinematic vision—an American superweapon capable of neutralizing assaults and ushering in global peace—became a real-life centerpiece of Reagan’s presidency.",
         "category": "Investigación"
       },
       {
-        "title": "Learning Logical Rules using Minimum Message Length",
-        "link": "https://arxiv.org/abs/2508.06230",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Subjects: Artificial Intelligence (cs.AI) Cite as: arXiv:2508.06230 [cs.AI] (or arXiv:2508.06230v1 [cs.AI] for this version) https://doi.org/10.48550/arXiv.2508.06230 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Ruben Sharma [ view email ] [v1] Fri, 8 Aug 2025 11:23:58 UTC (51 KB) Full-text links: Access Paper: View a PDF of the paper titled Learning Logical Rules using Minimum Message Length, by Ruben Sharma and 3 other authors View PDF HTML (experimental) TeX Source Other Formats view license Current browse context: cs.AI < prev | next > new | recent | 2025-08 Change to browse by: cs References & Citations NASA ADS Google Scholar Semanti",
+        "title": "The best budget smartphone you can buy",
+        "link": "https://www.theverge.com/21420196/best-budget-smartphone-cheap",
+        "published": "2025-08-15T20:29:35",
+        "source": "theverge.com",
+        "summary": "The best cheap phones for 2025 | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Hamburger Navigation Button The homepage The Verge The Verge logo. Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Investigación"
       },
       {
-        "title": "Improved Sub-Visible Particle Classification in Flow Imaging Microscopy via Generative AI-Based Image Synthesis",
-        "link": "https://arxiv.org/abs/2508.06021",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Subjects: Computer Vision and Pattern Recognition (cs.CV) ; Artificial Intelligence (cs.AI); Machine Learning (cs.LG) Cite as: arXiv:2508.06021 [cs.CV] (or arXiv:2508.06021v1 [cs.CV] for this version) https://doi.org/10.48550/arXiv.2508.06021 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Utku Ozbulak [ view email ] [v1] Fri, 8 Aug 2025 05:15:02 UTC (1,966 KB) Full-text links: Access Paper: View a PDF of the paper titled Improved Sub-Visible Particle Classification in Flow Imaging Microscopy via Generative AI-Based Image Synthesis, by Utku Ozbulak and 4 other authors View PDF HTML (experimental) TeX Source Other Formats view license Current ",
+        "title": "Louisiana sues Roblox for creating an environment where &#8216;child predators thrive&#8217;",
+        "link": "https://www.theverge.com/news/760162/roblox-louisiana-lawsuit-child-predators-safety",
+        "published": "2025-08-15T18:38:16",
+        "source": "theverge.com",
+        "summary": "Louisiana sues Roblox for creating an environment where ‘child predators thrive’ | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Hamburger Navigation Button The homepage The Verge The Verge logo. Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Investigación"
       },
       {
-        "title": "Harnessing Adaptive Topology Representations for Zero-Shot Graph Question Answering",
-        "link": "https://arxiv.org/abs/2508.06345",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "Extensive experiments across 7 in-domain algorithmic graph QA tasks and 2 out-of-domain downstream tasks show that DynamicTRF significantly enhances the zero-shot graph QA of LMMs in terms of accuracy Subjects: Computation and Language (cs.CL) ; Artificial Intelligence (cs.AI); Graphics (cs.GR); Machine Learning (cs.LG) Cite as: arXiv:2508.06345 [cs.CL] (or arXiv:2508.06345v1 [cs.CL] for this version) https://doi.org/10.48550/arXiv.2508.06345 Focus to learn more arXiv-issued DOI via DataCite (pending registration) Submission history From: Yanbin Wei [ view email ] [v1] Fri, 8 Aug 2025 14:18:24 UTC (1,837 KB) Full-text links: Access Paper: View a PDF of the paper titled Harnessing Adaptive To",
+        "title": "Here are the best AirPods deals you can get right now",
+        "link": "https://www.theverge.com/21302051/best-apple-airpods-deals",
+        "published": "2025-08-15T18:29:53",
+        "source": "theverge.com",
+        "summary": "The best AirPods deals for August 2025 | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Hamburger Navigation Button The homepage The Verge The Verge logo. Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Investigación"
       },
       {
-        "title": "Probabilistic Foundations for Metacognition via Hybrid-AI",
-        "link": "https://arxiv.org/abs/2502.05398",
-        "published": "2025-08-11T04:00:00",
-        "source": "arxiv.org",
-        "summary": "A set of future Comments: Accepted to AAAI-MAKE 2025 Subjects: Artificial Intelligence (cs.AI) Cite as: arXiv:2502.05398 [cs.AI] (or arXiv:2502.05398v3 [cs.AI] for this version) https://doi.org/10.48550/arXiv.2502.05398 Focus to learn more arXiv-issued DOI via DataCite Submission history From: Paulo Shakarian [ view email ] [v1] Sat, 8 Feb 2025 01:10:56 UTC (22 KB) [v2] Tue, 11 Feb 2025 12:57:13 UTC (22 KB) [v3] Fri, 8 Aug 2025 08:24:32 UTC (22 KB) Full-text links: Access Paper: View a PDF of the paper titled Probabilistic Foundations for Metacognition via Hybrid-AI, by Paulo Shakarian and 2 other authors View PDF HTML (experimental) TeX Source Other Formats view license Current browse conte",
+        "title": "What my first five Steam purchases say about me",
+        "link": "https://www.theverge.com/games/760049/steam-first-five-purchases-meme-dragon-age",
+        "published": "2025-08-15T18:27:58",
+        "source": "theverge.com",
+        "summary": "What my first five Steam purchases say about me | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Hamburger Navigation Button The homepage The Verge The Verge logo. Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
+        "category": "Investigación"
+      },
+      {
+        "title": "PBS is slashing its budget in response to Trump&#8217;s attack on public media",
+        "link": "https://www.theverge.com/news/760026/pbs-is-slashing-its-budget-in-response-to-trumps-attack-on-public-media",
+        "published": "2025-08-15T18:01:39",
+        "source": "theverge.com",
+        "summary": "PBS is slashing its budget in response to Trump’s war on public media | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Hamburger Navigation Button The homepage The Verge The Verge logo. Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
+        "category": "Investigación"
+      },
+      {
+        "title": "Anker’s 3-in-1 Qi2 charging station has returned to its Prime Day low",
+        "link": "https://www.theverge.com/tech/759853/anker-maggo-3-in-1-qi2-charging-station-oneplus-buds-4-deal-sale",
+        "published": "2025-08-15T17:30:00",
+        "source": "theverge.com",
+        "summary": "Anker’s 3-in-1 Qi2 charging station has returned to its Prime Day low | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Hamburger Navigation Button The homepage The Verge The Verge logo. Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Investigación"
       }
     ],
     "Seguridad": [
       {
-        "title": "La UCA investiga cómo se comportan los humanos con robots e inteligencia artificial en entornos extremos y médicos - Cadena SER",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaERzOGZjejRWWndVYkVyREVtcE1QejFzZWk1VENnYXZmY2E0YVd5Rm9WQzFodGlUQUMtTlE0anpJYkl2dlQtRUgyLXltdlg0dWp2aEdvblpqY2RvbTNuUDEyMHVyU19HSzQtWWs4ME8tOWpreWVqSDBYZWJvUXgtSHVEZzNGNHRRUVhxa3pLQzJiblVJc1kwR3hWMzgzTFJScXZtUTNLbmJDU2pueURXZUVFWUM1VHp2b0NBS09oWXlacFl3ZEZ1cFlqOU1xTXJMd25rN2RsNFRCME8xQWwxQVRPX3JaMGtpN0lvUHpmWnBaQ1RmNnNGNUVkMkREMEnSAZMCQVVfeXFMTmxDbm1LcFl2MGIwRkEyTU5qUE5JdXFXWmtoODl6WUhCYjFaUjFiX3lDck44UHBONE9EWmZENFRRbDBCQjlTQ0l3UGtWbjBHLTdId096UEtwM3poenYzLVV4WTZudC1WMVhuajVVX1JJRkxfeHItcmZmRGluRzhYUmNESm5wNE1oMU5KQ1VRMWZMdU5yZU1PcWNFRjNtUWJKdnZ3bzZ3ckVBVlhwVWZKcmFCaExpUkNZX1Rfa25BVGZ1Nk5yeGt0c3htWDhwTk5KbktMZm1RRy1uYUx6UzZ5S1lIUGRlZEh4Z2NyalJESlFfS2JwTjVqaVdTem5OdzB2SFJSNW5fR0Z3OHEzckpadEptaUE?oc=5",
-        "published": "2025-08-10T10:29:18",
+        "title": "¿Podría un chatbot de IA engañarte para que reveles información? - Euronews.com",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd1FjQ1pYT2tTR29tOUJfanZFc0ZTSTRRQUtFQTMtbHhnTFZFYWM2aEUwbjF3dnFYNmxVVnc0V0lkeFQ3WVgxcE5qRVYxTVlBeUNpLUh4dDI3WEFFT2ZlSXpmMDhmSU1LWGVXMHd6Qkc1WmFIZVlHQXBsbXlTaWJXV2RjTXlOTG4wbDYyM3Z3WjcwRmR3S3Y2aHRGQ0MxY3lsLS0wcHdWckdVYXYxNGZZRWtUUDE2dDFqa0Jhano3MDQ0UGM4NjM0UDlB?oc=5",
+        "published": "2025-08-17T01:00:50",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Seguridad"
       },
       {
-        "title": "The Download: AI agent infrastructure, and OpenAI’s ambitions",
-        "link": "https://www.technologyreview.com/2025/08/05/1121056/the-download-ai-agent-infrastructure-openai-ambitions/",
-        "published": "2025-08-05T12:00:00",
-        "source": "technologyreview.com",
-        "summary": "These protocols will help AI agents navigate our messy lives A growing number of companies are launching AI agents that can do things on your behalf—actions like sending an email, making a document, or editing a database. Initial reviews for these agents have been mixed at best, though, because they struggle to interact with all the different components of our digital lives. Over the past year, they have both introduced protocols that try to define how AI agents should interact with each other and the world around them.",
+        "title": "Los robots con inteligencia artificial de China conquistan el comercio minorista - DW",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeW1iQWI2S3Y5QXdydlNhMUM3MmhLZmJyMWpYbHN6WDRDc1JvTU9TUEVjMkZ2Si1DZWo5T1pidzJFa0xETzBQcW9LZUtDN3JPSWp5d1VYX3ZqUFlEUV8wV1RZV0tzQkxSdHpKMVIwS3JteU1KYUVLcnlKOGtIdVVFOFNoX0p5Qy03ZUpvWU0yWGpiVVdhbk9DTDFIMFo2NmRUbFQ4UzhCblktSDBORDN3RFd3TQ?oc=5",
+        "published": "2025-08-17T00:56:45",
+        "source": "news.google.com",
+        "summary": "Google News",
         "category": "Seguridad"
       },
       {
-        "title": "La inteligencia artificial y el riesgo de perder la autenticidad en la comunicación empresarial y el marketing de contenidos - PuroMarketing",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUkIwUnEzbHFkZHJBWnZfcTZESkdSdGRnUXZGOHBKTE9NdkpZZEY1b3ZCRDVYZEV0RGhfV2ZKQktIUEFPUFgxdEdNRGVRZUh0alFuWTNYWExyM2Z2WlpnSDNxcUFESDVRS1JmWk5mc01VUjVhclpUSUp4RC1hRXpJSHZPTDJQVks1QTlSYlJaZFJKc1MyRC01UUNrR0pMd3UtTWp0R0xSUmZCMy1NT0RmTUVwMVBxWVV5ZmIyUEpjejhQcHpBYkJTTWdibEthN2RELVE?oc=5",
-        "published": "2025-08-05T08:35:12",
+        "title": "Los navegadores con inteligencia artificial ponen en riesgo datos bancarios y médicos de los usuarios - El Boletín",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObE5hQm15ZlBQT21RZ1BpTGxoa0FIaVZBMVYxcWR6RkI0bm9STllXWG9oN0RnUDRNYTJlSG9JZzhVNkkyNEF5TTFHQmxnSUg3XzhWdkdkT09NQlRzeVdvN2M0YW5oc2xNSXRlazZ1NGJwYmktRDQ5TU9xYUhmYnBCWGZvSnpSa0RsM2ktNGpNUXdRWWxfNmpranRKbXdjaTRUQTVFdWwzX3dQZW9EUlM3SlNUSVo3WlByR0Q4Wnp1U01wVU1OMDRF0gHMAUFVX3lxTFB6bTVkVEpZcm1oc0hmRHJYempPTkdicVRpS0ZCQV9OSktRZ2tySXRnWk0zTC1pYWE0Y3dSNlk1MG1QRFctcVRZNkJiOTUzT0ZiYnl6Y0d6RmU3ekxnQVJkZW1aNG9jXzZmTEk4RkZaTTBPdmN4VmJoUWtQd0lvT1ZSM3pMTDZwNnREMEhzdkdrb1N4ZVRGMWdrNS1Mb3BiU1FoVHVILVQ1ZFlaTVpfTkxqUUFUQjBjY19zUU5SMS16MF95djlObExCM0lMYw?oc=5",
+        "published": "2025-08-16T22:17:03",
+        "source": "news.google.com",
+        "summary": "Google News",
+        "category": "Seguridad"
+      },
+      {
+        "title": "Tu chatbot no te ama: la peligrosa ilusión de la inteligencia artificial - Nueva Sociedad",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU0lGNXVYMkdiMmdLcnduUjFpRGZRZVRBd3I5NVZrYlVCSU5DQ28zT0lXNzNSVThiM1gzRm9hejdrM2U5Z1c0OHdWZURjVTVZczVhQV9wejY1amp4QUFiZWZVUUlSQWItZ0F5U0VMY1dHNkhST0NqTWpCVWh0WVY3UVlURnJPQWpKNnRN?oc=5",
+        "published": "2025-08-16T00:27:47",
+        "source": "news.google.com",
+        "summary": "Google News",
+        "category": "Seguridad"
+      },
+      {
+        "title": "El Dr. Cacabelos reconoce en \"Virtudes y peligros de la Inteligencia Artificial\" que aporta grandes beneficios pero también plantea riesgos y desafíos - Diario de Santiago",
+        "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZVo5cENwUDFKWWFIcVVKTklCWERrQW91ZkpnTzM0dFdMQXludmJtNWFNRlU5eHowdGsxaVcxeWgtYTNUMktYbVdHdUp2WnY2eTF1aURSMm9lTDMwRmlqNVRERWVCU1dpQzJQbjBRVGVlUTJ5WTE1QklxSHpmOHV3VEZfWmxyTlVJN0tEa0lUSlAzcm53dFc0VnZXd1JDYWZKVGRzUU1wTlZsX2lWRTRCMF9ENFNxRTd3MDRvU2JUR2NianJxMTZ3Q2M5Q3hkWU5uUkFZRWlfeVJkNWYyZl9OS1IwMHZUT3ZZZ21ZVk5aQ1paSFRzTWpIZlkxcy1KUE9qbmI1UUg4Y1BCU1JMbG14SGFSenpaeVpJWWhj?oc=5",
+        "published": "2025-08-15T20:59:03",
+        "source": "news.google.com",
+        "summary": "Google News",
+        "category": "Seguridad"
+      },
+      {
+        "title": "Apple redefine su estrategia de inteligencia artificial con robots y dispositivos para el hogar conectado - Zonamovilidad.es",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQVnpIY1BWTjR1X1VJMHgxVlVISWtGcmg0RV8wU0JOdlJvRlpVQVo5YmoyWFhBTEt5QTQxcm5YVGJCN0o2Z09RNTBYaGpkYjhtclN0ak5HNUlBaWkyZVdWNk8wV0ZIT1g1a2lkRVhUR3FFcXhzZlNMNHlRVDVEWFZMb1dOeFd2VnJ2LVZUNGEzX3YxdEs4X3ZJNEtEdnN3RjJ1UDVoNXRDZGNFZmZFSHJWZ3hkSjlWMnVPTHRoZm9KTTdjM25BX0lOSmRzLUpRd081c2FhZjA0VEtvT0tkb3lHcnAxYTZ1Q0pLZXNYNW1SLU15TWsxWUVyWWlrcXRGVTFnOFMteEpSRHQ?oc=5",
+        "published": "2025-08-15T07:04:05",
+        "source": "news.google.com",
+        "summary": "Google News",
+        "category": "Seguridad"
+      },
+      {
+        "title": "Cómo se usa la inteligencia artificial (IA) en ‘deepfakes’ para estafar y cómo puedes protegerte - Factchequeado.com",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xb2g0VjZpOFVRa21yYWdjaTZIUlVBaDBMMVBEd2VOZjZMWFpSdHpfZHhVd3p2LUcyb2ZhcjRsX29QM29nNDVIcWtlMk1xMTlGREZUcG5QN1lLQ052aW5oeF91cHRrRlljR21yNk85NmJtQzVpTUNocVZCenZ0Zw?oc=5",
+        "published": "2025-08-14T15:42:00",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Seguridad"
@@ -475,121 +419,121 @@
     ],
     "Hardware": [
       {
-        "title": "Hayao Miyazaki, sobre la inteligencia artificial: \"Estamos perdiendo la confianza en nosotros mismos\" - Cadena SER",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYkotMlp4b1ZROUFYcGd6TGdReDRJd3JxZXBjaEJDREs4T0F5OUFjMzNPVFlBY0tha2NORnZZZ1NsUFJMMDl3amxNaHVFT2RWMkMzdWl5eDNJd0t6eVEzWURIVEZDVHJHYVhlVnJHVDhFdHhiYUV0Z0lraHdnRG5VeDIxWUlTSV9FREFIUlpuM2IzajdCcmFDY1ZCcHFDVHFRdmV0Tnh3NzdoRUEzWE04MndUaTVHT25yblU4bTNCOVlCRTkycm5NTHJMQ1ZlOW5hSkREY0d0RjdwM3YwV1pQSFBIbUJxZ9IB-gFBVV95cUxOb0pvWDdmM2swMkpiSDRRc1FBbTlkQy1nQ0NVY0hBUTlRV1daWWJueVFEZVVoVVFqcVNHMDk1RHlUcFd5WXUwQlRiX25EZ1lVYU9yNjlVemNDZDlqaTcwbE9jRmZ1ZWZmZTZVXzNHZGU2eHFQY0xfNjh0aGJzV1RHOVlidDZsYndXMlRfNXFjUUhmWWlCbWNMYlpRTjRmU3dmZnJ6OTBPQlpQRmhKT3E1ZTZxSVVrOGgtLWVvZzFrakItSkRiWkk4Tlg2UFRxVEtvb25IQ0REaThoUFZPejF4QnF1dGxkQXViTWlqTlRjWERDc2QzX3JudTBB?oc=5",
-        "published": "2025-08-11T13:24:12",
+        "title": "¿Cómo funcionará el primer restaurante gestionado con inteligencia artificial? - business-people.es",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdkR3UnkyRHBnTUh2RC1jdmN2b3ZzRzlEOFBfUGxEbEljQndpTmdTREFKQWRGMU80SjVJb3Y3bDRodkxvSEVpYWExSS1wTEVNcncxNURFejNreGVzeUZObUZlcUlEdDQ2ck9UVTZMR1IzQTZNOXFWdHZqVDhRRnZmOW8xdmdIRFU0WDNreXpGLS1ETzVvVWNlaFV0dW9VcVExVFptMGkwakV3Q1ZQUjhBZjNLTkdIQmFOU0VuQzdyWjNsQQ?oc=5",
+        "published": "2025-08-17T08:00:57",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "EEUU lanza la alerta: la inteligencia artificial está dejando sin trabajo a sus jóvenes mejor preparados - El Economista",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZ0JLVmZFQ3UyTldZNlJZdVFqblRkVnZnTy00Sm03cUd0LWRjSXFKMG51aHVlWmFUUWh5cWpvaGZNeThYUUdUWmpfZGp4QzJ1OHpmaUQyekhxcXhNSjNJVGxJRHRWazBvVjdHVFRMbERtZGtXSmU3R3BRX0JxMzA1MVo2a2dJNkNmaUU2c2xSNENNajVRNGgzX1MtVDJneTZHNkpjQWtpZXJFdW1LNkpWV0RfNDRJdnp0UlpvT2ZJYjltLXhXY2FKVXRpM1hiUURTRkFHR050SThUR2FhYXg2Ykp1VnRwRUY5THZycEYzcVFqd2FuaG9NVW5vOFhTUQ?oc=5",
-        "published": "2025-08-11T12:28:06",
+        "title": "Contra el fuego, Inteligencia Artificial: un palmero diseña una aplicación pionera para la lucha contra incendios - El Time",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNUGszWVNuRjQ0d2M0YWk3OV9MTll1Q1hOU2ZuVGNkYm1mUmRlMHMtZTJDZFUzclkyOTB2eGplNGxMS1BlSWZVRWptYTRxOWVPdndQS3R4RE8tNTRRbkF3cnRnUzcwTTR2WGZTRzNRS0dKTFd3QTJ2TVVDckJGNmJSQnFJeHJNdGxBeXB4Ul83LU1UYWc2eHljQ092NXBrSDB6elVPajNzTlJ4c1VHdTZyOFdJUHJ2eE5KNU9kdlQwOGl2R2t0M1JnTXhYZURoOHdiNXpsS04wRi1fYXNIVkZiMGRxZ0hxOUxRdzl3MkZ3VlM1OTV1Q1MyZDFMYVVyaVlENzg1LWtjdHdVX3dRR3EwZTdkclBmekJ2?oc=5",
+        "published": "2025-08-17T07:36:14",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "De Gutenberg a la inteligencia artificial generativa - Onda Cero",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPT2tVY1BHWHFSalBLZjV1NWtHaWdsYm5md296bjU3UTRBcUdBekFvRHhBYzhXUi03c1JRWHFiOGNWYmJFYTBudm41Rm01ZkJFMmxnWnh6Qi01d0pmeS1hdTVhX3hHejdWNmducHRYdTc4UFo0cXljOVVCcmwtYUhmUkVrTkxlSXBNenBndVlCWHdZY0tySE9WNHRfYWxBZGhCdmcyR2xWQ2NfREsxNkx1NW5IS09WRWJnT0Z1MUpsYkRfNkU0amU2VmZCSnFac2wwUGJXazFzN1M4clFNN0kwX3Z4X0FXYktaTnBkOGZGSUJnQ1hqby12c2wzVVFMZ9IB_gFBVV95cUxNNS0zNE1wSXh2eTVOdGlxMVVYT0J3Z2NvZHNkMzdSOE82Vjg2M1F3VG9OazdRVmFEaXhnbVI4dE15UDFTMUdrUWxSNDYwbEJtOHZ4V2lMeW9JYjZqZ0ExWWxTUkVhSFBRMVBNbFBvd3NGMDRqNDYxTWhMUkxRZThNaFhTMk9KWDMzWGpMRmJtNUpFV2dzS3FIQmQ0ck5IalMtTkpJZkxfZUVBWHlWb3hzV3U3ZUI5Q0huLVp6Tl82ajVIeGM2Q0g3cmNqNGxFREZ2SEZhWFdzWVMxZ3RBWDc0TTY1R2R0amp6c1duS1ZGZ1B5dlJ6RWVWUHQ2R2VWQQ?oc=5",
-        "published": "2025-08-11T12:22:35",
+        "title": "¿Cuánto gana un especialista en inteligencia artificial (AI Engineer)? - 20Minutos",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa3RxZnJlVnEtaDk0aUE2SFNBVkhMSHhPVmFSb2xPWDJ2cmIxMWl3Z09OSXlqYWppQXhlVFJRMWFreDJkZlM0Uzh2S3NzNWxBdEk3ei13Y2dna3NmckJDQ2FoQThjMGRqSW5zZHFQb0pkR1Q0cUMxcW5qS3luZi1kOF82WnR1Nlc0bkdlSXZKdkUtOWxmUDA2b2NNZkZxRVJjM1VYdk1KbEVpRGZxY2l3Q1Q3Z08yczZId0FmUlZ1ck02NGwwcnc?oc=5",
+        "published": "2025-08-17T07:00:00",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "Melanie Mitchell (56), experta en Inteligencia Artificial: \"Si lo que sabemos de la IA es lo que cuentan las películas es normal que tengamos miedo de que la inteligencia cobre conciencia y se vuelva malvada\" - Esquire",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0JkaU4wX0U5R213RjFEYURnZ3hFN0lIbXg2bnJEc0dpTHR5U0l6dEotTUhzbF9Lei1HVHdFMXM1Qzh0UFZuQzNWN1ltUHVWRlJ2SFdjbzdpNnlTSW1IVUhLT25FMTNGMFRzUi1vdnF3NVI3TmExVDg1SzRfb1ByQkZKNXBjYU9KWHFnbWxaRFlJREtXSTJYcVFyQmkzSVdscXV3cVZUUzI5R1ZqTDJyTy1sZUY?oc=5",
-        "published": "2025-08-11T12:05:02",
+        "title": "¿Podrá la inteligencia artificial desarrollar conciencia algún día? - Escudo Digital",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPclZmZkZ5RlR0SWwyQ1dIc0RfdkJnaGE4U0h6ZHlLUktCSkNNYUNYZ2lXaVFYWGtTQ1R2bUFDRGxYWm9WOENZNEFsMjNVMTNTdXdmTERWVU1KTHlOVG5OaWQ4aXlkZHJ4YjRWU1VqZVVQU3FpMWZzeE5SOHlWMEU5RTZGOXdfUXNiVXA5c21XcXFaZzFDSXNGd0oyQW10dXF4QmtjLVhkUzI4cXVJYUo5aUh1Q1BwT3hUekYzRkE3bGtXSTNyaDdlMmxkY1d6WWJY?oc=5",
+        "published": "2025-08-17T05:00:04",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "EDGX logra nueva inversión para su ordenador espacial con inteligencia artificial - The Officer",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLXZPb1lUc2xvNEM5M3BWVVdnNDZoT21PbnhYQUZsVmFKMll4ZkYxVWQyeUJRdnpNMVl2LU9FV2w2aHY0RVFKdGJCTzVlUmM4aWNhRkJvTjhnaWxpN1pkNkY3OTE3Z2xiSXhnZTR6c2J4XzRpVHB1cnhGREFyZld3ZS1Tanp6N2s?oc=5",
-        "published": "2025-08-11T11:56:22",
+        "title": "Fútbol e inteligencia artificial: la fórmula perfecta - Emprendedores",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT1p5M0MxWTBLRGhTcnRRdHBvUWdIdlBxWkhURFV2bEZuOFZkUUNTUjRuNkFOSjRJcHJQbC1JczFyTTZoY2FTNmxvWnZTTThqSWQ1eUFlM3JHeGxLMzVLaXdkdjl5ckdNY3Z6aTc0aG4wZGxFVGVua1BmR2Joam50QUFaWjY4dXM?oc=5",
+        "published": "2025-08-17T05:00:00",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "Un proyecto de la UDC investiga con inteligencia artificial cómo optimizar la previsión de lluvias y prevenir inundaciones - La Voz de Galicia",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNT2xVTG4xRXdoSVlsRGxXdG1NRE04TFRMcjM2RGNqczVsQXdCdnJMdTE1aTBKcnMyYkQ5MDJyOE1qUVJoYTREaVFYWmdvNGlYX2FZUEFIMFZhNE1hTWtkQXJCRzI4UXdoVFlUOUJfU2c2ekl3dFZ1WkxSWDdVd1Y1OWhmZGpqSndFUjdPRGVrUDRlR0I2aXpBTkRlODQtdDNGSTh4aGFPU1oxZ0hidFp2blJWTWpITnNKLXMyNU9SR2h5Y2c1bkFYNk9Wemo3X2cwTXVQYUJwNWRDdmJPSlRzMmE0b2hkZWlZV2J5eFo4Sk41bExhNmpmZDREY1diTFl3cWFVYUlad3RVejV1NXfSAaoCQVVfeXFMUFJ0a3R0LU5WMEp6WlRBOE1jbjVmNTR1c1dQYkVWVmZSdXdBVjFLYUVxLVR2ekt3eTJpQno1NGlfUEYzNTlLc2UzWDNxSkdfdlVQOC1oNUdDelAtcXJqQ2t4SjEweG5mMFV6OUgwUUxZYmtVQlN3TzJjWUpZX09WTjJ1WGlzOVlhdFZNWE5OMzZKY2Jid2trV1pKSU13Vmh1ODdTYlNxTVhPSkdQWjB4ZmZoQm9lUUczb19qSE9BTlI0SHpWcGRGN21DejhhSDgyUUVidjlCdE5WR21mSEpNc1VJS2pjQU02Q3NJdUo3MVluTHI5STR4MWxzMDAxZkRRTnZibXdNbFViSEpKem5Ia3lZZzNaa0k5TjJoNG1oRGkzVWhOcWFGaEtVUQ?oc=5",
-        "published": "2025-08-11T11:26:15",
+        "title": "La princesa Amalia ha sido víctima de vídeos para adultos creados con Inteligencia Artificial - La Vanguardia",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeGx2by0tajhYcmpaR2tlNHBiOS1JNmpqanJ2RDh3Znl1Ui1nMXNoUC1hXzAzV3d6WTZHWVpXTGhZTm5ra0VjYkEzZnRETjE3MGtrRkduMlo4dnd1aC0zQW1ObWoxWlVGbHlzUGZ4S2dhQXZUUTNXZGJ5R2l3MHhDWC12OG5yd3kxRWttUlc2Qno0U1dyX2hFN2sySlR2WC1rWFFnYnJzSkRCcXJuU19sYXIySDc3aXJWaFpCenZycnp4U1E4bjFYOVUtclROUQ?oc=5",
+        "published": "2025-08-17T05:00:00",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "La Inteligencia Artificial no debe convertirse en colonización digital indígena - Diario Responsable",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQckpib1d5aEZCU213ZkNTRUcyWm82SVA1NDAyVFVTXy12WnJaYS01Z2pmQWQ2dUwzSUNaaUxkZHFla0p5d1lUdHhpNzN2Tm5iRkJFM2ktZ2w0czhkZHF4YWdMZ09PcnpVWmVkSnJDZ2EtYlV6X1QwMmV0WDlrSnl4M25Ed2pDSmh1QzYxT0NxUGwwQjg4MjVjcFNfSk1UMGsxeHVKanY1RW5lRTlxM1lWUzR2UnlST3VDOGNCOFdHY1Y?oc=5",
-        "published": "2025-08-11T10:42:38",
+        "title": "La inteligencia artificial no es de fiar, pero nadie parece enterarse - EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPblZSN1BwVVJNRDEyYUtCYzdERmgxbnY3Y09KYmdsTEI2WWV2MTc3cmtqR1J4R1lpRzhQWEViajYwQmkwcEp5Q2FhZzNnUFJxZWZmdGJqcEU1SlJ1QXJJbEVxS3IybGdERXVFSHVCbHQtYm9PVFFQUlFIVE5wVEdHdUo2emt1NExhTHh6ZnE3d29lT2xpUnNnNWcyZUV1Ui1WeVpPOF9ycUdsbnhEdFA4?oc=5",
+        "published": "2025-08-17T04:55:00",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "El futuro del SEO y el marketing en buscadores está irremediablemente vinculado a la inteligencia artificial - PuroMarketing",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVkhWNTYwNnNqLUxOdndOaWxZM3ZScXd3cXp4MVhmOGJuT1lYakQzQXBhNDcxWFBTRGNYeFBVX08xdEk5ZUVTNVRlcm5oNG12UDRTZFRzdnZZeWVEWTlhSTFrNHg5Q1F6dG5jX2cwMS01MXIwa3RtNUhvU0syNDVDczBwU3hsOTVjZzBwb25nb1UxcDVhUHNHd3VRZkRjT2g1UnVDUUxUR1VZYi1jdkVEV3hiQmJIdmo3YXF4WWRGVUk?oc=5",
-        "published": "2025-08-11T10:26:07",
+        "title": "Cómo está rediseñando la inteligencia artificial la banca y los seguros - El Conciso",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSzVDeHJFQjV3UG9tcTRvRXR2TDFOVHg0azhHaEdFQm1tbzFvMnhMbmo1dlZjLVJxRU9VeldQZ2pxOUg5elJWOXR4eXVaYWdkMGQ3cnQ5NUJiRmZKS3RmTkNqalV6QV9qelZEUnFrN0FtQWFuSTFtd0ZhcUdTVFIzaWx6cUE1bEdHTWZCck9SejVLWXhQM0N1TW5nMnozNGw4Q2M00gGoAUFVX3lxTE1XRGt0Tm9CX1ItVWFWUkdnYTY2aWdGZE9qQ1U0OThRSVV1YlJyR0E5a2IzYVBNNkRNTGxXSE1PVC1UNWY0NER6SDByanU5Q3VaVkZubFVzYU9lM05RZlN1MUFpZnJaLXRtUHp1ZG5sQWlyZ2Q1QURtQ1NPV1VqVWttUlA3SkdWWEU5X0E4SEJHcy1FZl9tUzBQdjNiMTMxS2J1XzhXT1d2eA?oc=5",
+        "published": "2025-08-17T04:30:11",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "Ilia Stepin, científico en la USC: «Necesitamos explicaciones para confiar en la inteligencia artificial» - La Voz de Galicia",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTjQ3ZWJnMGhna2hDeVVKY3JfN3dWN19WTVF4cUdTSjl6LVloUkg0MmRzaUxBSHFCRzlUMTFIUFI4b2swNl9SUFEtQmZvRm4xZWkzVTZicklpZGNsZEJ2RS1kc2RpNmpDc1U5XzFCZGF3S1o2VjVKdm1fbmpaYklHUHg0MEJNbWZqRk10YWg0OEZ3c3VacWc0MkZXN0p0Y1dkVFFXQ0s2N25VMERxekpoc0JiNnItMHpLUU9PR1hzbF9BMU9ORHktWm9DY3J1N0ladGFIYjFn0gHyAUFVX3lxTE9oY0pvYTlhUURwZmtQckNpdDRuUFFYaUY3cGNPTGI2bkVHOElDaWpINVNucnZZV2xvWm92UFpTMVI5WmdUYUE1NEJGdnhhNWxvcTNMaGc0cDBDSGZFRFRJaGFSY3lVa1FKbXRycGw1Zkc2MjBwOTB6dmxKMHcxUE1TRlhqOFVHN1B1S2hzMlFudG1vWFhSd09LTW5CVWxhcHlsQzNZSkhjQXpTaS0wYlpKZkNOU3BEU1ZLYkVQV3diZF9FUzgzMlBFbldYS2htZHpibVN1VGtzS1Nmcm5YUjYtdk13d2h4eFhyVWU0d2RHaWtR?oc=5",
-        "published": "2025-08-11T10:19:43",
+        "title": "Inteligencia Artificial con \"potencial\": dos valores que seducen a los analistas - Bolsamania",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR3pzMDczdE1icWdTMVU2YTBPRVJmS2pBM0V1OHVaMlh1SGhEbHg4bVJ0aW5UYU5Id3IxeWhCX2dja2k3N05adWdpUHhZbGVqRGphNVJkWjlFLXNocTFpRzluLWVRTVpGZ2ZqWERLbmZHZ253NnM1NmhyWkhiYy1FQjZwOTl1QTcxV2NPZlF0VWV5d2FrbVd4aVJoVFA4dW1QRkpaR3BiUlZCTWhHb0FIRzN3Yl80N0JTSUJyb25ISWfSAcYBQVVfeXFMTW1kRFc0SlBwNnpIWE9TbkF5Tk9lc0tlMXYwYk93Y3lsdGtyazlmRUZUbWVJVmc1UUNwTDJURzBhX25EVF80X25NRDU0SGkxOGFDQ1VBY1g1bVMxQ1BvQVBaOTVDdzZMNGtGRnBiVmxZLW5uR0NwdVNUeWQ3Z2REX0ZaaFBYWG9jcUwyTFVJWHZsRkhMZFlWNVQzdE1FMWJ4LWE5ZkZBVWR0RjNUV3pwSV9LdlNFUmx4bGZ3eWNIdGZYcVZsbGN3?oc=5",
+        "published": "2025-08-17T04:00:00",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "Pronóstico de la Quiniela; Cómo acertar en la Quiniela de La Liga gracias a Inteligencia Artificial - GIRONANOTICIES.COM",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTHJfdHQtNEtxSV9aMm43T3ZhUWg4ckdGLUszMGd4S3dZaGd0V1JJZGxfWUxOR3RVWEZVSlVFTXVkam44Z2RTOWxvM3Y2M0hjZFlNdVpiTXdNX3ZZMThzSU9YQklHb05VaHozbmFWbzhtbHpNR1dHZEliempKZEdQZ1d6ckpibUlMZnVvVkhSb3oyblJ1YUJzc2pGZTdIMUxlMUFmZy12MFcyTW9UaHozMHE0dVVJZDhvOC0xRkQya2xJR3NfY3J5YnVuQnpkSmtlTjZxd0toWTh5RUNUWFE?oc=5",
-        "published": "2025-08-11T10:14:18",
+        "title": "De inteligencia artificial a triunvirato tradicional - EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMExPUHY4WXFfalNnaDI2UTV1YTBJTi1CV3dUZVlsa0VYNXdxUjcyOXBtbDFobXU4TDN6Zi0ySHk3aThmb05pNWNMaDdTNnZQWkJkU0J2YzNFRWZDeU4wRk93Z3ZsSzlXZHNVNXJGa3k4THRYY0hxRlZQRWFoaEFoUHVhSEZ2M0oxcHFLcVFRUzRRTWtJc1l6MmVxYUxDb0x4amRSeUNB0gG6AUFVX3lxTE4yWkRubkZKNkZGZ3hnb0Qwb2I5THVNdl82dG9JQjBtcEJpU0VGVFNUXzF0djN5b09CNHZxaWhuY0FYV3Rvcm1WQWQycUw3VWdqSFM2ckNOVVFIVmJHNnR5RjFxMkRZVW43WVhXWDk4dC1SbVlkUHRBdXlWSEF2NWdiNFZUNG9fS3Y3dnJHbjNpeDIwYUxnR3ZmM3ppQTdIVkhKcmlrRkVjVmxaUFNmaEgxME1iMVZXazBVQQ?oc=5",
+        "published": "2025-08-17T03:15:00",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "Transformación Digital destina 200 millones a la formación de 80.000 profesionales en digitalización e inteligencia artificial - La Moncloa",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWWUxQ21Ddlk4aUZHaVpqQ012bUk1ZEZhd1gzRmYtZWtfdFJOMm5zckx3a2M4aEU1SHlMM3o0bXdFa2VkVmtpeGZQM1lTTW9RbVN5T1o5ZldWU3ZNV003TUFCTHFuZDJkczQzc21DZ3FPOVF5bVFmZk5nVmJ4R2E1UUFZRlg0VUgtRTdudlZzRjR3NFFlV1FzR0pZSnh4U2xFbzVuZWVSWENuSWZlNkNEZzJ0ZHQxVWNjM05rSl9ITDBzdUVKeDczQ0ZIT3plOTZ1SE9hNEI4Q0xCSXNjQmFqTF9rMXd4WDJvWVgzYnd2TQ?oc=5",
-        "published": "2025-08-11T10:09:13",
+        "title": "La inteligencia artificial de veraneo: en chanclas y a lo loco - La Voz de Galicia",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNm1FVWpMMXhvbFJydXZjQzBpbEZ0ODZLTXhzcG4zVVFMOENLaVdybVBOVlY5dlZaVFFOa0hyaDZZU2x3S2NPTXk5N25nNF9YMzJyV001M1hwMUtncGlPSkN1TXNPM0pGSDdqc1ZHX3dKWS11Mk1rZDBqd3pZaXhhTVlSX21OQjBCaXNWd1NoY1JCMC1SY1lFeVNQazR2T3JseFVQOFFaY245X1VkcGRsZmN1TUNZUzItdzFNT01UZ0ZOaXc2dFE?oc=5",
+        "published": "2025-08-17T03:00:54",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "RunnIA: la inteligencia artificial de RUNNEA que te ayuda a elegir tu material deportivo (y a entrenar mejor) - Runnea",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMlhmbjJQVzFuQ3FxZ2tOdEttZUZELWQ5NnMtSmxqVFdwa3Jnc0lzWHdRUlJYMUZkd3hPenpueE1reXdIcTNyNE1yS3FnTVlWeld0Vi1Tcy1OS0Ytc0FBMWJibzVkNE03MWladkpKZTMzMk5lSVB5R0h2UWg2Vk1lX3RZVHkybGl6Q2JWa3R3WHVWSGtNU0tRUG95OGzSAa8BQVVfeXFMTUtFaktGbzRoazJqNTJHMEp0Tjc0T2d6bGtFb2Y0UVQ0cmhieWdYN2xESHVvcVozTUpDOXBnczhqRkF0V3llUnNsMW9TVGxYRmFpekxnU1hqTzhBVjFFWlRaTGZYQW9zR0ZjZWRRUEZ4d2JWRV9Ic1M2VmdGY1dMX0pTQ0lnSno2LW9IMmxEanpZa19JTUpCb0x5aXA2MGgwSDc5dkVQTHM4SERmRWlMSQ?oc=5",
-        "published": "2025-08-11T07:25:35",
+        "title": "La burbuja de la inteligencia artificial generativa se desinfla: comienza una nueva era para los datos y los agentes de IA - El Español",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPMXlKX2NFelM4bEVZSC1uQmd6dzNFOU94VXlvXzBXSzM3d0FybjhTTW5rb0xGSjJJLXprX2lMYWN0WWdfWVJ4R3plUEJONllZQWk3QWxZNUQ1c0dxTjFQcUFBOG5fNHZJZTJ3ZFk2bmJaVkRJTEFGZm1KWlJlb0pWcXU4S3dieDZzZDRVZnlFeURRdThMOGFzZkRBb3gxd1oxaGFhNmg0c1E0SFJuMTJCMmVPNXJLSmRNZF8yZ2pial9lWUd1UC1MdVFTb0hDYUN0ZDVOdlRlRkhJUlppb2JDNXd0Q0xXZ3lISFI5VEhsLVdQcmV4NjdqZWJqMWxjWk5USVBFQzlNSW8xVE94QURTMERZNlplQ05N0gGeAkFVX3lxTE9KSjFYTnMxS2FoRjNTVzFBVGV4b1lnLTZYaDllaXJTZ1lsVVhGWl9SaFZtZmJDMGpaLWhUTV9idUpXa2sxc09uVlJLS0ZnZHh5czdoZTZzLXJnT2xnWUhyeXg1SmkyS0dpbFlqSEowdExHUjRUbEJGci1rRER2UFN6X0QzaFBra2FVVkdXcXJZOHJfYjhwZUFERldNMWZ0ekttOVVRc2hrbERvNU5yUWZPVlpvU2xMNlVqVXdVcGVWcGQ5N3gySy1nT1NqcU9qLXpfVGJRZ3JjdUNwUUViUGdFTFBtSHVFcEEwOHp3UzVKVmtqRUxfQUkwRUE4N1NIVjBobmF0REY3clpQTnFtOUpvUmN6T2RVZjUweno1S0E?oc=5",
+        "published": "2025-08-17T01:20:54",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "La medicina basada en inteligencia artificial revolucionará la atención médica en pocos años, según experto en IA - Infosalus",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQLUQzNzFGQ0NSclltUTA4Nnk4WmJ4NHl1UDRTNW54LWhUQ2hjeGtycmhveWhlRDJwNzVLT0lkZ09PQjA0bnlQNk81UktPYWxiV3RVajJvY09ZOXNmNVpXRW9ab29ZSlh2RlVsSnN2WlVOdXQ0Q3RSVEV4NHI2SWt0UGEzcWRHNEx0OXpSc0tUWEhRekExTUgwU3pRV2Q0b1J4WGU3aHZtVjBHWU8wcExjblJuUXlhb0xNcE1nRVBVY19PZVExNUVGVng2OXpZdExfMTJPRFJiemxQdV9QSzc5ZWRsdWt2ZncxbExNMVFDUEJBVDgzWFhIeg?oc=5",
-        "published": "2025-08-11T06:33:45",
+        "title": "La Inteligencia Artificial ha resuelto una de las mayores preguntas de la arqueología - La Razón",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOXNPTnRsNlpJd044bUhKNmR6UXY4NVZYaTUyaVJreTRmNGpFcWRvS2oxdFo3V3o1SzlaMjl0aG1EdHM5SmJzM0F0Z2JmdjJiNEVUN2VvNGNJb0VCSXRRaHJEYmU4TTVIZFZUaWhaY1pIUzh5aUJBOTh6bEtkRmZfQ0ZMWE0zQU9QdW1RRkJaYVpuakFyWEpBUkFkSU9HYUNhcHA3YTl3ay1LS2lrcWpQQkVyd2VWZjNQOC0zaDVXOUV2d09fblc3cDZZbjTSAeABQVVfeXFMT01xa3VIUzhUa2tiUmxDM1JaamtJV2ZPRGJqcXNQZ1Y5bGt4ME9kMVpVa1BaY3dLV0NsOHZjTW9rUGFKdTZnbWNqMnpDVURYYnhnQzdWb2I0SnVVeWllRXRFNW1oOU81a3pmTURfbkVaUTB6WU1WZVZKSW9acVAxOThhSy1ibzZ0VFBlRWM1d2l1NVBfY0poYUQtb0N6c2puYWM4MFdVS3Rxd21yTUdPanJ4Q3pCaEtMTUhhSm1CSmZDTG1tU1Rqd2hzZWd6UHNJNGp0Y0FWdmZtUWFBcnpqbmQ?oc=5",
+        "published": "2025-08-16T17:19:05",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "Las vacantes de ingeniería en inteligencia artificial crecen un 1.214% de 2019 a 2024 - El Economista",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQem1JZERvTFlCVzRDUlRFX3lqeThiLWdGV0JobWU3VDJvakVEVTFBS2lYWUtQM0tDZWxHWGpwMU12NG9GaEhzWmkyZUVIbEFuSlZJeGx5SERZcDBaZHdLSXR5YmtWNWlRRTkwR1BjRTRpSTlwY0o2SDlmdkZvY3BFaE1qZW9CWUJtYTNRQUliazVZT2F6bHYxU0FpbG5LU1ZVX2lBckJjcGttMjJNNDlSaTdWMVBuUmJmTDg0Y2hYNlNPdkZVLTllU2MwRUxLTkN0TUNQUW9WcnhWT1Br?oc=5",
-        "published": "2025-08-11T04:00:08",
+        "title": "Investigan si la inteligencia artificial de Meta tiene permitido mantener conversaciones \"sensuales\" con niños - Telemundo",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSTJ1R0V5Qm5QQmEwTUE3RC1FM1JHVkdMSWhoVXRYaWFVNEF6SDRqU09wYjk5elp6bEozQ1RBMHFfQWhwcldEOWI3N1dxUVRjblJhRWdiM1huZ0dIR2FXWEp6RjVCcV9YbGZfLXh2aTdCOHp4bmhVNUJWTERVajNxZjJaNW9YRUZrY0JzMlNLalFxMTQ2SjRvbkZyT2xVbW9LOU1fbDhIcVpLVEM3RnRKNm9XeGdQajE5aHFxN2N4R1dMZHNKVjF5ZllVbG9sR213MGFZbTRTeGgtTkUxRVHSAV5BVV95cUxNU080SGtfLV9kTXA1THFla1ZJVnNHaE1TblpCVzFlTDJxTkRBcVE1b0h0dG5neENvVE5vdUhiVGhaRXdEYlJjUGRRQmtKcTU2YVlrWm16SjdyOEZ5Y0hB?oc=5",
+        "published": "2025-08-16T17:01:00",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "Por qué entender cómo razona la inteligencia artificial es clave para gobernar su impacto social - Agenda Pública",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkRzeUZ4RENSVVN4SXVDN2FrT0pXbkN0V2k5UXBoam1pV1dTX1BNVTFKTHZyY3k3VGZfamFQYWotOVZQR0tZbFplREp5R3dvTkZEOVNwNHpNbjNZSTVoTDZKNzRFYm5tTWFMWkFuUExvY3MwaDhTMW5jczBNbml0clFxOTNQaHY0YmtVTnNsYmRVeEJXcFdOUDlQRHlxQ3Y4aHYyYjlKNXE2VjhRNk9GM0x4RTlvX0x2?oc=5",
-        "published": "2025-08-11T04:00:00",
+        "title": "T Phone 3 el smartphone de Deutsche Telekom con inteligencia artificial de Perplexity - La Ecuación Digital",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMWhRUzBLTG9pUTJfcENRNC1RREJ1cmxrcHNWNWF0Y1RnUFJyOXVFUjJHRE9mNmo0SkV3M0xfeEswRW1zcGs4Ty1LN0xHV291ekJiam5MNThHa2ZJOGMzbk1iaW9fODhhZV9yVEk0N0NvZzk5NlhBNWlDMEJtNGp1dXRCMkNMNERKOHNGOFY2a0NXSEtyRHg0ZHJEQk9HcXI1QnFjVFBzVHBGR0dRT0hsWklDWFNnZEZ3aFMtcnFIa0NDRV9SZnc4a0pZUy0zRUp1YTdxaUdhdi1ER0swYUE?oc=5",
+        "published": "2025-08-16T16:54:40",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
@@ -597,73 +541,97 @@
     ],
     "Mercado": [
       {
-        "title": "La IA transforma la atención médica y redefine el papel de los sanitarios en salud - consalud.es",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORUM2NHROLS0zMHlYX0lPLW9PNHVyVk1ubS1YYlpRZS1LQWRFMjFOWkhjV1YwZGgxWHJTV19pSHYyTU5GOVo5dXNQUXdLdldYYXZqOXVkR2ZyR0tSMmItUEZ6Y3pkLXVEM0NYSHVlOHBoa2J1VDF4QlJnb3NQdzI2LVlBYnYwbVBDRkVGcEF4dE5fZE96TjRDakEyNVF6YXdBOUpFcjJPSVlsaVN4Q2Q1VzlkQVZPV1p2T3B2N1N3OTE5X0hXVVNtTDgwUDdLQUhMa1VFQlQ5UDZ3WTI1akdXdUF1aVVJNHNvSkFFVnZCdW1MdHhYeDFsYlotQmg3UQ?oc=5",
-        "published": "2025-08-10T09:00:00",
+        "title": "La IA comienza a arrasar entre los programadores: \"La única empresa que me llamó fue una cadena de comida rápida\" - Computer Hoy",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQc0JtdFQzbDUzbFZ3VUYwUzB1REY5WVdDN05VNTVZOC1DVnkzTkhMaG03OXA0aG1pUVJ1dmFpdjFLZnNQMTMwS2VnM2o1VnZfWlpTYlM4UmFTMkhkR3NkekFIY3BwcnlZak11VjJTdGI3a3JNVTRiWVp2YXd5cGhfQjB1VVdtNUpXOER0ME9lWm5jZzhwQlNyeDhkc1doTUo3dzF5dHY3eGRTdFFxeURwV0VjYTZXdlppNU9XMDlfNDByUG5VZnlwdmhzXzBUUQ?oc=5",
+        "published": "2025-08-16T12:00:00",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Mercado"
       },
       {
-        "title": "Xavi Varona: \"La IA de WhatsApp todavía no contesta en catalán porque tiene miedo de equivocarse\" - El Periódico",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbktlQkxscGNVUGhPQk1VRkxJbjFrbDZ1OHNzb1R5RC03WHVLaWV1WVlYcmRKZE50OVVvUVpsbEpMbDV3RkNQRGZFMlJCQXk2bmRPZTVkOTR2dzVsaHVWV0QtSVU1aDdpYVllbU9QYVdQZTZjZWpoN1VPYTNLLU54aE9BN29RWmtUbE1UdE9GazZ0Y0tK0gGUAUFVX3lxTE1mLW5IRHNId2xDYnRVN2tBelByTHdiNUlyVW9lY2d4bEtYdWJTR0FlZ3hnNFp4aXFVa3ZzWmdoRC1tTWt1bHQ4QTh2elhzUVE1TEpjQlA4d0xMNlVDekwwWmZ0NVhwYmwzY1JtalhuUmtfdUNjT19EN3Q5RFR4QU0zMlhEdFV2YUZveXcwRDFEMXZiWlM?oc=5",
-        "published": "2025-08-09T06:01:02",
-        "source": "news.google.com",
-        "summary": "Google News",
-        "category": "Mercado"
-      },
-      {
-        "title": "El patio trasero de la IA. Un mapa de la fiebre del oro del siglo XXI - EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVV9qeDA1V0lQUk5BN3ZIejdmSnlXOXZWdDlhd01OU3Z5Ti1INVJOTmVDTkJxeWNwRlNmcm1SUG9iLVhQZTNWWDkwVm9ZZmVCd3NYMUprdDY1NlpCak93NmtFalJhTkJ2emszeTBmOXVoRDhuWExTOE11WjlJdUtDdDRkVW1vX2dJYTZORkVObmg4YTlac3Z0d09wd19zcjRHejY1MTVnMjhsdnNTQVc4TklvRU8?oc=5",
-        "published": "2025-08-09T03:20:00",
-        "source": "news.google.com",
-        "summary": "Google News",
-        "category": "Mercado"
-      },
-      {
-        "title": "La IA de WhatsApp margina el catalán: lo entiende, pero no lo usa - El Periódico",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTHBQT0RoWW1felpGN0JQUjMwVndaeUtST0ppMk9iRDU0QnRXOW1wZk03eGQyQ2JjaWZnSElBQ1VVMXVJdWdWS1JEQWN1QkItTmNOZ1BPVG1kY0RkQnF2VUpfRnBndHZMb3dYR0M5M2JkNDgyMDFUbjZ4N09DMGI0X3JRNnhseTNrTUt1R192dkYtX1lOb3hadDBpVdIBmwFBVV95cUxOU0lvN1FtS1Q3SEJySkhoZk9GSDljZ2x2LVNFNEVMMXRjc0VPUTBpRFZWa2NjZmNwM2FtYmhfRVM1TzVFMENHSU9xckZjNGlJNjRyU2RmVkk4T1JhNjlyNWlUcG9EVHpncjdhY1FBYkZ2M2s2S3pUUjdKN3U5cFJVOVR4Y3FXNkhxaWNaMk14T3NVdFNCWll6QTYtUQ?oc=5",
-        "published": "2025-08-08T12:00:44",
-        "source": "news.google.com",
-        "summary": "Google News",
-        "category": "Mercado"
-      },
-      {
-        "title": "The greenhouse gases we’re not accounting for",
-        "link": "https://www.technologyreview.com/2025/08/07/1121188/the-greenhouse-gases-were-not-accounting-for/",
-        "published": "2025-08-07T09:00:00",
+        "title": "Why US federal health agencies are abandoning mRNA vaccines",
+        "link": "https://www.technologyreview.com/2025/08/15/1121885/why-us-federal-health-agencies-are-abandoning-mrna-vaccines/",
+        "published": "2025-08-15T09:00:00",
         "source": "technologyreview.com",
-        "summary": "By James Temple archive page August 7, 2025 Tropical wetlands in the Philippines. Getty In the spring of 2021, climate scientists were stumped. Researchers around the world set to work unraveling the mystery, reviewing readings from satellites, aircraft, and greenhouse-gas monitoring stations.",
+        "summary": "By Jessica Hamzelou archive page August 15, 2025 Andrew Harnik/Getty Images This time five years ago, we were in the throes of the covid-19 pandemic. By August 2020, we’d seen school closures, national lockdowns, and widespread panic. That year, the coronavirus was responsible for around 3 million deaths , according to the World Health Organization.",
         "category": "Mercado"
       },
       {
-        "title": "Grok, ¿por qué mientes sobre estas imágenes de niños desnutridos en Gaza? - RTVE.es",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYnJXUy1OSENNdGtvT1lET2FUemRjLVNvaHJNQXE1WlNUYmtzdjJtMmxySC1VMTJKSGtNUHY0T3JzWU9FdGJaTWRTbzR6QnR0cFdUZGFGNjJsN3ZuZ1FyaHEwMnZnUXdZZVE4SWdqbHZOQmlIdENrTldnOTJUNkZFUWpmZDF3X2haNW1oU3pLeVM1Q1dtY3BNamJDOVdEd9IBngFBVV95cUxNSklzLUJtYkZCVE9UaFhreEZUcnJvUFdMNW0xX0RZNUVIdG5qd3ZxVDNJMkVaRkZrNzZtRUcxNGVSc2ZSTFBzWWJxcV9ZdlJqa3ZXdWgxS2J2V1hmT1F1ajg5WW5SWm5iV1k2Z3dVSVUzT05Hc2NacWtrM0M2QXU0MlItdjNkZlJQRFdXcFRXSVhrUzdJZTBtNzFaUmxUdw?oc=5",
-        "published": "2025-08-08T05:10:00",
+        "title": "La IA está creando nuevos multimillonarios a un ritmo récord: \"Es la mayor ola de creación de riqueza de toda la historia\" - Computer Hoy",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeWZoQzFjbGVJQVR2eTBpQXVKaWd2SXlkeGJjdEZ2QUNLeTJILXNaUGN6U2lMWEo5aVhFWXhobU8zM2tTRUtuTnJrMEdGQ1dObWRSV3dTVGZKZ1BjUWo3YXBreFh6WVFPNE54dlU0OU1JZy12a2w5ZnB1WHZvY0N4M1l6WVRaR0ZYcE1VQU1nTWFncEZobzU1eGY2NS11MWhySjc0dVFJdDJKaldjX2FsT0ZIcm9pQ1BwUy1GT01TVWhUaE1tczRrRFZaMVJKcG9VWkFmMjZSaVhJQlhJUlJTcVZnYWVBcnJOMWFrdg?oc=5",
+        "published": "2025-08-15T19:30:00",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Mercado"
       },
       {
-        "title": "Google search boss says AI isn’t killing search clicks",
-        "link": "https://arstechnica.com/google/2025/08/google-search-boss-says-ai-isnt-killing-search-clicks/",
-        "published": "2025-08-06T19:36:42",
-        "source": "arstechnica.com",
-        "summary": "According to Reid, clicks aren't declining, AI is driving more searches, and everything is fine on the Internet. But despite the optimistic tone, the post stops short of providing any actual data to back up those claims. This statement feels like a direct response to a recent Pew Research Center analysis that showed searches with AI Overviews resulted in lower click-through rates .",
+        "title": "The US could really use an affordable electric truck",
+        "link": "https://www.technologyreview.com/2025/08/14/1121795/affordable-electric-truck/",
+        "published": "2025-08-14T10:00:00",
+        "source": "technologyreview.com",
+        "summary": "This could be the shot in the arm that the slowing US EV market needs . Sales are slowing , and Ford in particular has struggled recently—the automaker has lost $12 billion over the last two and a half years on its EV division. And the adoption barriers continue to mount, with the Trump administration cutting tax credits as well as rules designed to push automakers toward zero-emissions vehicles.",
         "category": "Mercado"
       },
       {
-        "title": "La IA ya pasa factura a las contrataciones de las ‘Big Four’ en Reino Unido y en España se preparan - El Periódico",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRnd5OGdpcmhaU0tLT0pWZVBjMmMxWDczMW42aEFjcDkzaTBFSVFJVnB1SUVYQlJtZTh5UlkyY0ZoTjFmSGE1RWduUU8yYmc1YUhybmRhRDQ1M2NOdERVM1RXcU9CWFpQZHo1M0UwVXNodFczemowN19aMXlwTWU1WGxxcS1LS2RCWVVULUR3c0VMSlJGVmpxMdIBmAFBVV95cUxOSGtrVXBGUnZlV09pMXVzWXNXeWZFY3QyV3ZPeUxzRG5QTkwxb1dnVXBCQVpOcjNSazZRYmVpc29Td2VNU2ZaN215T1FicV85UjhXRkNjSW1iaG5SSXBEVlFRRzlmcTR1cWxZa3ZCSjRFYlEzYjE4WUo1VS13SWpfeEZBQ1BseldvbFVFMzJsOG9rQkdjcnF3eA?oc=5",
-        "published": "2025-08-07T04:00:07",
+        "title": "¿Por qué Facebook no deja que su nueva IA sea pública? - La Razón",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN2VTVHZQcC0zY3IwVU5HN2hGY3E5SXVMdVRVVVFRcjZYVnRfb1NGSXd4X1djZVBacTh3c2phZmtSeTNrTXQzQWdSWmFrSnFzRzNkelI0X1BIQXlsMUhCeFYxcTdmUUVtNVJVTENDQWpFbklZY0EyYnp0bEIxdVJTdF9oRWRlZ2ZJOVRZZW54N29oY0JUaHROc1FFV0ZrNjM3LWZhV2VpRWg2X1J6QW0wUNIBxAFBVV95cUxNRWNUTWswOG9FaFJ5Q1VvM0VUdzdPVkNqNlFmRWVhQzRnYkNoZ1otY1BHVVpJMFdWZHdKdnlzOWhaMHlyZjVFWWpSX0dZb284dF9lVnhuMFZYU2x2V2xjNkRVUkhBNzFvT3lSRnZXM0dUUXE1b2JJQWdKNUhVTU5DM0VaQmE0VXBPYnBvOEFKSXFDOWg5QVozQnZTa2l1WHA1dWdHa01RZWV1MlAyTzI5N3FRaEpvRVNGSDdrT1ZtVzBtcFVU?oc=5",
+        "published": "2025-08-15T07:18:31",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Mercado"
       },
       {
-        "title": "Las profesiones en alerta roja por el avance de la IA - Statista",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQmtuVkZZbHlOZmVnTUZydlZpZFgzcktRZGZoQ2JpVENhSXpXVFRwck9wOXl2OVg3bm1DMkNTTlR0a2VYYzBSdTNqUlBUVDJJUWpaV1BhT0JiM1hIREpyVWd2am5uT3hyTmV5YTdPRjZjVDBXZU5QOVpwWFdpaEplM2dDNWVtM1lXUGtTVTViQTl5N2xMdWFzNnE2clVBWm1ZMExoa3Z2UkJDUG1YYnNvOG8yNkFpcHJsY0JpR0xFR2RvNVN50gHKAUFVX3lxTFBkTVIwbk40RTVuZXkzMDVPeGhiV3lvYWJpZkVTLVNxWXNXSUlwNTVySFdpSmljZy10SnNJdUZJbE93dDd5UXNsVXBuRC1PWFAtZFRYcTA0MGxnMUMtSnlQc0hnRS0zVEwzYVQwNVM3Zk1zVGdWWVRPcXlZZ3g4ZlB5V2FRUHMwMzJ0SHRqanVOdHRSemV0Ukc5RDQtLURiYWo3T2RQUVVGUmN5YWF1amktb0U4cEJncG5TTGRUaW9IR3FIdlFHdkVBRVE?oc=5",
-        "published": "2025-08-05T13:18:45",
+        "title": "Crean un dispositivo de IA que permite convertir los pensamientos internos en lenguaje - Diari ARA",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY25Ec2hOcUlvckE2dlVDclpnSHBVeWVXb2VtV3g2OHJlTUlTN054LWVtNkdocGdlQUlrcl9kSHB5ZUNxWVlZTElUQk1UT056ZmNoQnk1dGQ5MWxlNTIzenJPT3FsdDhHb1oyZkZ0a0ZvTkRFS1BfS3NLaXllUm5XV19MYjBIQk0wMU5KN1V1SWVtQkc0UExad3l4cnQ1X0VIeUVjVVVIOEJvRjhjOHc1dWJwYmpkcFZ0dkHSAb8BQVVfeXFMTV95U0hfVU5XdWM5QTI4azNGWktjZGxhNGNnZ2phUHZwaHNIbkFWLUhWM0NRS1laMTRHVGhKeXZfU191SmNNN0o0N1VlS1N0X3J1YXZIeHZGWXlmdG1uOEEySnYwWE8tVVVzdzJ0M2lzc3dZYlEyTUpwaW1zQXlySVJhYjZSX2hmdDlueHhPYXFtdmRmb3BOeGtFR3RSb3RsLWhsd3ZuMUU1eHc4cWJOVVZOV0xvVE9wekJaeXBwc1U?oc=5",
+        "published": "2025-08-14T18:33:13",
+        "source": "news.google.com",
+        "summary": "Google News",
+        "category": "Mercado"
+      },
+      {
+        "title": "El futuro de Internet es inundarse de IA. Y hay quien ya ha visto un nicho de negocio: contenido hecho por humanos",
+        "link": "https://www.xataka.com/empresas-y-economia/futuro-internet-inundarse-ia-hay-quien-ha-visto-nicho-negocio-contenido-hecho-humanos",
+        "published": "2025-08-14T15:30:37",
+        "source": "xataka.com",
+        "summary": "Lo primero ya está reduciendo los clics a la mitad , y apunta a colapso para los medios. Lo segundo es algo con lo que los usuarios tendrán que convivir si las plataformas no se ponen más serias por mejorar el filtrado. El futuro de Internet es inundarse de IA.",
+        "category": "Mercado"
+      },
+      {
+        "title": "Los escépticos de la IA avisaron de que nos estábamos emocionando mucho y no les creímos: la IA es tontísima",
+        "link": "https://www.xataka.com/robotica-e-ia/pregunta-no-ia-se-ha-estancado-pregunta-que-pasa-ha-hecho",
+        "published": "2025-08-14T12:00:38",
+        "source": "xataka.com",
+        "summary": "Los escépticos de la IA avisaron de que nos estábamos emocionando mucho y no les creímos: la IA es tontísima Webedia Xataka Menú Nuevo ANÁLISIS XATAKA SELECCIÓN MÓVILES CIENCIA MOVILIDAD MAGNET WhatsApp Tiktok Telegram Instagram Youtube Twitter HOY SE HABLA DE China Sequía Waze La Velada del Año Café Android Auto IA OpenAI Estafa James Cameron Los escépticos de la IA avisaron de que nos estábamos emocionando mucho y no les creímos: la IA es tontísima Las nuevas versiones de los modelos de IA ya no nos vuelan la cabeza Eso hace que aparezcan más que nunca indicios de una desaceleración y un fracaso de las expectativas que muchos ponían en la IA 40 comentarios Facebook Twitter Flipboard E-mail",
+        "category": "Mercado"
+      },
+      {
+        "title": "“Si no hay retorno en la IA, no tiene sentido para nosotros ni para el cliente”, Rafael Valdés, SAP - ituser.es",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdnhGQXE1d0FPdk1JU3FxVXZ1bVVnc19xaTZfblRnczV0czNib2R5RHhlOGZ4TU9admZuc0VkM1FqTnMzOVhMMUdjMDJfdUlDS0ZlclV2RkJUSFAyMzg3MnlvMUtiU212ckdsMVVmeUZUeGUwRl9hM08zOTdSRnlDMThRYUNjUjZTYW5yVXc4alplYnY0YkNHYWt0VVlPdDlLVG14WUNKNlJjajJmNGVucl9zVHZZNGFrdy0tdUQxSE84WEFUMDEtYjVVdmVUZTc3Y1E?oc=5",
+        "published": "2025-08-14T10:30:00",
+        "source": "news.google.com",
+        "summary": "Google News",
+        "category": "Mercado"
+      },
+      {
+        "title": "El tablero español de la IA también se mueve en agosto - Innovaspain",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORE1kYnM4bWtDQWVULS1uakZQWnhvWVhCS2RrSUxuMkVmMWFURl9VbW9wVUNYYTNLNGk3TDU0UUVGeFV3UG5VUFJ6cjhyTEt0VV9lWFRDLWRNZ3pQV3RqaW1tTkI5QWJQLWgzZHN3ZHVySlIyeV94MWs0WGxGLXB2aE9zZ2VfaWNlbzlpSExsY3REVElOS0FtMU1MSWxHTWx2MDhISmZB?oc=5",
+        "published": "2025-08-14T04:03:51",
+        "source": "news.google.com",
+        "summary": "Google News",
+        "category": "Mercado"
+      },
+      {
+        "title": "\"Borra los correos y las fotos viejas\": en caso de sequía, Reino Unido tiene claro que los centros de datos tienen prioridad",
+        "link": "https://www.xataka.com/ecologia-y-naturaleza/gobierno-reino-unido-ha-pedido-a-ciudadanos-algo-inexplicable-plena-sequia-que-borren-sus-fotos-viejas",
+        "published": "2025-08-13T09:00:00",
+        "source": "xataka.com",
+        "summary": "De hecho, los últimos seis meses han sido los más secos desde 1976 . Cinco regiones han sido declaradas oficialmente en sequía, y seis más podrían unirse a ellas durante las próximas semanas si se prolonga la escasez de lluvias . Agosto ha comenzado en este país con la cuarta ola de calor del verano , lo que ha llevado al Gobierno a declarar esta sequía \"un incidente de importancia nacional\".",
+        "category": "Mercado"
+      },
+      {
+        "title": "Santander acelera su estrategia 'data & AI-first’ tras firmar un acuerdo con OpenAI - santander.com",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeEhHN3dVeGdIazBtbl95VWo5eDBHbzBpVm9QVnk1V1ZVUi1Jek40Z0NfMURDdWNJSDg2NHhwak9mamNubjludFdzY2xiZmt4V1ZTb1FLN1UyLTJ2empqcXZNOEpKXzRIVVpZSi1ycVg0Vkg3WXRlZEhYOVoxYmVXbGViUDNSXzZSRjJhNkN1M0hhbEl0Uk5DOHp3dk4xcERiaVBIVmNCQVlxQWQ3d2l3UlJOeko0Ujg?oc=5",
+        "published": "2025-08-12T12:43:28",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Mercado"
