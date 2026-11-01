@@ -1,440 +1,369 @@
 {
   "week": {
-    "start": "2026-10-18",
-    "end": "2026-10-25",
-    "generated_utc": "2026-10-25T13:04:00.755605"
+    "start": "2026-10-25",
+    "end": "2026-11-01",
+    "generated_utc": "2026-11-01T14:51:01.705343"
   },
   "top": [
     {
-      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "published": "2026-10-21T18:51:42",
-      "source": "arstechnica.com",
-      "summary": "The garden already offers access to Google’s Gemini models, as well as an assortment of open models like Mistral, Llama, and Gemma. Perhaps more importantly, GPT models will soon appear in Antigravity, Google’s agent-powered coding tool. OpenAI's latest AI models are coming to Google Cloud and Antigravity - Ars Technica Skip to content Ars Technica home Sections Forum Subscribe Search AI Biz & IT Cars Culture Gaming Health Policy Science Security Space Tech Feature Reviews AI Biz & IT Cars Culture Gaming Health Policy Science Security Space Tech Forum Subscribe Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Pin to story Theme Hy",
+      "title": "What Are Open-Weight AI Models?",
+      "link": "https://www.cnet.com/tech/services-and-software/what-are-open-weight-ai-models/",
+      "published": "2026-10-30T20:15:01",
+      "source": "cnet.com",
+      "summary": "Developers of closed models, including those behind ChatGPT and Claude , keep their weights private. “Whenever you open-weight a model, all the weights are all over the place on the internet, like on Hugging Face and other servers,” Pierre Stock , VP of science at AI company Mistral , tells CNET. Desktop apps like LM Studio , Ollama and Jan let you download and run open-weight models with a simple install, giving you a ChatGPT-like interface right on your Mac or PC.",
       "category": "Portada"
     },
     {
-      "title": "Updated Google privacy policy says your Gmail might be used for advertising",
-      "link": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
-      "published": "2026-10-23T20:19:55",
-      "source": "arstechnica.com",
-      "summary": "While the Gemini app does not currently have ads, you may see sponsored content in AI search tools. The company released Personal Intelligence in early 2026 , allowing users to hand data from multiple apps to Google AI products. Google has long said it won’t use the sensitive data from products like Gmail, Drive, and Photos for ad personalization, but a change to the company’s privacy policy appears to dismantle that firewall.",
-      "category": "Portada"
-    },
-    {
-      "title": "Premier League Soccer: Stream Man United vs. Bournemouth Live from Anywhere",
-      "link": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-united-vs-bournemouth-live-from-anywhere-2/",
-      "published": "2026-10-25T11:00:00",
+      "title": "Premier League Soccer: Stream Liverpool vs. Arsenal Live From Anywhere",
+      "link": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-arsenal-live-from-anywhere/",
+      "published": "2026-11-01T13:30:00",
       "source": "cnet.com",
       "summary": "Explore News AI AI Atlas Best AI Image Generators Best AI Chatbots Best AI Website Builders ChatGPT vs. Gemini Tech Tech Mobile Home Entertainment VPN Computing Services & Software Gaming Laptops Streaming Services Web Hosting Home Home Internet Home Security Kitchen & Household Smart Home Energy & Utilities Yard & Outdoors Smart Plugs Entertainment Culture Internet Culture Entertainment Sports Fashion Wellness Nutrition Fitness Personal Care Medical Mental Health Cover Stories Reviews Best Products Best VPN Services Best Web Hosting Services Best TVs Best Identity Theft Protections Best Mesh Wi-Fi Routers Best Robot Vacuums Best Smart Locks Best Phone Plans Best Printers Best Laptops Best B",
       "category": "Portada"
     },
     {
-      "title": "Premier League Soccer: Stream Liverpool vs. Brighton Live from Anywhere",
-      "link": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-liverpool-vs-brighton-live-from-anywhere-2/",
-      "published": "2026-10-25T11:00:00",
-      "source": "cnet.com",
-      "summary": "Explore News AI AI Atlas Best AI Image Generators Best AI Chatbots Best AI Website Builders ChatGPT vs. Gemini Tech Tech Mobile Home Entertainment VPN Computing Services & Software Gaming Laptops Streaming Services Web Hosting Home Home Internet Home Security Kitchen & Household Smart Home Energy & Utilities Yard & Outdoors Smart Plugs Entertainment Culture Internet Culture Entertainment Sports Fashion Wellness Nutrition Fitness Personal Care Medical Mental Health Cover Stories Reviews Best Products Best VPN Services Best Web Hosting Services Best TVs Best Identity Theft Protections Best Mesh Wi-Fi Routers Best Robot Vacuums Best Smart Locks Best Phone Plans Best Printers Best Laptops Best B",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "published": "2026-10-28T18:47:27",
+      "source": "arstechnica.com",
+      "summary": "Just two weeks after rolling out Gemini 4 Argon , Google has announced Gemini 4 Carbon . This isn’t the Flash model equivalent we’ve been waiting for but, rather, is an improvement on Argon, and like that model, Google is working on a staged release that could take a while. Its new model also beats GPT-6 Astra, Claude Opus 5.5, and Claude Fable 5.1 in almost every test.",
       "category": "Portada"
     },
     {
-      "title": "The Download: introducing the Impossible issue",
-      "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
-      "published": "2026-10-21T12:10:00",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "published": "2026-10-29T10:11:12",
       "source": "technologyreview.com",
-      "summary": "Astrolab’s upcoming rover will run the first LLMs on the moon Large language models are set to go lunar. ( Verge ) + AI agents are not your \"coworkers.\" ( MIT Technology Review ) 7 More than 1,000 mathematicians have pledged to shun AI companies Some also vowed to avoid AI tools in their research. By Thomas Macaulay archive page October 21, 2026 This is today's edition of The Download , our weekday newsletter that provides a daily dose of what's going on in the world of technology.",
+      "summary": "We urgently need to monitor AI agents’ actions in real time | MIT Technology Review Skip to Content Menu MIT Technology Review MIT Technology Review The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review MIT Technology Review The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Opinion We urgently need to monitor AI agents’ actions in real time Right now, we’re effectively flying blind when deploying these tools. They inherit the unpredictability of the LLMs they are built on, but where a generative AI s",
+      "category": "Portada"
+    },
+    {
+      "title": "Barcelona vs. Alavés: How to Livestream La Liga Soccer",
+      "link": "https://www.cnet.com/tech/services-and-software/barcelona-vs-alaves-how-to-livestream-la-liga-soccer/",
+      "published": "2026-10-31T17:00:00",
+      "source": "cnet.com",
+      "summary": "Explore News AI AI Atlas Best AI Image Generators Best AI Chatbots Best AI Website Builders ChatGPT vs. Gemini Tech Tech Mobile Home Entertainment VPN Computing Services & Software Gaming Laptops Streaming Services Web Hosting Home Home Internet Home Security Kitchen & Household Smart Home Energy & Utilities Yard & Outdoors Smart Plugs Entertainment Culture Internet Culture Entertainment Sports Fashion Wellness Nutrition Fitness Personal Care Medical Mental Health Cover Stories Reviews Best Products Best VPN Services Best Web Hosting Services Best TVs Best Identity Theft Protections Best Mesh Wi-Fi Routers Best Robot Vacuums Best Smart Locks Best Phone Plans Best Printers Best Laptops Best B",
       "category": "Portada"
     }
   ],
   "sections": {
     "Modelos": [
       {
-        "title": "Please Don’t Let an AI Bot Log Into Your Bank Account",
-        "link": "https://www.cnet.com/tech/services-and-software/please-dont-let-an-ai-bot-log-into-your-bank-account/",
-        "published": "2026-10-23T20:30:21",
+        "title": "Premier League Soccer: Stream Man City vs. Brighton Live From Anywhere",
+        "link": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-man-city-vs-brighton-live-from-anywhere/",
+        "published": "2026-10-31T12:00:00",
         "source": "cnet.com",
-        "summary": "Explore News AI AI Atlas Best AI Image Generators Best AI Chatbots Best AI Website Builders ChatGPT vs. Tech > Services & Software > AI Please Don’t Let an AI Bot Log Into Your Bank Account Banks are warning against giving too much access to AI agents. Gemini Tech Tech Mobile Home Entertainment VPN Computing Services & Software Gaming Laptops Streaming Services Web Hosting Home Home Internet Home Security Kitchen & Household Smart Home Energy & Utilities Yard & Outdoors Smart Plugs Entertainment Culture Internet Culture Entertainment Sports Fashion Wellness Nutrition Fitness Personal Care Medical Mental Health Cover Stories Reviews Best Products Best VPN Services Best Web Hosting Services Be",
+        "summary": "Explore News AI AI Atlas Best AI Image Generators Best AI Chatbots Best AI Website Builders ChatGPT vs. Gemini Tech Tech Mobile Home Entertainment VPN Computing Services & Software Gaming Laptops Streaming Services Web Hosting Home Home Internet Home Security Kitchen & Household Smart Home Energy & Utilities Yard & Outdoors Smart Plugs Entertainment Culture Internet Culture Entertainment Sports Fashion Wellness Nutrition Fitness Personal Care Medical Mental Health Cover Stories Reviews Best Products Best VPN Services Best Web Hosting Services Best TVs Best Identity Theft Protections Best Mesh Wi-Fi Routers Best Robot Vacuums Best Smart Locks Best Phone Plans Best Printers Best Laptops Best B",
         "category": "Modelos"
       },
       {
-        "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
-        "link": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
-        "published": "2026-10-24T15:00:00",
-        "source": "theverge.com",
-        "summary": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday | The Verge Skip to main content The homepage The Verge The Verge logo. Related People are fixing their TV OSes with Claude LG’s RGB LED TV is good, but others do it better Roku has released its first ever OLED TVs Solid specs aside, we’d be remiss not to mention that researchers recently raised concerns about how LG’s smart TVs collect and log user data. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo.",
-        "category": "Modelos"
-      },
-      {
-        "title": "Pangram ve un 99% de IA en la novela premiada 'Donde el agua trabaja'. El problema es el de siempre: no hay detector infalible",
-        "link": "https://www.xataka.com/robotica-e-ia/pangram-donde-agua-trabaja-david-silva-rojas-ia-al-99-problema-siempre-que-ia-no-infalible",
-        "published": "2026-10-24T10:00:00",
+        "title": "Llevo años queriendo dar de baja mi moto. Instinct me lo ha solucionado en menos de diez minutos",
+        "link": "https://www.xataka.com/robotica-e-ia/llevo-anos-queriendo-dar-baja-mi-moto-instinct-me-ha-solucionado-diez-minutos",
+        "published": "2026-11-01T11:01:26",
         "source": "xataka.com",
-        "summary": "Pangram ve un 99% de IA en la novela premiada 'Donde el agua trabaja'. En Xataka | Un investigador se ha cansado de los textos escritos con IA y ha creado un detector que promete un 98% de acierto En Xataka | Anthropic explica cómo funciona la nueva marca de agua de Claude: no se ve, no se nota, (casi) no se puede borrar y no prueba nada Portada | ChatGPT Facebook Twitter Flipboard E-mail Temas Robótica e IA Literatura, comics y juegos Inteligencia artificial Literatura libro Tecnología Los mejores comentarios: Ver 2 comentarios Temas de interés Mejores moviles 2026 iPhone plegable Android 17 Claude Móviles con mejor cámara iPhone 18 Pro Mejores móviles calidad precio 2026 Mejores ordenadore",
+        "summary": "Soy de los que seguiría pagando una suscripción solo por no llamar para pelearme diez minutos con el soporte. Dar de baja mi moto antigua, por ejemplo, la que tiene dos dedos de polvo y lleva sin usarse desde que Perdidos estaba en antena. Llevo años queriendo dar de baja mi moto.",
         "category": "Modelos"
       },
       {
-        "title": "I Tried Automating My Relationships Using AI Agents. Muse and Dots Overstepped",
-        "link": "https://www.cnet.com/tech/services-and-software/i-tried-automating-my-relationships-using-ai-agents-muse-and-dots-overstepped/",
-        "published": "2026-10-22T17:08:31",
-        "source": "cnet.com",
-        "summary": "Explore News AI AI Atlas Best AI Image Generators Best AI Chatbots Best AI Website Builders ChatGPT vs. I tried to use ChatGPT and a few other AI tools to automate the upkeep of my personal and professional relationships — but here’s where it all went wrong. I Tried Automating My Relationships Using AI Agents.",
-        "category": "Modelos"
-      },
-      {
-        "title": "YouTube Is Letting Us Vibe Our Video Feeds, and I’m Liking It",
-        "link": "https://www.cnet.com/tech/services-and-software/youtube-custom-video-feeds/",
-        "published": "2026-10-23T21:53:15",
+        "title": "Premier League Soccer: Stream Chelsea vs. Man United Live From Anywhere",
+        "link": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-stream-chelsea-vs-man-united-live-from-anywhere/",
+        "published": "2026-10-30T23:00:00",
         "source": "cnet.com",
         "summary": "Explore News AI AI Atlas Best AI Image Generators Best AI Chatbots Best AI Website Builders ChatGPT vs. Gemini Tech Tech Mobile Home Entertainment VPN Computing Services & Software Gaming Laptops Streaming Services Web Hosting Home Home Internet Home Security Kitchen & Household Smart Home Energy & Utilities Yard & Outdoors Smart Plugs Entertainment Culture Internet Culture Entertainment Sports Fashion Wellness Nutrition Fitness Personal Care Medical Mental Health Cover Stories Reviews Best Products Best VPN Services Best Web Hosting Services Best TVs Best Identity Theft Protections Best Mesh Wi-Fi Routers Best Robot Vacuums Best Smart Locks Best Phone Plans Best Printers Best Laptops Best B",
         "category": "Modelos"
       },
       {
-        "title": "A ‘Fallout’ Competition Series Is Coming to Prime Video",
-        "link": "https://www.cnet.com/tech/services-and-software/fallout-shelter-experiment-competition-series-prime-video/",
-        "published": "2026-10-23T20:05:58",
-        "source": "cnet.com",
-        "summary": "Explore News AI AI Atlas Best AI Image Generators Best AI Chatbots Best AI Website Builders ChatGPT vs. Gemini Tech Tech Mobile Home Entertainment VPN Computing Services & Software Gaming Laptops Streaming Services Web Hosting Home Home Internet Home Security Kitchen & Household Smart Home Energy & Utilities Yard & Outdoors Smart Plugs Entertainment Culture Internet Culture Entertainment Sports Fashion Wellness Nutrition Fitness Personal Care Medical Mental Health Cover Stories Reviews Best Products Best VPN Services Best Web Hosting Services Best TVs Best Identity Theft Protections Best Mesh Wi-Fi Routers Best Robot Vacuums Best Smart Locks Best Phone Plans Best Printers Best Laptops Best B",
-        "category": "Modelos"
-      },
-      {
-        "title": "United States GP: How to Watch the F1 Race",
-        "link": "https://www.cnet.com/tech/services-and-software/united-states-gp-how-to-watch-the-f1-race/",
-        "published": "2026-10-23T17:09:22",
-        "source": "cnet.com",
-        "summary": "Explore News AI AI Atlas Best AI Image Generators Best AI Chatbots Best AI Website Builders ChatGPT vs. Gemini Tech Tech Mobile Home Entertainment VPN Computing Services & Software Gaming Laptops Streaming Services Web Hosting Home Home Internet Home Security Kitchen & Household Smart Home Energy & Utilities Yard & Outdoors Smart Plugs Entertainment Culture Internet Culture Entertainment Sports Fashion Wellness Nutrition Fitness Personal Care Medical Mental Health Cover Stories Reviews Best Products Best VPN Services Best Web Hosting Services Best TVs Best Identity Theft Protections Best Mesh Wi-Fi Routers Best Robot Vacuums Best Smart Locks Best Phone Plans Best Printers Best Laptops Best B",
-        "category": "Modelos"
-      },
-      {
-        "title": "La carrera entre China y EEUU por los humanoides entra en otra fase: Unitree quiere que sus robots aprendan a mejorarse solos",
-        "link": "https://www.xataka.com/robotica-e-ia/carrera-china-eeuu-humanoides-entra-otra-fase-unitree-quiere-que-sus-robots-aprendan-a-mejorarse-solos",
-        "published": "2026-10-23T15:00:11",
+        "title": "Blackstone advierte de que Anthropic se arriesga a salir a bolsa sin una buena calificación, un golpe para sus planes",
+        "link": "https://www.xataka.com/empresas-y-economia/blackstone-advierte-que-anthropic-se-arriesga-a-salir-a-bolsa-buena-calificacion-crediticia-golpe-para-sus-planes",
+        "published": "2026-10-30T19:41:00",
         "source": "xataka.com",
-        "summary": "El fundador de la empresa, Wang Xingxing, presentó la idea como un sistema de desarrollo de robots \"autoevolutivo\" en la conferencia de IA física de la compañía en Hangzhou este jueves, calificándolo como una prioridad para la empresa. Y después, un sistema de evaluación independiente, con aportación humana cuando es necesario, califica el resultado para pasarlo a una siguiente ronda. El medio cuenta que el proyecto se llama \"Unitree Rehearsal\".",
+        "summary": "La compañía detrás de Claude ha conseguido atraer inversiones multimillonarias y se prepara para dar uno de los pasos más importantes de su historia: salir a bolsa . S&P Globa detalla que las agencias de calificación evalúan \"la capacidad y disposición de los prestatarios para cumplir íntegra y puntualmente sus compromisos financieros\". Sin embargo, hay algo que no debemos perder de vista en medio de tanto entusiasmo.",
         "category": "Modelos"
       },
       {
-        "title": "The Download: computing’s next leap and permafrost’s climate threat",
-        "link": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-        "published": "2026-10-22T12:10:00",
-        "source": "technologyreview.com",
-        "summary": "( MIT Technology Review ) 2 Hackers used Claude and Grok to automate attacks on over 400 banks The AI agents targeted financial institutions in Latin America. By Thomas Macaulay archive page October 22, 2026 This is today's edition of The Download , our weekday newsletter that provides a daily dose of what's going on in the world of technology. On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the Bottom.” There is no physical law stopping us from writing the entire Encyclopædia Britannica on the head of a pin, he argued.",
-        "category": "Modelos"
-      },
-      {
-        "title": "Al contrario que Amazon, el mayor supermercado de EEUU permitirá a los agentes IA comprar en nombre de sus usuarios",
-        "link": "https://www.xataka.com/servicios/amazon-cierra-puerta-a-agentes-ia-mayor-cadena-supermercados-eeuu-abre-par-par",
-        "published": "2026-10-23T11:30:00",
-        "source": "xataka.com",
-        "summary": "Otra cosa interesante de Gateway es que estos agentes de ChatGPT, Gemini, Muse o los autorizados se pueden conectar directamente a los sistemas de la compañía, pero los precios que ven son los mismos que los que ve una persona. En lugar de limitarse a responder preguntas, los agentes son programas que ejecutan tareas de varios pasos encadenados, como buscar un producto, comparar precios y completar la compra. Sin embargo, su mayor obstáculo ya no es técnico: son las tiendas las que deciden si les dejan entrar o no.",
-        "category": "Modelos"
-      },
-      {
-        "title": "iOS 27 Cheat Sheet: Quickly Become an Expert on the New iPhone Update",
-        "link": "https://www.cnet.com/tech/services-and-software/ios-27-cheat-sheet/",
-        "published": "2026-10-23T11:00:00",
+        "title": "Some of the Most Acclaimed A24 Movies Are Streaming Free in November",
+        "link": "https://www.cnet.com/tech/services-and-software/a24-movies-streaming-free-november/",
+        "published": "2026-10-30T19:21:20",
         "source": "cnet.com",
         "summary": "Explore News AI AI Atlas Best AI Image Generators Best AI Chatbots Best AI Website Builders ChatGPT vs. Gemini Tech Tech Mobile Home Entertainment VPN Computing Services & Software Gaming Laptops Streaming Services Web Hosting Home Home Internet Home Security Kitchen & Household Smart Home Energy & Utilities Yard & Outdoors Smart Plugs Entertainment Culture Internet Culture Entertainment Sports Fashion Wellness Nutrition Fitness Personal Care Medical Mental Health Cover Stories Reviews Best Products Best VPN Services Best Web Hosting Services Best TVs Best Identity Theft Protections Best Mesh Wi-Fi Routers Best Robot Vacuums Best Smart Locks Best Phone Plans Best Printers Best Laptops Best B",
         "category": "Modelos"
       },
       {
-        "title": "Murcia organiza una jornada gratuita sobre inteligencia artificial y ChatGPT para empresas y autónomos - Murcia Actualidad",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ0Zxd2JITXlPVWhYRkhwXzhhMnlzM1FiblcxaFkybF9PVFJSLWRKcllPTmp3QXVKYy05d0NzT3B3QmhaSmJGWmFLTDlPeEJpZnJMeTN2VFRlSkdUYkpUVndzaEFzQU1QUnZQLXZ2LVRGdnZGbmdqUE5zbmJnejRvSjZBVW4zdkVBUUxfb2VQc0VHSVFtb2RJeUFKcG85SWk5VmF0blU5MTlJMFJvNy1ya2xWd2FWZnhRRnB5dlBWeWplR2VGOXdtNW5EZTVYSFFUSGtkU2Z0c3J1SjB3MlRnMlRsYTlneHdF?oc=5",
-        "published": "2026-10-24T08:23:50",
+        "title": "‘Largest Crypto Hack in History’: Binance Loses More Than $6B",
+        "link": "https://www.cnet.com/tech/services-and-software/hackers-stole-billions-crypto-binance-polymarket/",
+        "published": "2026-10-30T15:04:38",
+        "source": "cnet.com",
+        "summary": "Explore News AI AI Atlas Best AI Image Generators Best AI Chatbots Best AI Website Builders ChatGPT vs. Gemini Tech Tech Mobile Home Entertainment VPN Computing Services & Software Gaming Laptops Streaming Services Web Hosting Home Home Internet Home Security Kitchen & Household Smart Home Energy & Utilities Yard & Outdoors Smart Plugs Entertainment Culture Internet Culture Entertainment Sports Fashion Wellness Nutrition Fitness Personal Care Medical Mental Health Cover Stories Reviews Best Products Best VPN Services Best Web Hosting Services Best TVs Best Identity Theft Protections Best Mesh Wi-Fi Routers Best Robot Vacuums Best Smart Locks Best Phone Plans Best Printers Best Laptops Best B",
+        "category": "Modelos"
+      },
+      {
+        "title": "Mexican GP: How to Watch the F1 Race",
+        "link": "https://www.cnet.com/tech/services-and-software/mexican-gp-how-to-watch-the-f1-race/",
+        "published": "2026-10-30T14:26:37",
+        "source": "cnet.com",
+        "summary": "Explore News AI AI Atlas Best AI Image Generators Best AI Chatbots Best AI Website Builders ChatGPT vs. Gemini Tech Tech Mobile Home Entertainment VPN Computing Services & Software Gaming Laptops Streaming Services Web Hosting Home Home Internet Home Security Kitchen & Household Smart Home Energy & Utilities Yard & Outdoors Smart Plugs Entertainment Culture Internet Culture Entertainment Sports Fashion Wellness Nutrition Fitness Personal Care Medical Mental Health Cover Stories Reviews Best Products Best VPN Services Best Web Hosting Services Best TVs Best Identity Theft Protections Best Mesh Wi-Fi Routers Best Robot Vacuums Best Smart Locks Best Phone Plans Best Printers Best Laptops Best B",
+        "category": "Modelos"
+      },
+      {
+        "title": "Take These Precautions Before Using AI for Your Election Research",
+        "link": "https://www.cnet.com/tech/services-and-software/ai-chatbots-election-voting-research-decisions/",
+        "published": "2026-10-26T12:20:00",
+        "source": "cnet.com",
+        "summary": "One of the biggest uses for chatbots is searching for information, so it isn’t surprising to see people using ChatGPT , Claude or another AI tool to learn about their candidates and ballot measures. When I asked ChatGPT, Claude, Gemini and Grok who I should vote for in North Carolina’s senate race, only Claude explicitly told me that it wasn’t going to push me toward either candidate. Explore News AI AI Atlas Best AI Image Generators Best AI Chatbots Best AI Website Builders ChatGPT vs.",
+        "category": "Modelos"
+      },
+      {
+        "title": "Oracle integra ChatGPT en una apuesta sin precedentes por la inteligencia artificial - El Español",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVXR2Sl9obUF1N3EyU1ZhQzRrY0FQUXlHTFpob2pDa18xMGtKSEFzUlNZVDNCUW9OOGdBbkplcTJYbURYYkdiMmlDX2NhZlZxUFZpb0ZfYnEwVlFoSmtGTW9OaXJpZzdCSXF5VU9IV1g0R3IybXRqLWplUWFGYWRTUllSNkZOQTlRSzNzSS1MdTZ4SHJUY25rUjJERU1JZG43WWlBTUgtUTNlUnVReXJ6ZG5MTjV6aUk1UDJ1TXZQa001dy1qN1JqbGpENVkxdC03NTlIaWMyTXBseDVGdHNocWdXMUsxd1dTVGdr0gHwAUFVX3lxTE9wTXVEWFJqNC1YTUpEQ2VIdV9wbHRkVzVFZU9lVnQ4U3BCWEVzU2hWRXdPMUNrWC1aLXY0WVpfMUFxeUI2M1lLZUVuY0YwVk9EamhxcjJNcVAzRFcxOFdFV1FvR28wUUxOcTV2OVFOSXZId0FjV09FdTZNbnZCd0p4ZU9aQzRQa1Jac1hmNTF0aks5akRvY09aNTZ6akx6MHEwb0tzcURVNFJCYUNEVnNKVG5MYjE5NkhuRmh6aDZxaWpHUlZyMU1BaVhwT1V1NHg1eWhNVHNMUUVqcTVGWHUxMVhnV0RkM2FrMldnM2JNWg?oc=5",
+        "published": "2026-10-30T08:51:59",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Modelos"
       },
       {
-        "title": "Anthropic Introduces Claude Duet: A New Agentic AI App for Professionals",
-        "link": "https://www.cnet.com/tech/services-and-software/anthropic-claude-duet-ai-agent-app-professional/",
-        "published": "2026-10-22T21:19:09",
-        "source": "cnet.com",
-        "summary": "Explore News AI AI Atlas Best AI Image Generators Best AI Chatbots Best AI Website Builders ChatGPT vs. Tech > Services & Software > AI Anthropic Introduces Claude Duet: A New Agentic AI App for Professionals It’s nothing we haven’t seen before, but it's hyper specificity toward business owners and professionals. Anthropic Introduces Claude Duet: A New Agentic AI App for Professionals - CNET Skip to content Your Guide To a Better Future Add as a preferred source on Google Open Close Your Guide To a Better Future 100 Days of Holiday News AI Tech Home Entertainment Reviews Best Products Deals Search Search Close Trending Today 🔥 Our gifting experts are obsessively searching for holiday gifts t",
+        "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+        "link": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+        "published": "2026-10-27T16:00:22",
+        "source": "arstechnica.com",
+        "summary": "When you prompt a world into existence in Genie 4, it leverages Gemini 3.8 Flash as a guiding agent to break down goals and evaluate each output frame. Ryan Whitwam – Oct 27, 2026 12:00 pm | 55 Genie 4 creates more realistic simulated worlds. Credit: Google Genie 4 creates more realistic simulated worlds.",
         "category": "Modelos"
       },
       {
-        "title": "Soon You Won’t Have to Do Dishes at an Airbnb (Unless You Really Want To)",
-        "link": "https://www.cnet.com/tech/services-and-software/airbnb-cleaning-policy-update-washing-dishes-laundry-2/",
-        "published": "2026-10-22T20:18:23",
-        "source": "cnet.com",
-        "summary": "Explore News AI AI Atlas Best AI Image Generators Best AI Chatbots Best AI Website Builders ChatGPT vs. Gemini Tech Tech Mobile Home Entertainment VPN Computing Services & Software Gaming Laptops Streaming Services Web Hosting Home Home Internet Home Security Kitchen & Household Smart Home Energy & Utilities Yard & Outdoors Smart Plugs Entertainment Culture Internet Culture Entertainment Sports Fashion Wellness Nutrition Fitness Personal Care Medical Mental Health Cover Stories Reviews Best Products Best VPN Services Best Web Hosting Services Best TVs Best Identity Theft Protections Best Mesh Wi-Fi Routers Best Robot Vacuums Best Smart Locks Best Phone Plans Best Printers Best Laptops Best B",
-        "category": "Modelos"
-      },
-      {
-        "title": "IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token",
-        "link": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token",
-        "published": "2026-10-23T19:30:07",
-        "source": "xataka.com",
-        "summary": "IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token Webedia Xataka Menú Nuevo Suscríbete a Análisis Xataka Selección Ciencia Movilidad Magnet Premios Xataka WhatsApp Tiktok Telegram Instagram Youtube Twitter PARTNERS Innovación Volvo ¡Vota por tus favoritos en los Premios Xataka Verisure 2026 HOY SE HABLA DE China Elon Musk NASA DANA iPhone 17 GTA VI Café IA Panel solar Thriller IBM tiene unas cifras que desafían a los gigantes de la IA cerrada: 90% del rendimiento por solo el 10% del coste por token Arvind Krishna planteó esta comparación durante una llamada con inversores Los modelos de pesos abiertos también pueden ej",
+        "title": "Suecia bloquea a sus funcionarios el acceso a ChatGPT y Claude para evitar filtraciones de datos",
+        "link": "https://www.eldiario.es/tecnologia/suecia-bloquea-funcionarios-acceso-chatgpt-claude-evitar-filtraciones-datos_1_13618468.html",
+        "published": "2026-10-27T12:13:09",
+        "source": "eldiario.es",
+        "summary": "Suecia bloquea a sus funcionarios el acceso a ChatGPT y Claude para evitar filtraciones de datos Hoy hablamos de... Actualiza tus datos para renovar la cuota y no causar baja como socio/a de elDiario.es Actualizar datos Política Internacional Economía Opinión Cultura Clima Igualdad Desalambre Vertele Juegos ACCIDENTE DE URDA La jueza exige con urgencia medios para retirar los vagones y acelerar la búsqueda de restos Suecia bloquea a sus funcionarios el acceso a ChatGPT y Claude para evitar filtraciones de datos El Ejecutivo sueco quiere que sus empleados usen servicios como Copilot, ya que se ha llegado a un acuerdo con Microsoft para garantizar la seguridad de su información — Investigadore",
         "category": "Modelos"
       }
     ],
     "Herramientas": [
       {
-        "title": "Designing an AI serving harness built to last",
-        "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-        "published": "2026-10-22T21:17:29",
+        "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+        "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+        "published": "2026-10-30T11:30:00",
         "source": "technologyreview.com",
-        "summary": "For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Bender An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan Jessica Hamzelou Deep Dive Artificial intelligence Don’t be fooled—LLMs don’t reason Ten years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible. By Anand Logani archive page October 22, 2026 Provided by EXL The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it.",
+        "summary": "Some brainstormed using custom agents in advocacy work, while others pitched cultivating meat with AI tools. By Thomas Macaulay archive page October 30, 2026 This is today's edition of The Download , our weekday newsletter that provides a daily dose of what's going on in the world of technology. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade.",
         "category": "Herramientas"
       },
       {
-        "title": "The Foundations of Scalable AI",
-        "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-        "published": "2026-10-22T18:48:04",
+        "title": "Our climate models have a big, dangerous blind spot",
+        "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+        "published": "2026-10-29T10:00:00",
         "source": "technologyreview.com",
-        "summary": "Bender An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan Jessica Hamzelou Deep Dive Artificial intelligence Don’t be fooled—LLMs don’t reason Ten years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible. Data, engineering, platforms, operating models, and governance must converge to work as one. About the speaker Jing Wang, Principal, Center for AI and Insights, Vanguard Jing Wang leads Vanguard's Center for AI & Insights (CAI), advancing the firm's AI, machine learning, generative AI, and behavioral science capabilities.",
+        "summary": "Related Story Inside the quest to combat Arctic fires and save the planet’s frozen carbon Read next A study in Environmental Research Letters in September, synthesizing the results of previous papers, found that the additional carbon dioxide and methane released from thawing permafrost, intensifying wildfires, hotter lakes and reservoirs , and wetter, warmer wetlands alone could drive global average temperatures up 0.2 °C to 0.4 °C this century. By James Temple archive page October 29, 2026 The permafrost underlying northern Russia’s Taymyr Peninsula is rapidly thawing as global temperatures rise. Adobe Stock EXECUTIVE SUMMARY Climate change itself is increasingly fueling climate change.",
         "category": "Herramientas"
       },
       {
-        "title": "AI’s hidden storage bill: What inference leaves behind",
-        "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-        "published": "2026-10-22T08:41:18",
+        "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+        "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+        "published": "2026-10-27T11:19:18",
         "source": "technologyreview.com",
-        "summary": "Bender An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan Jessica Hamzelou Deep Dive Artificial intelligence Don’t be fooled—LLMs don’t reason Ten years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible. By Tim Rausch archive page October 22, 2026 Provided by WD Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs to be stored.",
+        "summary": "The strategic destination is not more agents, but rather to turn the existing business intelligence into an engine for profitable growth. Bender An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan Jessica Hamzelou Deep Dive Artificial intelligence Don’t be fooled—LLMs don’t reason Ten years after AlphaGo’s match against Go champion Lee Sedol, today’s AI still isn’t tapping into the machinery that made that win possible. By Michael MacKenzie archive page October 27, 2026 Provided by Microsoft Every manufacturer has its own industrial intelligence.",
         "category": "Herramientas"
       },
       {
-        "title": "Amazon utilizó una herramienta de inteligencia artificial para evaluar el riesgo de sindicalización en sus almacenes canadienses - The Globe and Mail - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxVDQxZE1kcnRUWFUxY3h3RnhxVC0zZXZEU0pwYjhkaDNMYXo5T1g0cG8ybUd6dXJhSjhoc3VVSjZVUlZqZDZ3U2dWYzJuZDJ1MmpyWldnbkNNTDVwRm9aemN6REVxQUxSSnQzYWEwcFk1TWhrR3Bn?oc=5",
-        "published": "2026-10-24T07:03:34",
+        "title": "La democratización de la inteligencia artificial en las campañas electorales: así aplican los partidos en Málaga las herramientas de IA - La Opinión de Málaga",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVjlJdHNFdTZwWEZKRE9qN01nS0VGNEZMQVJ4bXZXVWY3QXlLMWJSZnpxV3VfR1BiQTNOWDFNcVJRWklsdVVfUjJNeEV3RnZ6eWY4WTVuTmxGZElwdGdiMHZ4R2dSdTR4dkJrTm5ib3c5aVZQbnNUdHFkalpSRmx5RTFZRG93UWdhNGotc3Qtak9TZ21FRmdZanNYVmE5emhSYmI3SDNQX2dGdUF4UW1vQUNzNnQyV0FXclFTc1ZiYWEyejFBNF9rWmNNRjlEd9IB0wFBVV95cUxNYl90NjNZMWtWWkdiS19VUkZjRktwdTZMelpCanJCZzl0T01DYXhzM3R5OXdKc0JzSEpwV1J6WmxTeU5JcDZfa1FLSHNmb21aRWhZZTVOTnlpSWNKTWI0RTdhcm1hVVA4aXl0aDNFZHFSU2dINTFfSlcxeXNFVWxKRlJnb3U4WG01WERTbE8wcnFWYWJ0QVdrdm9hQzk2VGd3ZGt4MncyaEdVWklVLXVmdTVwLUdDOHl5aTJ0VUYxSXM3Q1BkUk9Ma0NjTGNlR0pPQ2dR?oc=5",
+        "published": "2026-11-01T06:00:35",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Herramientas"
       },
       {
-        "title": "Aurelio Fernández Diz (Capitán de Navío): \"La Inteligencia Artificial y el apoyo logístico en las Fuerzas Armadas\" - cantabria directa",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTW9odUZMMDBrd24xVENRVVJIWUxod01OMjRNSjJuWTctdi1SbExJRG8wREttVldpMTdMTDlIQTlXV1AwSmdNS085SlotNUJhVm51U2JKcnlOcHM5VkpTcEM4S1ZJaC14VlItZGlOQjVJSTJvY19PRVBVYVZXam0yMDR2RktGRnVXQmY0a1RDaC1UTU55T2c?oc=5",
-        "published": "2026-10-23T22:49:26",
+        "title": "¿La IA es herramienta o creador? - EL PAÍS",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHcW9DdVRudFZqT0pkUmZTTXRTWVc1VHFrU05MZUhhcnR3WS1XeHZ1TFNScjdIN1hCWTNIcnM2UXVkT0lWVU53MVlYS0VFOVd2VEV2MURycmxGQ1VPaUpPZFRtZGk0NWdLSWx3dEgyWWx6Z2t4V1BsWmxNeXU5d9IBkgFBVV95cUxQSkZSUlJyeXJoOE9HcVN5UzJPbTQxd3pHTWdVU05uU0xhaEhwa2kxazN5MmpoX1NCYjJYTE9pSWlybHhIYTUyQVZYdGdjV0w4Y21mRkVDMTN2Vkc2Nko4Vm1fWE5XQm44VUpVcGlGN2tjX3JKYlFaRk13cktKRF9mRmdEcXhKcEVOQi1Qc1o0SlU0UQ?oc=5",
+        "published": "2026-10-31T04:30:01",
         "source": "news.google.com",
         "summary": "Google News",
+        "category": "Herramientas"
+      },
+      {
+        "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
+        "link": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+        "published": "2026-10-29T18:29:12",
+        "source": "arstechnica.com",
+        "summary": "That “someone” was Alice Huang, or Huang Le, a Chinese citizen and former top executive at a Singapore cloud company called Megaspeed. According to sources, the US had already suspected that Alice Huang—who is not related to Jensen Huang—was helping China evade export controls to gain access to high-end Nvidia chips through Megaspeed. Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says - Ars Technica Skip to content Ars Technica home Sections Forum Subscribe Search AI Biz & IT Cars Culture Gaming Health Policy Science Security Space Tech Feature Reviews AI Biz & IT Cars Culture Gaming Health Policy Science Security Space Tech Forum Subscribe Story text Size Smal",
+        "category": "Herramientas"
+      },
+      {
+        "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+        "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+        "published": "2026-10-29T16:24:55",
+        "source": "arstechnica.com",
+        "summary": "But the company’s stock price has taken a beating, marking one of the largest post-earnings drops in its history. It comes down to several troubling aspects of the new report, including an admission by the company that AI search isn’t earning as much as organic search, and despite that, Google expects to spend even more on AI next year. The company took in almost $128 billion in Q3 2026, earning more than $26 billion in net income.",
+        "category": "Herramientas"
+      },
+      {
+        "title": "GitHub ha tenido que hacer algo a gran escala para seguir el ritmo de la IA. Sus cifras explican hasta qué punto",
+        "link": "https://www.xataka.com/robotica-e-ia/github-ha-tenido-que-hacer-algo-a-gran-escala-para-seguir-ritmo-ia-sus-cifras-explican-que-punto",
+        "published": "2026-10-29T20:30:00",
+        "source": "xataka.com",
+        "summary": "GitHub ha tenido que hacer algo a gran escala para seguir el ritmo de la IA. Sin embargo, cada vez que ese trabajo se traduce en cambios compartidos, entra en juego una infraestructura que rara vez vemos. Hay que registrar versiones, atender solicitudes y coordinar el trabajo de personas y sistemas automáticos, muchas veces al mismo tiempo.",
         "category": "Herramientas"
       }
     ],
     "Regulación": [
       {
-        "title": "Google’s AI search changes upended online publishing",
-        "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-        "published": "2026-10-25T12:00:00",
+        "title": "North Korea linked to massive Binance crypto heist",
+        "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+        "published": "2026-11-01T14:33:11",
         "source": "theverge.com",
-        "summary": "Google’s AI search changes upended online publishing | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
+        "summary": "North Korea linked to massive Binance crypto heist | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Regulación"
       },
       {
-        "title": "Blue Planet III is keeping the rough edges in the age of AI",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-        "published": "2026-10-24T21:29:12",
+        "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+        "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+        "published": "2026-11-01T14:00:00",
         "source": "theverge.com",
-        "summary": "Blue Planet III is keeping the rough edges in the age of AI | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
+        "summary": "HomePod Mini 2 first look: Three things I love and one disappointment | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Regulación"
       },
       {
-        "title": "Pennsylvania will require labels on AI-generated ads",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-        "published": "2026-10-24T18:32:21",
+        "title": "New Zelda and GTA represent a games industry that no longer exists",
+        "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
+        "published": "2026-11-01T13:00:00",
         "source": "theverge.com",
-        "summary": "Pennsylvania will require labels on AI-generated ads | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
+        "summary": "New Zelda and GTA represent a games industry that no longer exists | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Regulación"
       },
       {
-        "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-        "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-        "published": "2026-10-24T15:00:00",
+        "title": "Prop 45 in California could be hiding a loophole for data centers",
+        "link": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+        "published": "2026-11-01T13:00:00",
         "source": "theverge.com",
-        "summary": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
+        "summary": "Prop 45 in California could be hiding a loophole for data centers | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Regulación"
       },
       {
-        "title": "What to expect from Apple’s ‘Pro and tell’ event",
-        "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-        "published": "2026-10-24T14:15:00",
+        "title": "Get in the spooky spirit with these horrors from YouTube",
+        "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+        "published": "2026-10-31T21:06:58",
         "source": "theverge.com",
-        "summary": "What to expect from Apple’s ‘Pro and tell’ event | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
+        "summary": "Get in the spooky spirit with these horrors from YouTube | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Regulación"
       },
       {
-        "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-        "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-        "published": "2026-10-24T14:00:00",
+        "title": "Keyboards of The Verge",
+        "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+        "published": "2026-10-31T19:30:00",
         "source": "theverge.com",
-        "summary": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
+        "summary": "Keyboards of The Verge | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Regulación"
       },
       {
-        "title": "Lee Chang Dong ponders the ethics of the camera",
-        "link": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
-        "published": "2026-10-24T12:30:00",
+        "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+        "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+        "published": "2026-10-31T18:40:32",
         "source": "theverge.com",
-        "summary": "Lee Chang Dong ponders the ethics of the camera | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
+        "summary": "Binance CEO says 90 percent of stolen assets have been ‘replenished’ | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Regulación"
       },
       {
-        "title": "Laika has spent 20 years building up to Wildwood",
-        "link": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
-        "published": "2026-10-24T12:00:00",
+        "title": "Happy Pikmin Day Eve",
+        "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+        "published": "2026-10-31T17:50:12",
         "source": "theverge.com",
-        "summary": "Laika has spent 20 years building up to Wildwood | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
+        "summary": "Happy Pikmin Day Eve | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Regulación"
       },
       {
-        "title": "It’s time to find a new browser",
-        "link": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
-        "published": "2026-10-24T12:00:00",
+        "title": "I built an AI Tamagotchi before Meta could",
+        "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+        "published": "2026-10-31T16:05:00",
         "source": "theverge.com",
-        "summary": "The best browsers to try after Arc | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
+        "summary": "| The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
         "category": "Regulación"
       },
       {
-        "title": "Víctor Gómez, ingeniero industrial: “Solo un empresario mediocre ve la Ley de Inteligencia Artificial de Europa como algo malo” - La Vanguardia",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOFpBT2JHWE9fclNUcUR2dVNGaktQMWdZSnljSm5QcW0tY3V1NnRodnA2WWVBc1N4T1NTU2Q0VjdfR2VLWU1XZzlsM0NPTXJQX2dfcXhnYjNxOE42enYxRW1ieDNzalFDb1FONFRNOXdHY01SZlk3cDR0WWU2ajYzTEt3Q1FIWEpZZW1STTVDZWpvNnE3UVowelNBeHJ0YmNPRE5pX3BqUW5IaHB6OXNwRlNwbkhGTnV5aWFKaEcwTllLQVNuNVduSDcxMHJEcHFlc0ExTWtwZ3A2cG9qREVfa1RFTjBtMllSZjlR0gHwAUFVX3lxTFBxb3JzcmZycEtFYzMwamxOb3YyUDhvY1JEUXhkUmh1TnJjN1o4cE5TVjdKcDVnNjNibzJZeTJRME16SWhRMThqaW96TnotbE0xRk1hcG1PcGxXalBqQW9YR0RWblFSbUxveXNrS2pwSHFBVk5jX1R3Y1phV3I4eXZBbXFsMGVhOWx1WHJXWTVjclA2c19ZNWl5THhVNTNPMlA1SWhQeTZCZTVfNUwtQnFrQXNSTEJ2UnhEcExneU1OTVRDenBoOF92NlN2al8xNldwZHBDZmxnVFpWcVNfOHROa1RicTFuTHNWSDVwOWxnag?oc=5",
-        "published": "2026-10-24T04:00:00",
+        "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+        "link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+        "published": "2026-10-31T15:12:19",
+        "source": "theverge.com",
+        "summary": "Windows 11 tries new shortcuts for Xbox gaming mode and search | The Verge Skip to main content The homepage The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo.",
+        "category": "Regulación"
+      },
+      {
+        "title": "Bolsas europeas cierran a la baja por preocupaciones sobre la inteligencia artificial - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtZHhnX3ZsT1VsQ19GemYxOUhRYmM3bWJLR1I1cEFZUUZYZ0tEa2pQcjd6MnR0XzdXQ0xSd05FVEw0X0tFSV84OGpqZGNad1NRcEhQM2tlX0Nlci1oa3YzbUpicldfUFYzc3ZMYU1OQlFEcmR5UjNz?oc=5",
+        "published": "2026-10-30T17:44:33",
         "source": "news.google.com",
         "summary": "Google News",
-        "category": "Regulación"
-      },
-      {
-        "title": "González Veracruz pide regular el impacto de la inteligencia artificial en el empleo - La Opinión de Murcia",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObk9SN3VobmtYeHNhUzJGT2c2VjFiam1ncnBUcl90NFhnUG9UVlBfdE5kTjI5UXZnaVZQVFMtMjNMb0NpUTVFbS1pMkV4aFFEUjB0Z0ZEWTJjSV9sTHFZazktOTMyNTFNcXVjUVFwZ1d1QkhDQUw4X3kxN3NTcUNPWVRqcHIyQ1NGRnBQNU1VaUhuTkZJdWpfdG5zLXpOR1pIMUpNZEhEa0lNMHfSAbABQVVfeXFMTVllYW83anpwVWlYZ0dFRmkxbjUtY1BKNGZtZDNpODk2aTh3MF8xbFozU3o3WWwzRWhoWHZSVGh3Rm50OXJxQ1hkbmFDenNvRlRUZkxfWGpDNExuNzlBWms0eHlsUjdXekg2c1RpMkxuaHB2Wjg0MUNKR0hyYmZlbzRXRG92QVZaMjJObmdvS09MODk3RjlKN2Q0WFlrY0ktS0MxZ2xKeVlwY2F5eVdBUF8?oc=5",
-        "published": "2026-10-23T13:08:11",
-        "source": "news.google.com",
-        "summary": "Google News",
-        "category": "Regulación"
-      },
-      {
-        "title": "Zuckerberg logra un blindaje económico por parte de Meta ante un posible impuesto para ricos en California y se queda en Silicon Valley",
-        "link": "https://www.eldiario.es/tecnologia/zuckerberg-logra-blindaje-economico-parte-meta-posible-impuesto-ricos-california-queda-silicon-valley_1_13606896.html",
-        "published": "2026-10-22T13:01:16",
-        "source": "eldiario.es",
-        "summary": "Zuckerberg logra un blindaje económico por parte de Meta ante un posible impuesto para ricos en California y se queda en Silicon Valley Hoy hablamos de... Verás las noticias de esta portada en el módulo de ediciones locales de la home de elDiario.es. TARJETA CADUCADA Por favor, actualiza tus datos de pago para que podamos renovar tu suscripción y sigas siendo socia/o de elDiario.es.",
-        "category": "Regulación"
-      },
-      {
-        "title": "La Inteligencia Artificial aplicada a las armas: una amenaza real que debe ser regulada - RTVE.es",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSE5jLVk4ZVYxblg3T19ZX3hXZDktZDViNVRKd1hYYTNuUmJQMl9OOXQ4OVQ3VmZneWRSWFVwU01HTTlRRmVRbVpVTUF5QlBJVEg1cklQV1JrdVBIaWZ0cDdyTGw0V2thc2VHZDgwdXN2QVFBWTlidkpTWFNEUDFVUHlyNEhLWV9NVmQ0am9IS05TOE05U1JNdUh4cUtlZDhVTjhKODRIQQ?oc=5",
-        "published": "2026-10-22T12:19:00",
-        "source": "news.google.com",
-        "summary": "Google News",
-        "category": "Regulación"
-      },
-      {
-        "title": "Meta, condenada a pagar 25.000 millones de dólares por engañar a los usuarios de Facebook en materia de privacidad",
-        "link": "https://www.eldiario.es/tecnologia/meta-condenada-pagar-25-000-millones-enganar-usuarios-facebook-materia-privacidad_1_13604776.html",
-        "published": "2026-10-21T18:04:44",
-        "source": "eldiario.es",
-        "summary": "Meta, condenada a pagar 25.000 millones de dólares por engañar a los usuarios de Facebook en materia de privacidad Hoy hablamos de... Verás las noticias de esta portada en el módulo de ediciones locales de la home de elDiario.es. TARJETA CADUCADA Por favor, actualiza tus datos de pago para que podamos renovar tu suscripción y sigas siendo socia/o de elDiario.es.",
         "category": "Regulación"
       }
     ],
-    "Investigación": [],
+    "Investigación": [
+      {
+        "title": "The Download: dead startups fueling AI and interspecies communication",
+        "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+        "published": "2026-10-28T12:10:00",
+        "source": "technologyreview.com",
+        "summary": "Demand has grown as training labs hit the limits of public and synthetic datasets, with buyers seeking real-world records to help train AI agents. By Thomas Macaulay archive page October 28, 2026 This is today's edition of The Download , our weekday newsletter that provides a daily dose of what's going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much.",
+        "category": "Investigación"
+      }
+    ],
     "Seguridad": [
       {
-        "title": "Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadanía contra la IA",
-        "link": "https://www.xataka.com/privacidad/dinamarca-tiene-plan-deepfakes-blindar-voz-rostro-sus-ciudadanos-ia",
-        "published": "2026-10-25T10:30:00",
+        "title": "China ofrece sueldos de un millón de yuanes por el ingeniero de IA que también buscan Anthropic y OpenAI",
+        "link": "https://www.xataka.com/empresas-y-economia/china-ofrece-sueldos-millon-yuanes-ingeniero-ia-que-tambien-buscan-anthropic-openai",
+        "published": "2026-11-01T14:01:28",
         "source": "xataka.com",
-        "summary": "Dinamarca ha propuesto una solución 4 comentarios Facebook Twitter Flipboard E-mail 2026-10-25T10:49:06Z Eva R. de Luis Editor Senior Linkedin twitter 4054 publicaciones de Eva R. Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadanía contra la IA Webedia Xataka Menú Nuevo Suscríbete a Análisis Xataka Selección Ciencia Movilidad Magnet Premios Xataka WhatsApp Tiktok Telegram Instagram Youtube Twitter PARTNERS Innovación Volvo ¡Vota por tus favoritos en los Premios Xataka Verisure 2026 HOY SE HABLA DE China Elon Musk NASA DANA iPhone 17 GTA VI Café IA Panel solar Thriller Dinamarca tiene un plan contra los deepfakes: blindar la voz y el rostro de su ciudadan",
+        "summary": "de Luis Editor Senior Linkedin twitter 4066 publicaciones de Eva R. China ofrece sueldos de un millón de yuanes por el ingeniero de IA que también buscan Anthropic y OpenAI Webedia Xataka Menú Nuevo Suscríbete a Análisis Xataka Selección Ciencia Movilidad Magnet Premios Xataka WhatsApp Tiktok Telegram Instagram Youtube Twitter PARTNERS Innovación Volvo HOY SE HABLA DE China Sam Altman Nintendo Switch 2 Bill Gates Elon Musk Tesla Café Frío Frontera LG OLED China ofrece sueldos de un millón de yuanes por el ingeniero de IA que también buscan Anthropic y OpenAI El cuello de botella de la IA ya no es el modelo: son las personas que lo ponen a trabajar Sin comentarios Facebook Twitter Flipboard E",
         "category": "Seguridad"
       },
       {
-        "title": "La Comunidad de Madrid aprueba más de 16 millones de euros para formación en inteligencia artificial, cloud, ciberseguridad e infraestructuras informáticas - Comunidad de Madrid |",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQc3oyX01HMHkyc2N6Snl1clBZakdfSThfS01ocnlaZ3pEdG5Xb3pVVmdBVmJ1N3A4RU1YWDFldGVaMUNvUE1EalVrMTZjSV9tNmlLc1lxM0pyWWtGT1BTQ1RKRE0zY3JleTF2Y240d3hMa0dhWWFUT20tRm1jdV90cllVRWRkaHZlektzUUxwMlE0S1dIMHVSeXE4VnVmbGR5UmNoOHNfR2FocjBiRFR2bGQ5RU9qS3k2NFhyYkQteTc4ajZIQkFUTmJMYjlnSUlXYjNCYkIyZGU0QThHSGlFenM0Z0NyZFVaVS0zWFF5NFFldzFCZmZMVExmOV9hS3hudTdBcUdERmVYUQ?oc=5",
-        "published": "2026-10-25T10:03:18",
+        "title": "La inteligencia artificial supera al cambio climático como principal riesgo emergente - Revista Emprendedores",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR0N3Wkp6bTJGaTV4MWI1cExDM2owYUhtbzFRejVFRTctQ3dNb3hQX1hSYXZXTmtTN28zRkh2UTlFbFFHYW9yY2cyeFlqclJSTFhNRjVDVHltQnE4WWEzLWlSdzBaOEc1WTBQSmw0VWpLWHM1WmQ2WXQtUnliRmR2VG5WbG9NMnZ1VzRQaHJmSkpBdnNWaHNGYlY4WXdYWTIyb0swNDE5M3dpS2hPTWk0UjVOSWRFXzRLcEpMcHZDWWRjZG9RdGNqWG0xNVVZNTNi?oc=5",
+        "published": "2026-11-01T05:01:48",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Seguridad"
       },
       {
-        "title": "Tarragona reúne a más de 3.000 expertos internacionales en ciberseguridad e inteligencia artificial - Diari de Tarragona",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWkoyT1RQUlV5Nzg5djR5TXJtNFlLdm5Jakg4cE45aVdpTUh2UEdFbThsdGZhdDFhVW52WER3OTFvcU90bmVCaDUzbmUtaUZLal9iU2EwUUY4enVaY3Z3X2Y4aW1fVVNfazNFazFMTTNydGtkeXpyamsza1pOM3FhVm5JYzFUZWZubnBJTURjUE5XYnctNXZpMlBPSmdiLUhrd0JmcUF6NXFHNkVla1JVUkFmUi0yWFFVVlZkS2JMMnlDeV9GMF9BbDZBMzhpNjMwN0dMMEk4X3DSAd4BQVVfeXFMTWpjbmplU0JYNzh6NjkyWHBZR2hJZWQ0clpTdXNUZlVEUGcwdHozdjhuUkE0dUVyTjJ6a3ZsVzRkekctcVo4c1lFUU9ibmZ6RkZpdnFsX2RmWkExUkpDZjAtX1Y5ME1yamY2Ti10RVpMMjBFOFVHeFpUNnZhYUxLSGFkdXB4Z3lSU1RHU1Uzb29RckM0NGEyMHR4VnhlVzR0bjlXcVN4UTNCWHJyUDlfX0Qza3NHTlB2QkFZVnpya19GT3VtVEM4eHVFSnQ0dEpoQkQ2Rk41N0ljZjd6czhB?oc=5",
-        "published": "2026-10-24T10:34:02",
-        "source": "news.google.com",
-        "summary": "Google News",
-        "category": "Seguridad"
-      },
-      {
-        "title": "\"Van a empeorar mucho más\": Jason Clinton, subdirector de ciberseguridad de Anthropic, advierte de lo que está por venir",
-        "link": "https://www.xataka.com/seguridad/van-a-empeorar-mucho-jason-clinton-subdirector-ciberseguridad-anthropic-advierte-que-esta-venir",
-        "published": "2026-10-23T18:32:14",
+        "title": "Bill Gates, fundador de Microsoft: \"Consiste en contratar al robot, despedir al humano y no mirar atrás\"",
+        "link": "https://www.xataka.com/robotica-e-ia/bill-gates-fundador-microsoft-consiste-contratar-al-robot-despedir-al-humano-no-mirar-atras",
+        "published": "2026-10-31T11:01:28",
         "source": "xataka.com",
-        "summary": "Simplemente abrimos el móvil y seguimos adelante , porque hemos incorporado esos servicios a nuestra rutina con la naturalidad de quien enciende la luz de casa. Pero detrás de cada operación hay decisiones técnicas, controles y personas que deben que los usuarios rara vez vemos. Nuestra relación con lo digital está construida, en buena medida, sobre esa confianza que damos por sentada.",
+        "summary": "de Luis Editor Senior Linkedin twitter 4066 publicaciones de Eva R. de Luis Este verano Bill Gates vaticinó algo: la adopción de la IA en el mercado laboral va a ser algo \"muy turbulento\" para lo que no estamos preparados . Bill Gates, fundador de Microsoft: \"Consiste en contratar al robot, despedir al humano y no mirar atrás\" Webedia Xataka Menú Nuevo Suscríbete a Análisis Xataka Selección Ciencia Movilidad Magnet Premios Xataka WhatsApp Tiktok Telegram Instagram Youtube Twitter PARTNERS Innovación Volvo HOY SE HABLA DE China Sam Altman Nintendo Switch 2 Bill Gates Elon Musk Tesla Café Frío Frontera LG OLED Bill Gates, fundador de Microsoft: \"Consiste en contratar al robot, despedir al huma",
         "category": "Seguridad"
       },
       {
-        "title": "Desde hace 22 años se conocía la mayor amenaza a la seguridad de Internet. La IA la convirtió en una crisis en 2 días - CNN en Español",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmpYTGVZbVNMM01JY1QzUnhqZDRRUXEwVjNwSHZnWkRxcXNyVU9pZU9JNnpFdEVZUlZPQnVIZXM1ODk2TWdSdzJKTkkzUFhTb0t1SThORWQwUjk1Vjg0T1hjRkFrTlR3TTdTVEVNTDRPUnQ4bmVDT1RzT2t5S1R5aHFlZUc4dFc1MEZYaEltU0U4LS05X2tVSy1Hdw?oc=5",
-        "published": "2026-10-23T16:00:00",
+        "title": "Presentación de las guías «Seguridad en Internet y en las redes sociales» y «La Inteligencia Artificial en la vida diaria» - Comunidad de Madrid |",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQenZraktGcmNjd0NRQkc2SWFfTWYxbk92QlhqZmIwbWJWSnZfSlBGZGhBSXVPNXo3SUtGM2kzelBtTi1ZbVV5WU5PMU5QM0xXMERLaDBsRS03X2RQQXhnZHRlVjVJZnRxeFVhZi11ZElYYnk3SGdoOWwweXBlSUhuV1hfYndRSnB5YmxUbjRYblY4ZlNYOXhlb1VfRUMxSWFXeGEwU1BOa254SlJoZ3I0aXVrcFNINVN0Sk9OYllsSXhUd0wzdjYtd2V2bmhLNm8?oc=5",
+        "published": "2026-10-30T11:22:39",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Seguridad"
       },
       {
-        "title": "Mobo, un nuevo robot humanoide con inteligencia artificial para la compañía y la asistencia doméstica - casadomo",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObzdtMlpYRW81VzhwUEtFU3VlNy14NXh3SkF6R2NoS3BMV2ppN01JWUpWRml2OUI3aTV5TnA2ZDlSSndXNXphNmRrTXRXTDRJaGlFVGFmUG5tQmtnNWVFYm43SmNEZExyR0dCa3pyNG55NC0wM1J2SVRERjNjYTBEMktUV010bWVlSDdYMXlzcGxkcVJBaTNiRVVqQUZPMGRWOTZXeGROLXNmVUh3QnhVRGlqVS11TUk?oc=5",
-        "published": "2026-10-23T12:36:39",
+        "title": "La inteligencia artificial convierte un antiguo fallo de seguridad en una amenaza masiva para miles de páginas web - COPE",
+        "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPQjZ4ZTBxRDRXUkxCVE5jUEF3UmpzaldqZ0NDdFA3U05WOEJ5MzZvWUFPR2pEWF9lVmN0TFhLMThEVWxfUkxGUE93bzdWUU83T09LZ0R4ZWE5NFhzeEF0X3VkRjBEaVJhVllBWFA2MC1JZHhuQXYxaTRRXzd3VndDTVh4QWc3cjJjQ2Z5TDJTc3lMT09DejE3T1hzQzkzQmNVbnFWVWZEZ0EwZFdyM01uUWpZQUtld3FCcVhfRDVtWHZFSWlZUkVNUUE5aWIyOU9PakJvd01DdmVuQ0xLREhrNHpKaGFIVi1jeW16Vy1SUklmZjRpNVJyQkZPY09yUkNtbV9LNHZYcUlLajZvUGprRGgzdmV4ajBWbnhKdDNLNklLZW1ZcXBlY2ZB0gGvAkFVX3lxTFBJRldXa2xnTTl1djVIdHVjanJCOVJkWWVmNWZJSHhxS2RTRnA4dzRyZHhyN0hJZktRNThBVTRTcUY3amJSMkFJbGV3dkd2a3VDelpTZkJYOVVSVnBFcHY5QmQ4NnlIb09TNS1tY3JyMEQyUDFvOTh1ZWJGaG05S3BCNV9JV1lmRUFuQzFQc0NIbnBINndkbzlJN28wNmtCRzBKU2Nmdi02UFNUMmg5YWtYWUpRMzhRMkRhSkh4YnVwRVpERWxYWndkM05xYU9Ha3N0TENDNXk3X3RaR1VEQXRtVmZNOERsQl9feDFfQ1R5WmU0M1VrYWdtY2VwOFFaR3ZvNFBpb3ZYODdOclZwdGttME1mQ1R3N0VYSmdOWFRKZ0ZBckM1cUFzZkRVNzlIaw?oc=5",
+        "published": "2026-10-30T10:13:27",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Seguridad"
       },
       {
-        "title": "Three things you should know about permafrost",
-        "link": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
-        "published": "2026-10-22T10:00:00",
-        "source": "technologyreview.com",
-        "summary": "By Casey Crownhart archive page October 22, 2026 Adobe Stock EXECUTIVE SUMMARY How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it. The great news for both of us is that my colleague James Temple just published two in-depth stories about permafrost.",
-        "category": "Seguridad"
-      },
-      {
-        "title": "Un perro robot con inteligencia artificial desarrollado desde Extremadura recorre viñedos y frutales para medir cómo crecen las plantas y calcular cuánto van a producir - Vozpopuli",
-        "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOVGd1LU1hNG5hWmoyOThUeGxEaGNfYVdhVE55dGJKdFlINFZmTFFtT2Rxa1Y0cnZLOUI0dlRoNkZXMFhBT21NaXRmOTJRWjVCcVJPOXNMeFFjTnlGbTAzZVZOWVFhRzZpS3VhNVdnQnVQSXhDbm5mRVpLcjhxN21rcXRveEF1Sm16VHJOU05YZ1k1WUM5QWFJQjFzNHV0NE9Lbkt4TjE3cm9DelZ5Y2o4Mk5kcmVraGRpVU1jcVFMdi1MRlpsekNCZkh0bEh0NHgxcThBNC10Z1ZscWNyZ1ZzYnFXcWpYSTRDMkpINDdXc3lWOEk1WkI4OXdkS2tDTlFSVExwNEtpNV9DS0taaDRNYWY1amhhT0JKcFRhUXluZXZjOWdQVFFrcUdpWWJxZ9IBswJBVV95cUxQTjJ1SmlrMXlpbUo1UG8yOUs0SUZ5NHhabWZzWUlXT0U0bkpCSDNzLXltUXBiNEduOVY3UmNQZ0V6cDliUF9nUFZUMVBqUG9SSjhMeHpYSE1FVDJrV2tIVHE0bDZVbmlPTXJTcmhsWHNLdFQxS3gybkV6UFM5YlFNVzA5UUdMb0swM0NqUUJ1U1RxdGdTWnc0MFdQc0I4ZUpoSnNtSVlOQTF3Q21Qal9neVJUclBHeXd0Nmw4OHh4eENzWGRaRE5DNTJBV3FveHpGejRIX2g5TWI0ZHZ6UzJkMkgwTjhHWDViT0M3dXIwWDNHRUJsUjV6Y3U2NkNjS1BVNEtYWG9NcG1SZEZqOUlOYW9lejJWWjZELXFEWDVjeDl3Y1ZodXJ0U1JfS0E1OU5LaUJB?oc=5",
-        "published": "2026-10-23T07:00:00",
+        "title": "Inteligencia artificial y ciberseguridad: qué nos muestran realmente los casos de 2026 - WeLiveSecurity",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUjFiMXU2RC0xS0Y5Ty1sTHlFWlpzcXNzTWdXMWxQc1lYVVNrWlhnbFFjUnFwa1BEUkRHTnpTeEFUM0t6bHB4YlBMYnpSRV9kTzNySHpZeDhjRDVOZnBBdWJycEo1X1pBbEc3bVJwSkRiTWNsYmExWHRZaHpsV1luXy00cW5hTGYxMEtHMDQ0NmZpN0h4bkpybV8tX1gzWEhBVGlCZg?oc=5",
+        "published": "2026-10-27T22:59:03",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Seguridad"
       },
       {
-        "title": "Así es Mobo, el robot humanoide con inteligencia artificial creado por AiMOGA y el grupo Chery - El Periódico",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcTduYVJ6OVhUc0ZWNVF2WmZsdl9WR29fV1R1ZVRwTGpwLUFTUlpPNFFBNUJHRnNoTjdpTUREaFo5Vk91T1I2SFh2eGVyUEtoOE9qa3VobkJKRFp4VUFFQnpiYzlhVkowUDZ1MGluTzRkVm1WY2VBNW9GTWxiS0NEMWZfRGptQ21WYXFyWEZ2RVJZaDVJNEM4bl9SRXZMdw?oc=5",
-        "published": "2026-10-23T06:00:39",
+        "title": "Granada se llena de robots y soluciones de inteligencia artificial para transformar empresas y servicios públicos - Ideal",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZWZXQ2hxTGdQbXoyZGNMd2JtVXdWQWphc0JxaVQzWnB2LW5LaWl4cWtURU1MMHhhbFltcHVwbkwxYkE5NFM5eHNvT1Y5Mk5ldlJuM2FSQ1lmOUVPMkd1eGVOMzRRV1lfNGpfRWtPbWtXN2tYZFZiZXRsNi13a1RGRERIclZsRDRoMGpxME1WT29XUFlrVmJuLVRLYm5yRnNobEsxenVaTkJhdDduZXc5RkZEY0llTE1lMWV30gHAAUFVX3lxTFBXNzV1ak9ycWFtNVV4eTFhZFVXSnBlSTFxa1hpbk1WMHMxLTJTMEE2U1FMNTVqeG11RTduVS0yNDJNdzlEOTlxYWZSQnNrelY2TVFtaUdwVVozOVVIRkhUOUlqZzFZRGxIZkhXeWpWVFl4dmNXNXJTYzQzN0I0N29GTlJ2c1R1T0twRVJUM0JkNkpqY3dnaVNSeHU5MXNUUzJILTFWWnJzS1dsYkxmRkpVeVdXdjJjcGg4S2czbFdSVQ?oc=5",
+        "published": "2026-10-27T16:31:31",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Seguridad"
       },
       {
-        "title": "La inteligencia artificial se hace pasar por víctimas para engañar a estafadores: 350.000 bots programados para marear a ciberdelincuentes - La Vanguardia",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYXZ3UVJJTFM5Z3Y5cVdLSmJxWGdXOUVFM2hERHBVcHlqTmt1anNHUVZJWC1xNF9sSGQwcFduTzVVWnhieUVidkNybV9UY2p0dUFiekRjZzI4OXRia3ZjWFJsY29LNjNaMEhEZ2xncEEyY3dUenRJUURrS3VHM0FGTHM5QTdpUTZQSGlhdUxsQkg2dF85WVlxMkpiUnhHR1VrbjgwQUYxbEdUeXhiUDRtX3VtQWQ2TGRVQnVBQWY3TXhaOGd2UFl1bWpwUzluemRDSTNCZUlmc0lRWDAwMnlkbjRuZmpMamdDNDVvemhNTFk0QmRaWE1kendMZ9IBgAJBVV95cUxPczJKZ0xadE9wdzN3eWNjXzBJbFl3TlE4cl9YdW51a1pldFQ0bEQ4U3F2TndMV2tqNkNTakRSYlJLODNsbV81Vy1KdWpLbUZHMm9RVklDUENpWTBWOThRTjU5NXJhTnc3SGxuSGtfNmQwRkM5enl6MExtOWNjS2R6RkYtMk9lcllWQWJzaWtLcTAxXzJFX1QxOWt6b0d1a0dsa0lpbF9NOE53MDFMZi1iOEJVNUs5SU1VNFBsTGZMbHROX3NaSWtPaVM0b05iRVdZV2EybWUzNFJhR0xnazNOQUVkNTgwRVZzTnh6aWMyeVJkbWhKc1NYa214SWhGLXM2?oc=5",
-        "published": "2026-10-23T05:15:00",
-        "source": "news.google.com",
-        "summary": "Google News",
-        "category": "Seguridad"
-      },
-      {
-        "title": "Alerta de ciberseguridad global ⚠️🛜 La inteligencia artificial ha ayudado a descubrir una de las vulnerabilidades de seguridad más graves detectadas en los últimos años. El problema afecta a PHP, “la estructura invisible de internet”, una tecnología present - Facebook",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQUdwSHVteFlzcjNWSVpINldCUjJ1dEtBU0Vfb2xTSXRnMVpvQ29nYjdxdklCbEJidjdnaVIxTy14WFR3dXA3S0Q0SWNwUXpnMlRJX2EtR2dkOUhBQnA4WXNKOWx2eWY0SWwteGtMTE4tbW5tMW5kN0hhMW1mLXhTRjJGdTAwMDZKNHFQYVM0UXVXeUctQjRwQTZQbFVrWUhDTnlRWkpqUWhiMFlPSUQ3UzV1RXZsS2NMOG51bURPNVhZeHVYRFdwRU5hZE1jeDZRWWo1MzZudkFwUG55S25uZnNGbFg?oc=5",
-        "published": "2026-10-22T19:22:31",
-        "source": "news.google.com",
-        "summary": "Google News",
-        "category": "Seguridad"
-      },
-      {
-        "title": "Un fallo crítico en el lenguaje PHP pone en riesgo webs de todo el mundo",
-        "link": "https://www.eldiario.es/tecnologia/estados-unidos-advierte-vulnerabilidades-lenguaje-php-ponen-riesgo-servidores-web_1_13604663.html",
-        "published": "2026-10-21T17:23:52",
-        "source": "eldiario.es",
-        "summary": "Un fallo crítico en el lenguaje PHP pone en riesgo webs de todo el mundo Hoy hablamos de... Verás las noticias de esta portada en el módulo de ediciones locales de la home de elDiario.es. TARJETA CADUCADA Por favor, actualiza tus datos de pago para que podamos renovar tu suscripción y sigas siendo socia/o de elDiario.es.",
-        "category": "Seguridad"
-      },
-      {
-        "title": "🧠📱 ¿Cómo afectan las redes sociales y la inteligencia artificial a nuestros jóvenes? La @guardiacivil participa en las Jornadas Universitarias de Psicología y Seguridad de la Universidad de Extremadura. 🎓 Un espacio para abordar los riesgos del entorno dig - X",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03cGFJMUJ5UFBJOUl6dVJNS2UwUTRYVk9ET3ZGMmFtY21sdGxmalVNVV96cFBRenpmU1JIbFZWNmF4VGZXZG81WGxDbmcxWExsa3B4LTFSM21wWDY2ejRvZjBDeTZtQlBZdGpMSWVB?oc=5",
-        "published": "2026-10-21T10:16:55",
-        "source": "news.google.com",
-        "summary": "Google News",
-        "category": "Seguridad"
-      },
-      {
-        "title": "Un músico, condenado a prisión por utilizar \"bots\" de inteligencia artificial para cobrar millones en derechos de autor - Confilegal",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNkQ0eXF3ZXF2YnJPRmM2bnFYWXc4NGVmc29Hb2syNXk2alZKSW02MWo1OGEwbnY1MnJXM2hweGpFbTB6T2tTdGtQRENxdFRfNXVrYWwtRGs5ZjBCSVZfMnhZcmpMOE9LNHNxdWhKMVd3X2ZsN2xzUjNiNURfNGctTjdvTTFtbXgwNjk1RDFSUHN4UkRsa1Zzc3FXa3d6aTdSNHFtcXRyTGtHRVpEeTdZcVlBQXROZWhQRnRIZnJManRNckZid0ViekNMUnhYX2pTTEsxZ1BMcUZ1d3dEQUhVQXJ2NA?oc=5",
-        "published": "2026-10-20T03:51:02",
+        "title": "Un estudio con resonancias cerebrales encontró que los chatbots de IA no procesan el significado como el cerebro humano - Infobae",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVklSRmpZR0pxT1pnMWJWQWNXaEEwWFJXWFRaVkVoR0x1R05weVdmQmFCVlRva25sZTJHaTBXeWowc3lxcWN3c3dvbkpRbzhMbUxmMERkZTRuOTFpeXFqakZlN29UQWc4Y01FaDVPb1l2NUM3NV94ejlaNmFzOEdDbVRWQUN4ZVM3NG1RRmVKN0RVVFEwVlRUZmVJLXNIWnJ2WjVyY21PSW4tUVdDOEthNjBTN3NZQzBjeXpPS1hfaFhkVmdlQ1ViT0QyWlAtNDZVZFJHWGdmMkFTNkllcHVtUHA4NmNVZENVWWg2dENxMm1mVEnSAY4CQVVfeXFMT3ZMbWgyaWpiZFNXZDVOYXlYSGpTdDBzNW03N3lsVkZqWEdaeFR6TmU4YkhRWm5tS1M3ZUM3UEtmeXRveE4zbUdZQ0pHMnV5ZERuR0xqUjBQUWtCSVNFWmVoakVyUG9vbVdxUkNvN2NoSXpGOGpqVUhLZW5JNHh3WnZkMFpuQ2t6am4tY0pEUkwwemg4c3JUYU5neFAzUkRtQVNoZFNQNGo2OEpHcTVNdkFyTmoyNkxsdUo3U3ZPS0ZMTUVLb1VKQUxwNWxzTWRPTE9mRHJONHc4Y08xMVR1TlZ0QWM3ZnFkbUphZ2F3bmZEcDQ4eVNUWVlfVHk1THE3SjFMREluN2I0ZWRZTzh3?oc=5",
+        "published": "2026-10-25T23:52:00",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Seguridad"
@@ -442,121 +371,121 @@
     ],
     "Hardware": [
       {
-        "title": "La cultura y la inteligencia artificial protagonizan la segunda jornada del Congreso de la Sabiduría y el Conocimiento - Cadena SER",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNYzVfZjJLX2tYaUJkNkctcmZNejYwUWpEaDczYW85NklXTEw2a3JzU09OUzNscTJkUklnVERBZWU4WFVLZ0wtNVAzbV9oVm1UakxZWlI3TExkelRFS191VnByaWFRbWVEYy1od2JCNzY4Z2hTMnJTakppbFVkQTM1bVVKSWIzU2ktOE5YT2psT2p5V1VIU0N2WmRvMGRFTVhPZHljZkdvblQ0aTJwMXNmQW4yNzRYcVNRaEkwWHlwSUhnbm0wOW9EaUxRLTNxWXVjazhISWFMbjlMNHNYT2FJdlFpRktZU0dBWkYybklzejFRVVZFVXlUSWxscy1welhmeDlNR0JBUdIBmwJBVV95cUxOZ2g4eXJYbC1VZ0dJV0VtUk0yR2pNN0lGOHRZejlMNEttXzZvRWhkVXQ4YTlhRFNQbHVxcWUxSzM4NUxuakdWdnFyaXBjT3hkUXpGaUNsYUVfeDZvT3FaMG9zdE9zb3EyUHEzdWNVTWloT3VWRVRCdDd2N3ZjbkJBUG1qWmQ3T0dYVVhmQTU1LUlublRQT0ROWVJfa2R0S29YcXNUV1dVWkFCNWRkUzl1X3NIV3M1UlcyVWZSa0FBc2RDb05IR002UmplM1hJZkQ3NGNoTmxMTEpmRmNkRFVuUVR0VXJzSlpPZV9WRFUtMDJVOHpxUkIxUU5CU1dQcEZJLVZtbXhIc0xVbDAweFNnWDZoYWZmcG5KTjlv?oc=5",
-        "published": "2026-10-25T10:57:05",
+        "title": "Más de 1.600 cirujanos analizan en Madrid la inteligencia artificial y la robótica - Servimedia",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWlR1ZUwxdHdCSWZzalR0cEZQMkw0dDZKWUVubXk4T0hPNDVDSGxnUEJrYkhtMlBHcWdJMTl0QldGS3RKMGUtdm9rUkNuZE5kVmxXQmhxUGxuTXQ2cThrUFRKOXNheFJrTjJSMGZ2RkR6WUZWWXZtaHlnT3o5d3U5eHBESklTSEh1VDJ3NFVBRjRhdktJQkRSelNQRFVqOFJEZEdmaFQzUUJ1M1lzWWlyLWdqcw?oc=5",
+        "published": "2026-11-01T13:11:00",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "El 30 % de las empresas de Baleares ya utiliza inteligencia artificial - Mallorcadiario.com",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZDBtd1l4MVBIaXBEbTl2Rlp2N24tbU4xemJqVGJoYTN3V0JTWEJrY0FiZmNKQ2JnVVdOVHVjb0M4WUg2d1ctR2Zfb2haSXRFcUxqcl83MmlnMlQ2d3VqQjZGdGZ0THJmX2tqNEhLWFUzQ1c3RFNxcWNCSGFsMDFUVmxyMm1GM2w3ZWlJV0JJeDhvcWJrdFdNQnRtY29LRWNZ0gGmAUFVX3lxTFBaWjVZcjJIeWtyM3JBNHJrS0pWd3hKZzZyUUw5cHVRNmpxVkhIVlAyS3dqNXdFQ3dEVUNSZDJ0Vy1PdFB1dWJITVpKLURaSWpaWnJsdHJydUFCLUF6WDZLZi16WjYxcVRxQlVIVTVRTm5La0p2SzJhVzFVTU9UQklNeWttTWk4SkYtQVp5TFQ3RDdReFN1ODBnNDJwakttdl9jblEzMlE?oc=5",
-        "published": "2026-10-25T10:13:26",
+        "title": "Yuval Noah Harari, experto en inteligencia artificial: \"El 70 % de las personas ya muestra una peligrosa crisis de confianza\" - National Geographic España",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeTdHMFZXdmp1SjQyNWlTVm5mWXZvWnpaOEtJY2JXVmVFZEdnY1BkVkNxMHJvT25PMzYteWlMaDJEXzhROHd1bm51RGp4NExZcmpmQnZNSGlNZ2JSaWEzZ2VMUnBXMnY2ZGJ3SUs1T2RLZWJNaXNQWFRPRm9JdDY3MWx2aXl0blQtLUl0YWQtQTlMa2ZyclhlUFh1MkljOENSNWZQbmo4UGxTT2Z2MmNoX2hSOHNNelFyZFo1SEg0cVRlSktxYUwyeEtqdmFCcW1DbVUySEdkYW9FX3poanZuOWFraXJMdldTREE?oc=5",
+        "published": "2026-11-01T11:00:00",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "La inteligencia artificial marca el futuro del turismo: BBVA pone el foco en la innovación empresarial - Diario de Sevilla",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM3NtSUs4N2lwb2xHRGcySVJYd0lPUGdHUHdJN25LZDI4WDUzbFVXYUVHTG9NT3ljQ2M5VlIzQzRvREVrbmJmYUN0Y2FvWDk4VWFpNGJpc3hOcXlaTEVkbzRwUVRXc2JCNm1IU0t2bnBHc2k4aGZVeUYtaS1YejZMV0dScHVrelBncVQxQ3FwN0VFY3F6S2NGU2NsUzBvRHV5eWx3UGVmd09NanpJZm9xVDVQRFBJS0JZTnVRUkd4UkRhQ1VJZ1RXeUxIdkN1V2ZxZ2c?oc=5",
-        "published": "2026-10-25T06:22:25",
+        "title": "Cuando tu próximo cliente es una inteligencia artificial - Revista Emprendedores",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZVdFUGk1MWRtRlhqMDBUVy16aXpOVXA3b180OWhQNkRpeWJWa2h6c013Zko0S0xQbE5iekRibGs0Yk9ZSm9lTVN6ZmFldmZybEhReEVPc0ZiN0kyREs2SDlWNVB5SDdjRWZoSTRxRE45RjZnTW9PWjZDSzllSW5jcUs0X21ZYjZPNjdZblE4c0E3d1E?oc=5",
+        "published": "2026-11-01T07:01:51",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "Making the case for context-aware AI",
-        "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-        "published": "2026-10-22T10:00:00",
-        "source": "technologyreview.com",
-        "summary": "Making the case for context-aware AI | MIT Technology Review Skip to Content Menu MIT Technology Review MIT Technology Review The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review MIT Technology Review The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Sponsored Artificial intelligence Making the case for context-aware AI Moving AI beyond experimentation requires connecting agents to operational context and identifying the business processes where they can deliver the greatest value. Without the right",
-        "category": "Hardware"
-      },
-      {
-        "title": "La IA ya está cambiando la predicción del tiempo: con el huracán Isaías acertó su trayectoria cuando los modelos tradicionales fallaron",
-        "link": "https://www.xataka.com/ecologia-y-naturaleza/ia-esta-cambiando-prediccion-tiempo-huracan-isaias-acerto-su-trayectoria-cuando-modelos-tradicionales-fallaron",
-        "published": "2026-10-24T16:30:10",
-        "source": "xataka.com",
-        "summary": "Lizana Durante décadas, predecir el tiempo que hará en los próximos días ha sido un auténtico reto que pasaba por el uso de supercomputación bruta y física pura con un equipo de meteorólogos detrás. Hoy, la inteligencia artificial está reescribiendo esas reglas, puesto que los modelos basados en machine learning ya no son una promesa de laboratorio, sino que están operando en tiempo real, brindando apoyo a estos profesionales. La IA ya está cambiando la predicción del tiempo: con el huracán Isaías acertó su trayectoria cuando los modelos tradicionales fallaron Webedia Xataka Menú Nuevo Suscríbete a Análisis Xataka Selección Ciencia Movilidad Magnet Premios Xataka WhatsApp Tiktok Telegram Ins",
-        "category": "Hardware"
-      },
-      {
-        "title": "La Junta premia dos proyectos educativos de La Zarza y Montijo por innovar con inteligencia artificial y música - El Periódico Extremadura",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZnYzNF8zZmtwY2RGajMxWTVtdHREb2hjYThTM3Z4aEVhc3R1UjdJLUlPT1FjY3daYmNCSzU1cUZ0ckQ3WW5fQTA3LWhpSkpRY1pEVm9CcU02alY3SW5mSkhkUlk5dzZ1ejI0eTRHRTFqSU1Zb2VQWDdtVHo3ZkhMcktBdnZCNUdWcDBJN0x2YzlEVkRpaVc2N1VqSFhVZE8tQjlsRGNNUjBaTzlMMTJab1lfSDFwalHSAbwBQVVfeXFMUGw5UGRqNGRLM01wT3hGYzJTWUFScFFBQlc0bFdDR3ktVjFIVXdvaTJPSTJNd3J3eUFrU2RsRHVxRUlnT0F2cks5d0ptWGhRSWZsOG81YVVoODlHdzFBdFRHcHdhOHNaYXkzajd0X1NrQVpRWlI5aW9kSXplSXBHZHlsQ0ZWeWtEcC1tT3NBR1k4dzhobWVEVWhMWGdFVzFJX3c2THZvVmFaYW42S0dyeDdES0FIb1ZCWlAtTDI?oc=5",
-        "published": "2026-10-24T16:19:25",
+        "title": "Reflexiones preliminares respecto de la Inteligencia Artificial | NR | Periodismo alternativo - NR | Periodismo alternativo",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSGh1aHIycWN5ZjJKbTcycVFEekFVQ09VQVRKN1pPWWxFektiMnF5VDZyN1ozNnRnMlNlMm5lUFdxbkt6c1M4UjJ3U2tNdWRhM19tSzNiYUROQnVhWlJia21VZHplcXJ5ZkhZUTNpVTIxeEVSYzZvVHNUTFZQZ3FWSlg2VFJxMUNqRjJKM1V3YTN6ckV3bHc?oc=5",
+        "published": "2026-11-01T06:00:19",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "La inteligencia artificial se enfrenta a un límite en Catalunya - CatalunyaPress",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUlIzNDF6QS0yU2JMTFRaU1g1RVdWZGVVNElxRVZpZW1raFJWcUQ1T2JRckdhTGZld0ZPY2FxdGdPdjNGZjAzQml4cVc3MnN4RzF5ai1jMkF1Sk9FenRMNlJMZFlubzYtM3pzN1FJRDUwVHY4TG5tSUV5YW9fYTJCVEFwY0JUWDNHOVZ6M3VlcTB1N0IwcEIweTFMZXM4XzlBOXNLSTFMdGF1NTRFdjNrSVBlVktQUGxqVlI1NFFjSGRoN1VpZXJGckxhMERNTGM?oc=5",
-        "published": "2026-10-24T16:00:00",
+        "title": "Defensa pone en marcha la evolución de su infraestructura digital con inteligencia artificial y capacidades de nube - Infodefensa",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZHdvc19xZzQzSnZ4V05rUnZ3Y0xTZDF1T3RER0E2MDhPaEZJMTdQT3k5Ym9vYjVLU0I4cHRnVWtMRGc1aFNESkdVTWlJVXVaNWhmREt4d3dReGJ4NGxaNUpWVEpXTUZJSFNxQnpfQnhHS3F6VzlvUkp4aVJsTG9sZkRzQ3VmSEZORzBxbC0tVUFzbnZ2MjNwenpxT3VjVHVEYjQ0STNiS20wcDRwckZSVENjYm1iemdPcjdVQWVMVWp4d1RwNjBWRjI2bUpqM1paRTFRSnREQmE3aXNQMjlN?oc=5",
+        "published": "2026-11-01T05:09:21",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "Cursos gratuitos en Madrid para aprender a buscar empleo con inteligencia artificial - Business Insider España",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORlo1TVA4Mm5tMEk2NlZkaU90WUEwMGltN3BrQWtDZ0JfRUU2cDdhQ25HUkVScEg2TlgtLW9KSG9Ddm9wZTU5eUhrdjl0aXRnMlZKM2ZHaHRpNjZFMkhuSnZDZ0MwUGw1UmNSVzNVNFhJN3VXM1ZQUVpTOTNvODFIdEY0eFNEcXc4QmY0SU96ekFKYzNrT3pDdm5GaHAycThQUmdwVy1NT3J3SVdNRXBzSlY5S2wxeldZQ1E?oc=5",
-        "published": "2026-10-24T15:05:00",
+        "title": "Cómo usan los partidos la inteligencia artificial en las elecciones: entre la persuasión y el engaño - Información",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMWdfQmdsSVFDSERxUVpKdWUyOXNENlkyWC1LdldLZ0M4Z0pmOUZyVEctTVAzalhMNXBqS25FQkx3M2ZGUXp6TGg0LS11Rjh1bTgxdlRtaGJ3WWo2cjdQbFFhTGRsT2RzWGNlc3BRN01WakVNWlNibkRpelpLR3MtOTlwVTZrQkR3VjAydl9reTRiYVVBalpvX3VhY3M1NjZ5bklPTzhkOXbSAa4BQVVfeXFMTnJYWGVtMk1TR2luVG83VzRXckc0QVg1SU5MR0pFaThoTzg0UHg1VFBzbDhFd2UyXzRDYlZ6VXA2S0Jsem8wTWEyc3Z3bnRENERmYnpTNEhWMmlQS0NtblNoZHpOVmZxaFdaQmM4TnVjSzdPTUpjS2hMZGJiZUc3Vmo1b3RCUE1WcUlTdVdWeFpuUGM5RXQzbkRSQ3NSSW81anlfRVVrRC1wczBqTkJn?oc=5",
+        "published": "2026-11-01T05:01:16",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "Cómo convertir la inteligencia artificial en inteligencia artesanal por Manuel Ruiz Moriche - Sotogrande Digital",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPQWlVTVE4NVRHWEtGNTBWRHVKdHRpUmdPdVRLUHVVUGNhT09WZThNendTcXR5VzU2WE9pdFlwVlNpb0dNbmFlMGRpYzM3c1ZveG9mY2JtUHI4RVItMXdHdEpnNWNNM2kxWUZMZktjVXA3dW9zOFhBc3hkcFZvTHNiY2NJN29BZ01tLWVCREE3MzhrTTFGbURqNVRDS2h6QW1ZMG45LV9NYnFUMnFGUXVnb1ZROF9rb25zakxTT29xNGtvZGdhNGgyUkZRakdncXBlcm5TMVZyQUpCN1c2WF9Kc1NacGlUanpZWkRseUFSQUZEV3d1WExPYUZwaEHSAYICQVVfeXFMT0F3dWRWUDZ0UlpZR0N0clBRbGUzMXJmLWU3NF9aMmd0Y05EVnc0QjFnbkRiTU5pSEF5VFdOU1VaN1NfczRPWGEyZ2lWbDFmWks3MFNMOTRDM2E3Y0JNNjB6Y1VHbXM1WlRVak5HWFBETWRvUXRRbGlQSXZPSHZWUC1BQVM5dFJoWG9aX3o5QjlZWXp4RXFHdmNMbXA4ZnBZbVRORVhfa1pZWjlyNXpoQXp3WTFNLUY0UmRVbHRhTkFvRXB4OV9GbzJvS3FDZmwxeDZJbkJlWEZPcVdLYTNnaW1GQnU0MUhWX2psUndFd2M4WWZFckdLZ0U5YWhGTk9xYVNB?oc=5",
-        "published": "2026-10-24T13:25:28",
+        "title": "La inteligencia artificial llega a las grandes editoriales internacionales... mientras ellas lo niegan en público - La Vanguardia",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzlsbEpFaV83bmgxb2Zwa01wMm4zQzNPUjhPUkRDOFk1dmdDbThuY29ubFlPZmktOEhPUGJaOEszZDY0bi1yZExRMDMzejdkeElpMm02U3pFOHg1VW9MZVhhdUxRTUdqRHpGYllUUjN1M0Q0b00wU2pDNnFmYkstcnJVOV9pREZPN2hyWko0R3pGLXliQzRlQ1VNTjR5cUVVSkl1cW9iOTduYVJ0dXZKdnk4VjhZMVVHZnp2QW93Q1NvR29YcmVXZVh6WHV5ZThmTm5nODVvbmwwQWvSAdsBQVVfeXFMTUc5bGxKRWlfN25oMW9mcGtNcDJuM0MzT1I4T1JEQzhZNXZnQ204bmNvbmxZT2ZpLThIT1BiWjhLM2Q2NG4tcmRMUTAzM3o3ZHhJaTJtNlN6RTh4NVVvTGVYYXVMUU1HakR6RmJZVFIzdTNENG9NMFNqQzZxZmJLLXJyVTlfaURGTzdoclpKNEd6Ri15YkM0ZUNVTU40eXFFVUpJdXFvYjk3bmFSdHV2SnZ5OFY4WTFVR2Z6dkFvd0NTb0dvWHJlV2VYelh1eWU4Zk5uZzg1b25sMEFr?oc=5",
+        "published": "2026-11-01T05:00:00",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "The Download: testing six tech promises and biotech’s blind spots",
-        "link": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-        "published": "2026-10-23T12:10:00",
-        "source": "technologyreview.com",
-        "summary": "By Thomas Macaulay archive page October 23, 2026 This is today's edition of The Download , our weekday newsletter that provides a daily dose of what's going on in the world of technology. A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. The Download: testing six tech promises and biotech's blind spots | MIT Technology Review Skip to Content Menu MIT Technology Review MIT Technology Review The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review MIT Technology Review The Big Story Artificial intelligence Biotech & health Climate & energy",
-        "category": "Hardware"
-      },
-      {
-        "title": "Inetum obtiene la certificación ISO 42001 para su sistema de gestión de la inteligencia artificial - RRHH Press",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQelFmY1VxUmoyVk9uaGYwZ2tqR1dVX2ZqTUpDMENuSHBoOThnVGtzX1FiQlJEZU41dUUzX1I4X2VYWkN6VXJ2cXpXYUJtUkYzUXRaTFlic1ZxXzA4a0hYa0ZZZzBUQ0VCU2NBal9EdzR6ckFqbWFGRTNQcGtyWHo0NVNFVnNzTnZ6QV8ySXU2cnZrN0lTRkZfbnZoMzROX2MyV3doWmhGUzJiMnVXc3c?oc=5",
-        "published": "2026-10-24T13:15:18",
+        "title": "De Cuba a un pueblo de Zaragoza para crear una inteligencia artificial que protege los datos de las empresas - heraldo.es",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY0Z3cnM3WWh6bzlyUmFNZV9ob0dVNkRnUUZrcmJlSEE1RnhLS2swYUhsaTVIM0dfMzZVMzktYTNFTDdFa2Z1b1FZZXNmSlFEUkJVcTZXMWhydTRPNkJMc09zLUNtWGpCMEY5RHlpUmdlZDJIX3ZQbnBEdF9FNjAxN2ctampscjJGRFdwb2lxeTFmTlYzRUxfTU8zZlpKbVVQMEhKZHE1LVNZNUs5M2o4aG8xS3NrVm1hc0NSNnNnb3pJdFRUblMxX0JpMHkycXdjbWtWX1Zwb2pIcFVNVnc?oc=5",
+        "published": "2026-11-01T04:00:00",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "La inteligencia artificial entra en las decisiones laborales: qué deben explicar ahora las empresas - CatalunyaPress",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQam5oSjBhN1ZhMG5UamtaM0E0ZUVtRVd2YjVLbG1ZN3ZLSWtuZkhSZnRIY2l3Q3FTWmI3emVmeVhXdEc3N2pKSFdHS1p0dVJCcWdVcHRPUFhWSHZ3YVBBamdTUUFteXhKV2Judi1XZUFSb3VyTWpYOXM5cFRSLWQ3dmJxNjhnMDJIWUFvNHhSY0hiMHlfWmZnY3lkVi00QzZfZFBpZkt5Qk5ZQWtPNjhKY094S0FQY1VsNkZ4NnhkU2xxM1Y2emstWEs0OTRPT2tGS2tkMzdoeDkwTi1TQ3JSaA?oc=5",
-        "published": "2026-10-24T12:00:00",
+        "title": "El mercado retira el cheque en blanco a la inteligencia artificial - Finanzas.com",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEFYX2ZuVDVIQVpkUEY0MnRDNHBXb1hFRnNSUjBoYWM3b1dLN0FEamlRSmUxWGkwQWtpdFMzZGx4Q2dyR0kwY01VQUdrRzVJNzdvY3RISVFIZ3E1UC1hVDZjbUhZeFZzUGk2emRLV2hULVI2SjUxNWd5MUNSUVdKcE80ejM1VTV2cHdoMHhfbmJ4em9iVmNBYWJlONIBmwFBVV95cUxQbEFYX2ZuVDVIQVpkUEY0MnRDNHBXb1hFRnNSUjBoYWM3b1dLN0FEamlRSmUxWGkwQWtpdFMzZGx4Q2dyR0kwY01VQUdrRzVJNzdvY3RISVFIZ3E1UC1hVDZjbUhZeFZzUGk2emRLV2hULVI2SjUxNWd5MUNSUVdKcE80ejM1VTV2cHdoMHhfbmJ4em9iVmNBYWJlOA?oc=5",
+        "published": "2026-11-01T03:55:00",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "Por qué los estudiantes de Medicina tendrán que estudiar Inteligencia Artificial para el MIR - Redacción médica",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTllDWnhCcDcxNlkzNG1jVDJ5Rko1LTROX3I5cFdHbndSOFZET1puaEtidUxzNkFMNGxsRmp1bnVqVkN0OG9zS0NjQlpWeUtwWDUwM3FMOVg2WjdmeEJxY3gtdVJqS044WHpVVXlZRk80VWhvcVlHUHlkNmY0eDVfWUZRaXltSURXYUNrblotalpxWDd3MGc3dTBxcm8xRlBjZlQtM1BTZmF5NEV1RE0zZXFqc1JNekpPSkdNTW1yRkFYYk9VRWZSa3pTMTBfd3dtN29rbmhBS0F3ckx5ZkJJd3VFN0FxVXg3WTVXZllWek1OSUpTRWY0dtIB_gFBVV95cUxQaXRHYjZ4ZWZla09vWDk4QXEzVWJrUUlTb3VmdUNJVnNfZWpjdWFpaWlaRVJYLTVQOUI2cmszbTVncUJGbFF6cXpjT2pPLURJc3YtdlFsQjJ4WU1vVjZuWTl2Y1E1SnBRYld4YkJqT2JqaGNRajFaaVJLaTFwMWZpRFphMEdTbTZ2dHFyMHI3cjhHczFiM0puTGdlWHotVE9lOFNGYXFhSXVjLWNLRHUyYUNGUDdZbi1CSV8tQlVOdTFCVFVUeE1QcW1LVEY5RFk2Zm1Pamk4Mkw3dUVrWHIzV2cxMFBTSFdvVzVmb21UYWxST3NfdnRHd2dNME9yQQ?oc=5",
-        "published": "2026-10-24T11:30:37",
+        "title": "La inteligencia artificial aumenta los gastos de las empresas - MUNDIARIO",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQREl5X2dEX1hYbTYyaVIwaTV1dUVMdWpCeUZ0ZVVScXRxSmVWOUJoTnF1OWkxalEwVG5hY2Ztenh1RTI5Y0wyTDE5NlFJUW8wcmtZOW5yVVQwbUJNMkVsLUJVZWIyVHFvTUJpZmRDM0RrWEV2WjBUMVItNXdtRlVCcE1hRXJqYUp0cWFrZFBrcmdzdWdkdS1ad2F6NVZSRnNWMFVMeE9IaW5vOHN3dzMyUHlUU1RPdlMtX2fSAb8BQVVfeXFMT2EwMF9tdW9vczVLWmlwZkZNTzZfRk44VUlnbzZZZF93cGF1Q0NtNG5sOWpLTHlobU1kemNnZkpLMXA1elN3d1VRajY5cS1SMnpQVS1sLWdsS1RPWDNrRTlKdzV2enoxdGFRRG9tbmlTUmxaNFBnblM4NmU1bVptXzd1by0yNFlKLU5EMHpRVWZRVUdIZnU3ZWxXcTFsOFVyemdjWmhBQVZOS2hCalMwS3dFeXM0LU5McmhRSmlPRTA?oc=5",
+        "published": "2026-11-01T01:32:14",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "In the biotech world, you can’t see everything",
-        "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-        "published": "2026-10-23T09:00:00",
-        "source": "technologyreview.com",
-        "summary": "By Jessica Hamzelou archive page October 23, 2026 Courtesy of A24 EXECUTIVE SUMMARY Earlier this week, I attended a screening of You Can See Everything , the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes. I’d avoided spoilers (and won’t be giving anything away here, either!). In the biotech world, you can’t see everything | MIT Technology Review Skip to Content Menu MIT Technology Review MIT Technology Review The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review MIT Technology Review The Big Story Artificial intelligence Biotech & health Climate & energ",
+        "title": "La inteligencia artificial abre un nuevo frente industrial para el oro y la plata - ABC",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNEpEUWxJNkhiMm5BUmdEeEZ2ekxHLW8wR0NCcXRsRzFyQ0EzRnB1a3RhYkhEYndOa0YyVjBnMUZkdmVWVHA3NWxQTzFnZFVjZlFzSFFPYkRTUEJDUF9nY0k4Z0dYbElnUFVQelVJT3VWTU5jWTR5OExJQTNwUGlkSFlhcGVGdWVUQk05ZHE3OWJxZ3k1QTVrZWNiLVpnaHBDRHMxNnMyZ1NIT0HSAbABQVVfeXFMUEtaVUFRa1FIRENBemx1N21XV1hpakRhX3NkLUlyb0E2b0k1TkxEYXB2QW5RUjN4U0ljWnVnczZYckJQWmtPZ3RWNGNxZHdnRXJ3NzVsMVF4WF96YzRtTTgxTmRJOENFS0JIeGhxT3piQ1lyLUVkdjRLUDMtNzAzTDhkdzJHYmc4czlNQk1yRXZBdGtSSUl3cTVaSXV2OG1ZTENDOTZJOXYtVWt2RXlBUjM?oc=5",
+        "published": "2026-10-31T23:04:00",
+        "source": "news.google.com",
+        "summary": "Google News",
         "category": "Hardware"
       },
       {
-        "title": "Los memes, la inteligencia artificial y los ‘jingles’ triunfan en la intensa campaña electoral que Brasil libra en redes sociales - EL PAÍS",
-        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbk5GaFlnSXNuWDI2a0JyZWNET0hXNUloRGNUa1FsUXYxN1dFZ3JOQ28yVEVfWm52ZDZJcmd2ejZhV3dvdUI5a1BlcGtKaDQweXJVXzVId190T0Y3TDFKcDltNGhOLU8yMzBJLWpZWGZGLTJDZTk2YURrWnRhOVpubXRZTDNCZnJIY242VnRnalUxaFIwaEVEbWpNbW85VjZaNXB5czZEb3JTOHZQT0k2UDU0VDljQzVCT2EwdEtlWGpUblVweDFjLWFwQ2dVbFBnbHdiU1QwM2RySmtMVTBHSzAxeDFFcVYyX1FZSTh6SXJhcEZXV0pGaG4zX0dkQ20wZzJjUHZaSGNycDBrdUlLc2NR0gGSAkFVX3lxTE1uTkZoWWdJc25YMjZrQnJlY0RPSFc1SWhEY1RrUWxRdjE3V0Vnck5DbzJURV9abnZkNklyZ3Z6NmFXd291QjlrUGVwa0poNDB5clVfNUh3X3RPRjdMMUpwOW00aE4tTzIzMEktallYZkYtMkNlOTZhRGtadGE5Wm5tdFlMM0JmckhjbjZWdGdqVTFoUjBoRURtak1tbzlWNlo1cHlzNkRvclM4dlBPSTZQNTRUOWNDNUJPYTB0S2VYalRuVXB4MWMtYXBDZ1VsUGdsd2JTVDAzZHJKa0xVMEdLMDF4MUVxVjJfUVlJOHpJcmFwRldXSkZobjNfR2RDbTBnMmNQdlpIY3JwMGt1SUtzY1E?oc=5",
-        "published": "2026-10-24T09:30:00",
+        "title": "Antonio Fonfría: «La inteligencia artificial también juega en los presupuestos de defensa» - cantabria directa",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaU5uRkRUOV9qNWpxWDhuM0NwREQtcHFfOUJxMnBsZThTUlhEVlBSREhnZFBZZ2JvcVZ6UkQwenBIZDJBSlFDbmZmRUx6ckpIekVBakIyT0JWeVJrMTZ1WW5QNUNyYzhRZjJPN2hucVVVRHk3ZmFhemQxTmZpYTRGYVhkc0ZUSzg4WDhtTUVsME82RnBEanhac241bWJhQ1hBZTNJV1JSaFRHQ0hrWXpVX3VTX0dSUEZZVXRWNDFMTHA5dU84aEtsRzV1d0dUTGJ0OFVOdzJSclpIOElpMDNxWQ?oc=5",
+        "published": "2026-10-31T17:59:43",
+        "source": "news.google.com",
+        "summary": "Google News",
+        "category": "Hardware"
+      },
+      {
+        "title": "De la inteligencia artificial a los satélites: diez startups de Castellón buscan captar inversores para crecer - El Periódico Mediterráneo",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUm04LVJsMHhtdkJxQjN0d3lmQ0tWd2lGa3JYX1ZONE56dlVnSHlZbThRbW42Wk12VlZRVmRDYUQyR2lTSGNmRDVVUEM3UjM4S1czLW42S2FLRXR0LWF5aWp3OUYyazJCeVdWRmtwVlhXaFFLYVJlT1psOUIzQ1F1Mk11UjhTSmFGZkR0Wlk5eXhaME9qXzlla0Q4amlHN0szOWc2UkhCUVAzOURNLThISGQzY29IV25rX0x5VFBoTElkVldLcmNsUUZNRUrSAdIBQVVfeXFMUE9RRkxINi1KUjZITUZGTWoxMEpPSGczLUVJamNGV0RWeGtFdDlXZER4LVBUTU1mb0E4SDU0NGh6WUEzcUJRcGszelE2NDcwMURJQkRJem1zeXRBZnJaU3l3YTNlNUpDTi1BTl91RjVoZnlqdTFvOGpyMXktVFRMRE5PQUhQWmN0S1Q0REpuaG1yYzdpcnYtdmE0akYyaWtRZHZXeEpySU5vYUg1dlR0ZXZyRGdsX2VUbjhaaWVVVzB4YXVweWtZZFdsb2lKbkVlLUJR?oc=5",
+        "published": "2026-10-31T17:32:33",
+        "source": "news.google.com",
+        "summary": "Google News",
+        "category": "Hardware"
+      },
+      {
+        "title": "La factura de la inteligencia artificial inquieta a Wall Street: invertir más ya no basta - MUNDIARIO",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeWRxUy15a2Z5cGNHZU9SYU5IWDdaNmVIaGE5ZDJIdGhDdjhsMHNpUTd0Q0VEX0MwSVRzY0xLVFNkRDI5SWJWbUdBQk94MnU2bVIyTkp1NXo3U3FQeXczSnAweU1ReVNNalFvemgteXYxWWM4N3owOW9FdzFVU2hsN3pYdFAzQWk5VEpuOGFabnItR3p2cUhkMWRmZmU1OGQwUmlLQzRtWGZEVE5kZmVJRVNJNzFiT3AzcFJUM2MtYUpDR2VoWlpwRFhGbkzSAdIBQVVfeXFMUEYwSHh0OXY2bzNNMmphNkZycFFqN3hnc2NRMGxFSVJWeUhvZmlkUEI3MzlHbS1HNDFjS0hGWGcwRkhrMGdEdFdxX0FlblllT1RiVWFhYTFDRXRlVlhzV2tmZVg4N3pLZ0lMRlpScGFxRXZZd0lSRVMxZ09UU3E5eDNjN2tUc0V1SnBZYmRSWllJTWZESnN4c05mSGFGY05GOGpBNWV0aUVyX1FROU4wWjRhRVdGVHJmSUlFWW1OOFlnVmN5Z2JmWldzc0p0ZW1FNG9R?oc=5",
+        "published": "2026-10-31T16:44:42",
+        "source": "news.google.com",
+        "summary": "Google News",
+        "category": "Hardware"
+      },
+      {
+        "title": "\"Tesis\" explora cómo la inteligencia artificial, el turismo sostenible y la historia de la ciencia transforman el conocimiento - Canal Sur",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0cyTE9qSWxRNnl4MkI1cGc1UWFMU2VncDlUaHFoVmpqVWRYLU14MF9Md0VxNS1nNW14RTlTdThORHI4NEV6ekJYSDBGdXhEYWM1c081cGVQLTdrRUdqQ0JHNC1oOGh4bHhiam9CN3R2NEM4elJORVdmV2lsQy10eEFBSjdpb3BiZkVyMURyUjVJbEEzWlRXWkFKN2J0dWk2Y25mRA?oc=5",
+        "published": "2026-10-31T13:19:47",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Hardware"
@@ -564,123 +493,123 @@
     ],
     "Mercado": [
       {
-        "title": "Jeanette Winterson, escritora, sobre los hombres que dirigen la IA: «No tienen cultura. No tienen filosofía. No tienen historia. No tienen ideas» - La Razón",
-        "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQM2RTbzRGZ3gwdkpyaUFPNkhEcU1ZMzhZa01fOHJHNXR6QkF3aVNhQkNIWUxDTFZGN2VXNG1qNWFraDdCcjA1dDZmRUVIMlROVVMtU2FjajlaUDV1SUgxYVB5SEdFcDNsVkMwUEktWDFvbUtYRmpDV3hCTDZxVEtjT1RoLVUxeU55Z0NPb2IweEFBMF9UZTFtWWdiaERqME9XTXU2aTZsaU9IZTZUNnUyZVU5aTVmVk15NndOWHZRckJKR2ZpUC01bnoycG9YYVh6LXMyblZwbmJRQllOMENCbWx2bk1sY1B5UGlqZHNWN0wxak9DVmYzMFF1S0dWdUVqbko1N2RHd3ZZNjVCLV9KTTYtbnE1TTVjX1liT2hMZGxaTGZ2Vk54TUtQMldCTWFDWGhaZEk1YmZzZklSdWJRSVhROHhyT1k?oc=5",
-        "published": "2026-10-24T07:30:00",
-        "source": "news.google.com",
-        "summary": "Google News",
+        "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+        "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+        "published": "2026-10-30T09:00:00",
+        "source": "technologyreview.com",
+        "summary": "Emerging evidence suggests some people with eating disorders are misusing weight-loss drugs. By Jessica Hamzelou archive page October 30, 2026 Sarah Rogers/MIT Technology Review | Getty Images EXECUTIVE SUMMARY GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. Eating disorders—along with the pressure to look thin—were already prevalent in the 1990s (the heroin chic era springs to mind).",
         "category": "Mercado"
       },
       {
-        "title": "Una simple foto del rostro puede dar pistas sobre la supervivencia de un paciente con cáncer. Esta IA busca encontrarlas",
-        "link": "https://www.xataka.com/medicina-y-salud/simple-foto-rostro-puede-dar-pistas-supervivencia-paciente-cancer-esta-ia-busca-encontrarlas",
-        "published": "2026-10-22T19:00:11",
+        "title": "Hasta ahora, las apps de siempre solo podían hacer lo que sus creadores querían. La IA está dinamitando eso",
+        "link": "https://www.xataka.com/robotica-e-ia/ahora-apps-siempre-solo-podian-hacer-que-sus-creadores-querian-ia-esta-dinamitando-eso",
+        "published": "2026-11-01T13:01:28",
         "source": "xataka.com",
-        "summary": "Aquí la evaluación dependía del ojo clínico del especialista, pero ahora se está trabajando en una IA para poder leer con una precisión asombrosa nuestra cara para sacar un perfil. Una simple foto del rostro puede dar pistas sobre la supervivencia de un paciente con cáncer. Esta IA busca encontrarlas Los oncólogos necesitan saber qué tratamiento dar a sus pacientes, y una IA puede echarles una mano 3 comentarios Facebook Twitter Flipboard E-mail 2026-10-22T19:00:11Z José A.",
+        "summary": "Hasta ahora, las apps de siempre solo podían hacer lo que sus creadores querían. Para competir, los desarrolladores fueron engordando sus apps hasta niveles a menudo absurdos. Así que ahí estabas tú, con una aplicación que te servía para una cosa específica y que añadía otras mil funciones que gastaban recursos en balde.",
         "category": "Mercado"
       },
       {
-        "title": "Alemania pone en aprietos el Modo IA de Google: cuando en el resumen no hay enlaces, la opinión es de Google",
-        "link": "https://www.xataka.com/robotica-e-ia/alemania-pone-aprietos-modo-ia-google-cuando-resumen-no-hay-enlaces-opinion-google",
-        "published": "2026-10-23T17:30:08",
+        "title": "El negocio que Anthropic promete a sus inversores vale 40 billones. Es lo que cobramos quienes hacemos lo que quiere hacer su IA",
+        "link": "https://www.xataka.com/robotica-e-ia/negocio-que-anthropic-promete-a-sus-inversores-vale-40-billones-que-cobramos-quienes-hacemos-que-quiere-hacer-su-ia",
+        "published": "2026-11-01T10:01:31",
         "source": "xataka.com",
-        "summary": "Este resumen, denominado AI Overviews , generalmente comparte también una serie de enlaces para que nosotros podamos comprobar de dónde ha sacado la información. ¿Quién se debe responsabilizar cuando la IA de Google afirma algo sin esos enlaces como apoyo? Alemania pone en aprietos el Modo IA de Google: cuando en el resumen no hay enlaces, la opinión es de Google Webedia Xataka Menú Nuevo Suscríbete a Análisis Xataka Selección Ciencia Movilidad Magnet Premios Xataka WhatsApp Tiktok Telegram Instagram Youtube Twitter PARTNERS Innovación Volvo ¡Vota por tus favoritos en los Premios Xataka Verisure 2026 HOY SE HABLA DE China Elon Musk NASA DANA iPhone 17 GTA VI Café IA Panel solar Thriller Alem",
+        "summary": "El negocio que Anthropic promete a sus inversores vale 40 billones. Al menos para cualquiera que no sea abogado, economista o un simple entusiasta de las páginas salmón. Al mismo tiempo ese tedio de cientos de páginas es lo que los hace más interesantes, porque en lo aburrido es donde las empresas se permiten ser sinceras .",
         "category": "Mercado"
       },
       {
-        "title": "Telefónica e Indra estudian la creación de una 'joint venture' para servicios de nube soberana en Europa",
-        "link": "https://www.eldiario.es/economia/telefonica-e-indra-estudian-creacion-joint-venture-servicios-nube-soberana-europa_1_13610506.html",
-        "published": "2026-10-23T14:42:32",
-        "source": "eldiario.es",
-        "summary": "Telefónica e Indra estudian la creación de una 'joint venture' para servicios de nube soberana en Europa Hoy hablamos de... Verás las noticias de esta portada en el módulo de ediciones locales de la home de elDiario.es. TARJETA CADUCADA Por favor, actualiza tus datos de pago para que podamos renovar tu suscripción y sigas siendo socia/o de elDiario.es.",
+        "title": "The Download: AI agent tracking and climate feedback loops",
+        "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+        "published": "2026-10-29T12:10:00",
+        "source": "technologyreview.com",
+        "summary": "Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI, a nonprofit advancing best practices in AI governance. AI agents are taking unauthorized actions, from hacking websites to accessing private government files. As agents roll out across critical sectors, from finance to government to medicine, we must be able to monitor them in real time to prevent potentially devastating consequences.",
         "category": "Mercado"
       },
       {
-        "title": "\"Me avergüenza trabajar en Google\": los empleados que renuncian por el desarrollo de la IA con fines militares - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwNEFSY2ZHZWhjNWVnZi1MMVJyNVYyTjBzSkdWZTJMVkl1R0l1R3FTSEtxejdNTEwyZklkWlByaFN2VkVKVENhbmM5Qm91NWJoTmdhSVZsWnVCVHlY0gFiQVVfeXFMTXJpVlZ4Q3lRU0tJc29lSTgtWm9SNVJ3OUhyT3UtQlFweXlNTkhQUTZkclJTREhrTHB3RFBTREZsTDZ1NC1kNjB4ZkpHQ0l6SS1nZDR3UkdZaGVudXVIVFNLQXc?oc=5",
-        "published": "2026-10-23T09:55:07",
-        "source": "news.google.com",
-        "summary": "Google News",
-        "category": "Mercado"
-      },
-      {
-        "title": "Almeida está revisando vídeos de Sol frame a frame para descubrir posibles delitos de los acampados por la vivienda",
-        "link": "https://www.xataka.com/magnet/almeida-esta-revisando-videos-sol-frame-a-frame-para-descubrir-posibles-delitos-acampados-vivienda",
-        "published": "2026-10-23T08:39:17",
+        "title": "Samsung vende la memoria más cara que nunca. Uno de sus clientes más perjudicados es Samsung",
+        "link": "https://www.xataka.com/empresas-y-economia/samsung-vende-memoria-cara-que-nunca-uno-sus-clientes-perjudicados-samsung",
+        "published": "2026-10-30T16:01:30",
         "source": "xataka.com",
-        "summary": "¿Qué garantías tiene quien protesta cuando hay un algoritmo mirando? El Sindicato convocó la manifestación del 26 de septiembre, “Ni una Maricarmen más”, y al terminar la marcha muchos participantes montaron tiendas en la Puerta del Sol. El 7 de octubre, María del Carmen Abascal fallecía en el Hospital Gregorio Marañón de Madrid y entonces el Sindicato anunció que retiraba su presencia oficial en Sol, pero la acampada sigue.",
+        "summary": "Uno de sus clientes más perjudicados es Samsung La memoria para IA ha dado a Samsung un beneficio récord. Samsung vende la memoria más cara que nunca. Uno de sus clientes más perjudicados es Samsung Webedia Xataka Menú Nuevo Suscríbete a Análisis Xataka Selección Ciencia Movilidad Magnet Premios Xataka WhatsApp Tiktok Telegram Instagram Youtube Twitter PARTNERS Innovación Volvo HOY SE HABLA DE China Sam Altman Nintendo Switch 2 Bill Gates Elon Musk Tesla Café Frío Frontera LG OLED Samsung vende la memoria más cara que nunca.",
         "category": "Mercado"
       },
       {
-        "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-        "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-        "published": "2026-10-19T20:21:53",
-        "source": "arstechnica.com",
-        "summary": "Credit: BRENDAN SMIALOWSKI / Contributor | AFP Text settings Story text Size Small Standard Large Width * Standard Wide Links Standard Orange * Subscribers only Learn more Minimize to nav On Monday, a court granted the US government’s request to deny release of a former OpenAI engineer accused of bugging a top-secret conference room to steal the frontier lab’s secrets. “Although FBI agents seized the defendant’s Saudi passport when they arrested him, there is nothing to stop the defendant, if he is released, from obtaining any necessary travel documents and fleeing the United States—with or without the help of a foreign government that has previously assisted its citizens depart the United S",
+        "title": "\"Estará al fondo del jardín\": compraron una casa a las afueras de París y ahora tendrán un centro de datos que consume cuatro veces lo que Disneyland",
+        "link": "https://www.xataka.com/robotica-e-ia/estara-al-fondo-jardin-compraron-casa-a-afueras-paris-ahora-paris-le-quiere-construir-centro-datos-que-devora-cuatro-veces-energia-disneyland",
+        "published": "2026-10-30T12:00:00",
+        "source": "xataka.com",
+        "summary": "Ahora, al otro lado de su valla, todo apunta a que va a levantarse un gigantesco centro de datos de 27 metros de altura, con decenas de sistemas de refrigeración y generadores eléctricos. La instalación tendría capacidad para consumir más de cuatro veces la electricidad anual de Disneyland París. Es la cara más cercana de una transformación que está llevando las infraestructuras de la IA hasta las puertas de barrios residenciales franceses.",
         "category": "Mercado"
       },
       {
-        "title": "La realidad virtual y la IA abren nuevas vías para mejorar los cuidados de enfermería - IM Médico",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWDBlOXhQcVRtOEFkUk02QUpvZVRVZFNYT25GWFBNLVMxNlVWSVBlQnNCX3NHLXhldE9MeDE2Rk9sdm11NzdxV0R6aW5aMzc2STVraHZTbXQ3c0Z1ZkpuQUN1SFFuS1c2eHlHR1pCZnJPX1ViaS1BS3NtSnZiaWFseEhiRGROOUtFUEcxRUp1Z1hzLV9OZlNvOXlEdFY2ZjhOYXl3eDE5YVpZaXFSR01ZRk40OGV4LXBkOWgyetIBvAFBVV95cUxOWDBlOXhQcVRtOEFkUk02QUpvZVRVZFNYT25GWFBNLVMxNlVWSVBlQnNCX3NHLXhldE9MeDE2Rk9sdm11NzdxV0R6aW5aMzc2STVraHZTbXQ3c0Z1ZkpuQUN1SFFuS1c2eHlHR1pCZnJPX1ViaS1BS3NtSnZiaWFseEhiRGROOUtFUEcxRUp1Z1hzLV9OZlNvOXlEdFY2ZjhOYXl3eDE5YVpZaXFSR01ZRk40OGV4LXBkOWgyeg?oc=5",
-        "published": "2026-10-23T08:00:00",
+        "title": "Meta, Google y Amazon podían permitirse derrochar en IA cuando el negocio iba bien. Google acaba de descubrir qué pasa cuando no",
+        "link": "https://www.xataka.com/empresas-y-economia/meta-google-amazon-podian-permitirse-gasto-colosal-ia-negocio-iba-bien-google-acaba-descubrir-que-pasa-cuando-no",
+        "published": "2026-10-30T11:45:00",
+        "source": "xataka.com",
+        "summary": "Meta, Google y Amazon podían permitirse derrochar en IA cuando el negocio iba bien. Y precisamente los negocios que las hicieron ricas no son el verdadero problema. Alphabet (matriz de Google) lleva perdidos más de 500.000 millones de dólares en valor de mercado en un solo día, y Meta y Amazon también han visto caer sus acciones tras presentar informes.",
+        "category": "Mercado"
+      },
+      {
+        "title": "Lo que un sector de la IA inestable significa para la OPV de Anthropic - Morningstar",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWIwRmxkb0E2Zlc3TW0zUU9acW5nLXZMNFFlVXFld3Y5WlozSUZhUHFFam1lMGdjYXFab21vSlBGMEVrcDM4X0xuWlJkMVVmLVNEY08tTUEzVWpjUUhHUGdNRHZpUkQyUlMzbFJEc0N2cm9scWNXb1VMVElmS1RTNnI1MVNSWEtKaGV2MHdKdlpPVmQ4WFhtM21uVXNuR2kxdWdIYmNWZE55LWUtTnpXX19hYw?oc=5",
+        "published": "2026-10-30T11:03:04",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Mercado"
       },
       {
-        "title": "Las empresas aumentan un 31% su inversión en IA, pero tienen dificultades para probar su valor - IT User",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWWtaYVdSVmxnR2V0b0d0ZThnN3JJR2JHbVI4dlVwb3M3MWFJOFA2WDZyMnIwNG9JNVZoMElXeVBpOVFYdEtfR1JPci0zdWZyLXZaZ2FZLU5Pd1JDUHBWQjBfYjFDMFVyM1VxbHpscC1vc2xCT3VCMDVISFNzZi1rdWhJanNiZDJMZ3VwWmw5dEtlMHJwcWtQeWNSLWk1ZUszNVJibHI0eldrUVVVWkU3dzlHUE8zWjNsVkVjbTB5TXNUdldFX0trbXpINE9pRVE?oc=5",
-        "published": "2026-10-23T07:05:00",
+        "title": "Pairing industrial AI autonomy and human control",
+        "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+        "published": "2026-10-28T12:00:00",
+        "source": "technologyreview.com",
+        "summary": "It was not written by MIT Technology Review's editorial staff. Most people associate industrial environments with cold steel and clockwork machinery. Functionally, though, a plant or factory is more like a living thing: It has a pulse, even a metabolism.",
+        "category": "Mercado"
+      },
+      {
+        "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+        "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+        "published": "2026-10-27T12:10:00",
+        "source": "technologyreview.com",
+        "summary": "By Thomas Macaulay archive page October 27, 2026 This is today's edition of The Download , our weekday newsletter that provides a daily dose of what's going on in the world of technology. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it is building and how it believes it will change the world.",
+        "category": "Mercado"
+      },
+      {
+        "title": "Bill Gates, sobre la transición a la era de la IA: \"Será uno de los momentos más turbulentos de la historia de la humanidad\" - Xataka",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmFWTDVJaDg5RVp0NXF6Tzc3SkY1eEdpaFFUWk5BUkZkU1RhTUlSSGJLSUtOTVpfSHdKdEJkRGEzemxvQzBTdUp6M2JJejdnQ3ZCeWM0LVg1SERnY09JYk04WWRaaVVhU3Q4eThORC14eDJ0dXVIbl9pX1I4SkV5Q1J0RU95T0czdVRxekg5UTQ2cUpKdUVnLUt1N3BLQUtQMVlLUHlwcWR5Njd5T2RCMFlObkxtWDU2X2NtTDhnVdIBxAFBVV95cUxNb3QzSnNGNjdfRnpValRSd3FEZzZIblJjeUgwMzd5Q0pwRTBqbGVqOTN3RHpCVUtpM2VNc3NqRGk5WXRXODJRcnlBMGJDVU1LQ05wTlI2ZHFrMVVBMnlNOU5fbDNtQ3ZOODJQSnI5WHhnak04NVd2dExWb2hudXFUV21FZC10MlAzUzBMaW9NVXhlNVZLOXJkZUI2TVlLc0dtb21NLVdtOWYxZFFyV3cwUG5US2JibExuNk0tMk1lZU5EeE0t?oc=5",
+        "published": "2026-10-26T18:15:27",
         "source": "news.google.com",
         "summary": "Google News",
         "category": "Mercado"
       },
       {
-        "title": "Tiroteos en la M-30, peleas en directo y secretos de Estado: Telegram y X hacen caja con una barra libre de estafas",
-        "link": "https://www.eldiario.es/tecnologia/tiroteos-m-30-peleas-directo-secretos-telegram-x-caja-barra-libre-estafas_1_13603354.html",
-        "published": "2026-10-22T20:11:12",
-        "source": "eldiario.es",
-        "summary": "Tiroteos en la M-30, peleas en directo y secretos de Estado: Telegram y X hacen caja con una barra libre de estafas Hoy hablamos de... Verás las noticias de esta portada en el módulo de ediciones locales de la home de elDiario.es. TARJETA CADUCADA Por favor, actualiza tus datos de pago para que podamos renovar tu suscripción y sigas siendo socia/o de elDiario.es.",
+        "title": "OpenAI ha descubierto que sus agentes de IA han encontrado la forma de hablar entre ellos a escondidas - Xataka",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUUVfeTRveXBWZFhYaHF0MGh2aTQ3c3RiekxWazRmUXpwRDlLWlBoR1hiWXpPSENnMFJKTmdCUkluRDl4U2J2UmMyNVRCWVBoamlQOXpLLUY4SjJuTHBVTHZXVk1EVy1qWHprM21pNVpBS09vU0pzSlNNV0NRRlZPSzdHZzMxZnBxTXZ6ZjE5a0ZlNHJJcEFldF96dnZPcm1ySEtLdFV4WjZKT1lvVVI1ODF4NFgzU0FsS3FxZVJhbTVCQdIBxwFBVV95cUxOSkxxWndreHhBOVdONmJuM3E3X2xBdHUwLTFUd0dZdU1SZ1FXLW50cWJEalJsb3ItcTBsYlJ1WU1oMXFwclBNRVZvdC0yOE93VDhaLTVjZWJoTkpDVjZEdlhHbVBHM2ZIdkY2Nm12ai05Tm13UGh4MUstQWwzdDB4RXBpM3B1ZUtobEtuZkUyaWtZaGRhS2VnS2xQSDhFMy1RQ3hxelhlMkFtYmwyYWxjOVpiRHNZUzY1aDJ6QVAzVmkyRTd3aUp3?oc=5",
+        "published": "2026-10-26T17:45:30",
+        "source": "news.google.com",
+        "summary": "Google News",
         "category": "Mercado"
       },
       {
-        "title": "Meta gana 20.000 millones más pese a la indemnización milmillonaria por enganchar a los menores a sus redes",
-        "link": "https://www.eldiario.es/tecnologia/meta-gana-20-000-millones-pese-indemnizacion-milmillonaria-enganchar-menores-redes_1_13605880.html",
-        "published": "2026-10-22T10:57:41",
+        "title": "Microsoft propone un plan de salidas voluntarias para 60.000 empleados, un cuarto de su plantilla",
+        "link": "https://www.eldiario.es/tecnologia/microsoft-propone-plan-salidas-voluntarias-60-000-empleados-cuarta-parte-plantilla_1_13616521.html",
+        "published": "2026-10-26T17:02:06",
         "source": "eldiario.es",
-        "summary": "Meta gana 20.000 millones más pese a la indemnización milmillonaria por enganchar a los menores a sus redes Hoy hablamos de... Verás las noticias de esta portada en el módulo de ediciones locales de la home de elDiario.es. TARJETA CADUCADA Por favor, actualiza tus datos de pago para que podamos renovar tu suscripción y sigas siendo socia/o de elDiario.es.",
+        "summary": "Microsoft propone un plan de salidas voluntarias para 60.000 empleados, un cuarto de su plantilla Hoy hablamos de... Verás las noticias de esta portada en el módulo de ediciones locales de la home de elDiario.es. TARJETA CADUCADA Por favor, actualiza tus datos de pago para que podamos renovar tu suscripción y sigas siendo socia/o de elDiario.es.",
         "category": "Mercado"
       },
       {
-        "title": "Barclays recortará 5.000 puestos de trabajo, el 5% de la plantilla, tras introducir la IA y disparar sus beneficios",
-        "link": "https://www.eldiario.es/economia/barclays-recortara-5-000-puestos-trabajo-5-plantilla-introducir-ia_1_13605681.html",
-        "published": "2026-10-22T09:31:46",
+        "title": "Anthropic registra oficialmente su solicitud para protagonizar uno de los mayores debuts en Bolsa de la historia",
+        "link": "https://www.eldiario.es/tecnologia/anthropic-registra-oficialmente-solicitud-protagonizar-mayores-debuts-bolsa-historia_1_13615888.html",
+        "published": "2026-10-26T13:51:25",
         "source": "eldiario.es",
-        "summary": "Barclays recortará 5.000 puestos de trabajo, el 5% de la plantilla, tras introducir la IA y disparar sus beneficios Hoy hablamos de... Verás las noticias de esta portada en el módulo de ediciones locales de la home de elDiario.es. TARJETA CADUCADA Por favor, actualiza tus datos de pago para que podamos renovar tu suscripción y sigas siendo socia/o de elDiario.es.",
+        "summary": "Anthropic registra oficialmente su solicitud para protagonizar uno de los mayores debuts en Bolsa de la historia Hoy hablamos de... Verás las noticias de esta portada en el módulo de ediciones locales de la home de elDiario.es. TARJETA CADUCADA Por favor, actualiza tus datos de pago para que podamos renovar tu suscripción y sigas siendo socia/o de elDiario.es.",
         "category": "Mercado"
       },
       {
-        "title": "El pozo sin fondo de la IA: Anthropic prepara su salida a bolsa con 80.000 millones en pérdidas",
-        "link": "https://www.eldiario.es/tecnologia/pozo-fondo-ia-anthropic-prepara-salida-bolsa-80-000-millones-perdidas_1_13602325.html",
-        "published": "2026-10-21T09:12:06",
-        "source": "eldiario.es",
-        "summary": "El pozo sin fondo de la IA: Anthropic prepara su salida a bolsa con 80.000 millones en pérdidas Hoy hablamos de... Verás las noticias de esta portada en el módulo de ediciones locales de la home de elDiario.es. TARJETA CADUCADA Por favor, actualiza tus datos de pago para que podamos renovar tu suscripción y sigas siendo socia/o de elDiario.es.",
-        "category": "Mercado"
-      },
-      {
-        "title": "Elon Musk estudia la fusión de SpaceX y Tesla en un gigante tecnológico de 3,5 billones de dólares",
-        "link": "https://www.eldiario.es/tecnologia/elon-musk-estudia-fusion-spacex-tesla-gigante-tecnologico-3-5-billones-dolares_1_13602071.html",
-        "published": "2026-10-21T07:30:39",
-        "source": "eldiario.es",
-        "summary": "Elon Musk estudia la fusión de SpaceX y Tesla en un gigante tecnológico de 3,5 billones de dólares Hoy hablamos de... Verás las noticias de esta portada en el módulo de ediciones locales de la home de elDiario.es. TARJETA CADUCADA Por favor, actualiza tus datos de pago para que podamos renovar tu suscripción y sigas siendo socia/o de elDiario.es.",
-        "category": "Mercado"
-      },
-      {
-        "title": "Un fallo eléctrico de Google Cloud en Londres deja sin servicio a Revolut en toda Europa",
-        "link": "https://www.eldiario.es/tecnologia/caida-google-cloud-londres-deja-servicio-revolut-afecta-banca-empresas-britanicas_1_13599838.html",
-        "published": "2026-10-20T11:03:28",
-        "source": "eldiario.es",
-        "summary": "Un fallo eléctrico de Google Cloud en Londres deja sin servicio a Revolut en toda Europa Hoy hablamos de... Verás las noticias de esta portada en el módulo de ediciones locales de la home de elDiario.es. TARJETA CADUCADA Por favor, actualiza tus datos de pago para que podamos renovar tu suscripción y sigas siendo socia/o de elDiario.es.",
+        "title": "La IA ya empieza a afectar al empleo en las actividades más expuestas - La Vanguardia",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUFRjTUJQdk5fUjZabVJNSEVsZllITVpobG1jSEZrU2dpR253ZmllOGVaUTJqN2kxR1dfUThwcTNDR3JwUVlOQmx6TzNSSzBnMzBqWHRPd3BSX1FOVWdRTE1DNzRfa1gzeFZqREFTWV9VXzc0OWF5UmJaazFnNU5VTi0tUHcxTGRmYVVQbEU0TjF4b0pPOUlVOVB1QklFSmd1aDcySEo5dGtSRU9HY0NiVlB30gG3AUFVX3lxTE15QXJBNGhjQjY3Q0ptM05pYllOZ0JraDhqSWxYSWJvbUJFMVRaZU9OSUt2d1F2QUlkXzI3ZXhmekxfOEJLdHlWS3prYkthdzU5OTBGOEpOVWw5UzM3ek5MU1k1VW9hUXFOdU1fakZ5dDQ4Y0pzWEhhMlRoSTZmOWg4eG43U1ItLThZdVRnV3gxWjFSMWNxVmFWSnE0d3hleHFNRkJ2VzhKZ2N4MmVOdVpVQzltWEYyYw?oc=5",
+        "published": "2026-10-26T05:00:00",
+        "source": "news.google.com",
+        "summary": "Google News",
         "category": "Mercado"
       }
     ]
